@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "purchase_limit_craft.dtd">
+<list>
+    <item shop_index="4" product_id="10007" product_name="Feudal Islet" product_item="99286" product_item_amount="1"
+          product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10008" product_name="Feudal Duty" product_item="99287" product_item_amount="1"
+          product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10" buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10009" product_name="Silenos Priest's Staff" product_item="99288"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10010" product_name="Silenos Claw" product_item="99289" product_item_amount="1"
+          product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10" buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10011" product_name="Ketra Orc's Battle Axe" product_item="99290"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10012" product_name="Orc Commander's Polearm" product_item="99291"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10013" product_name="Dragon Bone Blade" product_item="99292"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10014" product_name="Dragon Piercer" product_item="99293" product_item_amount="1"
+          product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10" buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10015" product_name="Maluk Berserker Blade" product_item="99294"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10016" product_name="Antharas Follower's Staff" product_item="99295"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10017" product_name="Guardian's Spear" product_item="99296" product_item_amount="1"
+          product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10" buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10018" product_name="Greatsword of Judgment" product_item="99297"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10019" product_name="Rapier of Insolence" product_item="99298"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="90907" buy_item_amount_1="10"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10001" product_name="Elixir" product_item="94314" product_item_amount="1"
+          product_item_chance="5.0" buy_item_1="94328" buy_item_amount_1="7" buy_item_chance_1="95.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+	<!-- TODO: Add remaining items
+    <item shop_index="4" product_id="10020" product_name="Transformation Sealbook: Ninja Assassin" product_item="91272"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91262" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10021" product_name="Transformation Sealbook: Blue Musketeer" product_item="91275"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91265" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10022" product_name="Transformation Sealbook: Valkyrie"
+          product_item="91279" product_item_amount="1" product_item_chance="30.0" buy_item_1="91269"
+          buy_item_amount_1="25" buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10023" product_name="Transformation Sealbook: Wild Wolf"
+          product_item="91278" product_item_amount="1" product_item_chance="30.0" buy_item_1="91268"
+          buy_item_amount_1="25" buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10024" product_name="Transformation Sealbook: Caravan"
+          product_item="91280" product_item_amount="1" product_item_chance="30.0" buy_item_1="91270"
+          buy_item_amount_1="25" buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10025" product_name="Transformation Sealbook: Purple Cowboy" product_item="91276"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91266" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10026" product_name="Transformation Sealbook: High Priest" product_item="91277"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91267" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10027" product_name="Transformation Sealbook: Blood Noblesse" product_item="91273"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91263" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10028" product_name="Transformation Sealbook: White Noblesse" product_item="91274"
+          product_item_amount="1" product_item_chance="30.0" buy_item_1="91264" buy_item_amount_1="25"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10029" product_name="Transformation Sealbook: Dragon Berserker"
+          product_item="91281" product_item_amount="1" product_item_chance="30.0" buy_item_1="91271"
+          buy_item_amount_1="56"
+          buy_item_chance_1="70.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10030" product_name="17th Anniversary Maestro Box" product_item="95633"
+          product_item_amount="1" product_item_chance="10.0" buy_item_1="99340" buy_item_amount_1="1"
+          buy_item_chance_1="90.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10031" product_name="Freeze Breastplate Pack" product_item="93797"
+          product_item_amount="1" product_item_chance="0.5"
+          buy_item_1="93841" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10032" product_name="Freeze Gaiters Pack" product_item="93798"
+          product_item_amount="1" product_item_chance="0.5"
+          buy_item_1="93842" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10033" product_name="Thunder Leather Armor Pack" product_item="93795"
+          product_item_amount="1" product_item_chance="0.5"
+          buy_item_1="93839" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10034" product_name="Thunder Leather Leggings Pack" product_item="93796"
+          product_item_amount="1" product_item_chance="0.05"
+          buy_item_1="93840" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10035" product_name="Flaming Tunic Pack" product_item="93799"
+          product_item_amount="1" product_item_chance="0.05"
+          buy_item_1="93843" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10036" product_name="Flaming Stockings Pack" product_item="93800"
+          product_item_amount="1" product_item_chance="0.05"
+          buy_item_1="93844" buy_item_amount_1="1" buy_item_chance_1="4.5"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="95.45">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10037" product_name="Legendary Dye STR +4" product_item="94853"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="19" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10038" product_name="Legendary Dye INT +4" product_item="94856"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="6" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10039" product_name="Legendary Dye CON +4" product_item="94854"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="6" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10040" product_name="Legendary Dye DEX +4" product_item="94855"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="6" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10041" product_name="Legendary Dye WIT +4" product_item="94858"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="6" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10042" product_name="Legendary Dye MEN +4" product_item="94857"
+          product_item_amount="1" product_item_chance="1.0"
+          buy_item_1="94328" buy_item_amount_1="1" buy_item_chance_1="15.0"
+          buy_item_2="92314" buy_item_amount_2="6" buy_item_chance_2="84.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10043" product_name="Frintezza's Necklace Lv. 2" product_item="91551"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item> 
+    <item shop_index="4" product_id="10044" product_name="Frintezza's Necklace Lv. 3" product_item="91552"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item> 
+    <item shop_index="4" product_id="10045" product_name="Frintezza's Necklace Lv. 4" product_item="91553"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10046" product_name="Frintezza's Necklace Lv. 5" product_item="99228"
+          product_item_amount="1" product_item_chance="4.0"
+          buy_item_1="91553" buy_item_amount_1="1" buy_item_chance_1="96.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10047" product_name="Antharas' Earring Lv. 2" product_item="91138"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>
+    <item shop_index="4" product_id="10048" product_name="Antharas' Earring Lv. 3" product_item="91139"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item> 
+    <item shop_index="4" product_id="10049" product_name="Antharas' Earring Lv. 4" product_item="91383"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item> 
+    <item shop_index="4" product_id="10050" product_name="Antharas' Earring Lv. 5" product_item="99227"
+          product_item_amount="1" product_item_chance="4.0"
+          buy_item_1="91383" buy_item_amount_1="1" buy_item_chance_1="96.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  
+    <item shop_index="4" product_id="10051" product_name="Baium's Ring Lv. 2" product_item="49581"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  
+    <item shop_index="4" product_id="10052" product_name="Baium's Ring Lv. 3" product_item="49582"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  
+    <item shop_index="4" product_id="10053" product_name="Baium's Ring Lv. 4" product_item="91381"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  
+    <item shop_index="4" product_id="10054" product_name="Baium's Ring Lv. 5" product_item="99225"
+          product_item_amount="1" product_item_chance="100.0"
+          buy_item_1="91381" buy_item_amount_1="1" buy_item_chance_1="97.0">
+        <ingredient id="91663" count="10000"/>
+    </item>   
+    <item shop_index="4" product_id="10055" product_name="Zaken's Earring Lv. 2" product_item="90764"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10056" product_name="Zaken's Earring Lv. 3" product_item="90765"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10057" product_name="Zaken's Earring Lv. 4" product_item="91382"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10058" product_name="Zaken's Earring Lv. 5" product_item="99226"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10059" product_name="Queen Ant's Ring Lv. 2" product_item="49574"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>     
+    <item shop_index="4" product_id="10060" product_name="Queen Ant's Ring Lv. 3" product_item="49577"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>   
+    <item shop_index="4" product_id="10061" product_name="Queen Ant's Ring Lv. 4" product_item="91378"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10062" product_name="Queen Ant's Ring Lv. 5" product_item="99222"
+          product_item_amount="1" product_item_chance="3.0"
+          buy_item_1="91378" buy_item_amount_1="1" buy_item_chance_1="97.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10063" product_name="Orfen's Earring Lv. 2" product_item="49575"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10064" product_name="Orfen's Earring Lv. 3" product_item="49578"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10065" product_name="Orfen's Earring Lv. 4" product_item="91379"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10066" product_name="Orfen's Earring Lv. 5" product_item="99223"
+          product_item_amount="1" product_item_chance="3.0"
+          buy_item_1="91379" buy_item_amount_1="1" buy_item_chance_1="97.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10067" product_name="Ring of Core Lv. 2" product_item="49576"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>    
+    <item shop_index="4" product_id="10068" product_name="Ring of Core Lv. 3" product_item="49579"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>   
+    <item shop_index="4" product_id="10069" product_name="Ring of Core Lv. 4" product_item="91380"
+          product_item_amount="1" product_item_chance="100.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  
+    <item shop_index="4" product_id="10070" product_name="Ring of Core Lv. 5" product_item="99224"
+          product_item_amount="1" product_item_chance="3.0"
+          buy_item_1="91380" buy_item_amount_1="1" buy_item_chance_1="97.0">
+        <ingredient id="91663" count="10000"/>
+    </item>  -->
+</list>

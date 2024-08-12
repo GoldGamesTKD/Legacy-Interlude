@@ -1,0 +1,1 @@
+ALTER TABLE `character_macroses` CHANGE COLUMN `icon` `icon` INT UNSIGNED NULL DEFAULT NULL AFTER `id`;

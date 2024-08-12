@@ -1,0 +1,1 @@
+DELETE FROM residence_functions WHERE TYPE=6 AND lvl > 8;

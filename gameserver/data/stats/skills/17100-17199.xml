@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="17192" levels="1" name="Change Hair Accessory">
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill0810" />
+		<set name="reuseDelay" val="180000" />
+		<set name="magicLevel" val="1" />
+		<set name="hitTime" val="200" />
+		<set name="isInternal" val="true" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="HIDE_HAIR_ACCESSORIES" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="isReuseDelayPermanent" val="true"/>
+		<set name="isSkillTimePermanent" val="true"/>
+	</skill>
+</list>

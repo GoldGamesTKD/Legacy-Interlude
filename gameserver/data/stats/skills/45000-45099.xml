@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="45000" levels="20" name="Item Skill: Stun">
+        <table name="#power">30 35 44 55 64 79 84 96 102 109 109 109 109 109 109 109 109 109 109 109</table>
+        <table name="#magicLevel">46 49 52 55 58 61 64 67 70 75 76 78 79 80 80 80 80 80 80 80</table>
+        <set name="levelModifier" val="1"/>
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill3080"/>
+        <set name="reuseDelay" val="0"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="activateRate" val="50"/>
+        <set name="effectPoint" val="400"/>
+        <set name="power" val="#power"/>
+        <set name="target" val="TARGET_ONE"/>
+        <set name="skillType" val="PDAM"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="nextAction" val="attack"/>
+        <set name="trait" val="SHOCK"/>
+        <set name="saveVs" val="CON"/>
+        <for>
+            <effect count="1" name="Stun" stackOrder="-1" stackType="Stun" time="9" val="0"/>
+        </for>
+    </skill>
+    <skill id="45001" levels="25" name="Tyrr Critical Stun">
+        <table name="#magicLevel">46 49 52 55 58 61 64 67 70 75 76 78 79 80 80 80 80 80 80 80 80 80 80 80 80</table>
+        <table name="#level">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 20 20 20 20 20</table>
+        <set name="icon" val="icon.skill3080"/>
+        <set name="magicLevel" val="#magicLevel"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="weaponsAllowed" val="64"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true"/>
+            </not>
+        </cond>
+        <triggers>
+            <trigger id="45000" level="#level" type="CRIT" chance="9">
+                <player damage="1;0"/>
+            </trigger>
+        </triggers>
+    </skill>
+    <skill id="45002" levels="25" name="Sigel's Protection">
+        <set name="icon" val="BranchIcon.Icon.g_rune_sigel_lv00"/>
+        <table name="#pdef">56 68 80 92 104 116 128 80 92 104 116 128 140 9 9 9 9 9 9 9 9 9 9 9 9</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pDef" val="#pdef"/>
+        </for>
+    </skill>
+    <skill id="45003" levels="25" name="Sigel Protection">
+        <set name="icon" val="BranchIcon.Icon.g_rune_sigel_lv00"/>
+        <table name="#maxHp">1.004 1.005 1.006 1.007 1.008 1.009 1.1 1.6 1.07 1.08 1.09 1.10 1.12 1.017 1.018 1.019 1.02 1.021 1.022 1.023 1.023 1.023 1.023 1.023 1.023</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="maxHp" val="#maxHp"/>
+        </for>
+    </skill>
+    <skill id="45004" levels="25" name="Tyrr Haste">
+        <set name="icon" val="BranchIcon.Icon.g_rune_tir_lv00"/>
+        <table name="#pAtkSpd">1.003 1.004 1.005 1.006 1.006 1.007 1.007 1.05 1.06 1.065 1.07 1.075 1.08 1.001 1.001 1.001 1.001 1.001 1.001 1.001 1.001 1.001 1.001 1.001 1.001</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd"/>
+        </for>
+    </skill>
+    <skill id="45005" levels="25" name="Othell's Focus">
+        <set name="icon" val="BranchIcon.Icon.g_rune_othel_lv01"/>
+        <table name="#rCrit">25 31 269 297 325 352 380 269 297 32 35 38 40 80 80 80 80 80 80 80 80 80 80 80 80</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="rCrit" val="#rCrit"/>
+        </for>
+    </skill>
+    <skill id="45006" levels="25" name="Othell's Mortal Strike">
+        <set name="icon" val="BranchIcon.Icon.g_rune_othel_lv01"/>
+        <table name="#blowRate">1.0014 1.0018 1.0022 1.0025 1.0028 1.0031 1.0034 1.22 1.25 1.28 1.31 1.34 1.37 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049 1.0049</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="blowRate" val="#blowRate" />
+        </for>
+    </skill>
+    <skill id="45007" levels="22" name="Yul's Critical Damage">
+        <set name="icon" val="BranchIcon.Icon.g_rune_yr_lv01"/>
+        <table name="#cAtkStatic">92 113 134 155 176 196 216 196 216 236 256 276 286 20 20 20 20 20 20 20 20 20</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="cAtkStatic" val="#cAtkStatic" />
+        </for>
+    </skill>
+    <skill id="45008" levels="22" name="Yul Guidance">
+        <set name="icon" val="BranchIcon.Icon.g_rune_yr_lv01"/>
+        <table name="#accCombat">2 2.4 2.8 3.2 3.6 4 4.4 4 4.4 4.8 5.2 5.6 6 1 1 1 1 1 1 1 1 1</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="accCombat" val="#accCombat" />
+        </for>
+    </skill>
+    <skill id="45009" levels="20" name="Feoh Magic Focus">
+        <set name="icon" val="BranchIcon.Icon.g_rune_feoh_lv01"/>
+        <table name="#mCritRate">1.003 1.004 1.005 1.006 1.007 1.008 1.009 1.10 1.11 1.12 1.13 1.14 1.15 1.015 1.015 1.015 1.015 1.015 1.015 1.015</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="mCritRate" val="#mCritRate" />
+        </for>
+    </skill>
+    <skill id="45010" levels="20" name="Feoh's Empower">
+        <set name="icon" val="BranchIcon.Icon.g_rune_feoh_lv01"/>
+        <table name="#mAtk">28 36 44 52 60 68 76 84 92 100 104 108 112 112 112 112 112 112 112 112</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="mAtk" val="#mAtk" />
+        </for>
+    </skill>
+    <skill id="45011" levels="25" name="Iss Acumen">
+        <set name="icon" val="BranchIcon.Icon.g_rune_is_lv01"/>
+        <table name="#mAtkSpd">1.003 1.004 1.005 1.006 1.007 1.008 1.009 1.05 1.06 1.07 1.08 1.09 1.10 1.001 1.20 1.20 1.20 1.20 1.20 1.20 1.20 1.20 1.20 1.20 1.20</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+           <mul order="0x30" stat="mAtkSpd" val="#mAtkSpd" />
+        </for>
+    </skill>
+    <skill id="45012" levels="25" name="Iss Wind Walk">
+        <set name="icon" val="BranchIcon.Icon.g_rune_is_lv01"/>
+        <table name="#runSpd">4 4.5 5 5.5 6 6.5 7 5 5.5 6 6.5 7 7.5 10 10 10 10 10 10 10 10 10 10 10 10</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="runSpd" val="#runSpd" />
+        </for>
+    </skill>
+    <skill id="45013" levels="20" name="Wynn Boost Mana">
+        <set name="icon" val="BranchIcon.Icon.g_rune_wynn_lv01"/>
+        <table name="#maxMp">1.0004 1.0005 1.0006 1.0007 1.0008 1.0009 1.001 1.12 1.14 1.16 1.18 1.20 1.22 1.0022 1.0022 1.0022 1.0022 1.0022 1.0022 1.0022</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="maxMp" val="#maxMp" />
+        </for>
+    </skill>
+    <skill id="45014" levels="20" name="Wynn's Lightness">
+        <set name="icon" val="BranchIcon.Icon.g_rune_wynn_lv01"/>
+        <table name="#maxLoad">1000 1400 1800 2200 2600 3000 3400 4100 4500 4900 5200 5800 6400 6400 6400 6400 6400 6400 6400 6400</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxLoad" val="#maxLoad" />
+        </for>
+    </skill>
+    <skill id="45015" levels="25" name="Aeore Magic Regeneration">
+        <set name="icon" val="BranchIcon.Icon.g_rune_eolh_lv01"/>
+        <table name="#regMp">1.00065 1.0008 1.00095 1.0011 1.00125 1.0014 1.00155 1.95 1.11 1.125 1.14 1.155 1.17 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="regMp" val="#regMp" />
+        </for>
+    </skill>
+    <skill id="45016" levels="25" name="Aeore's Heal">
+        <set name="icon" val="BranchIcon.Icon.g_rune_eolh_lv01"/>
+        <table name="#healPower">30 38 46 54 62 70 78 46 54 62 70 78 86 126 126 126 126 126 126 126 126 126 126 126 126</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="healPower" val="#healPower" />
+        </for>
+    </skill>
+    <skill id="45020" levels="1" name="Zaken's Cloak">
+        <set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="maxHp" val="1.05"/>
+        </for>
+    </skill>
+    <skill id="45048" levels="1" name="Glorious Cloak">
+        <!--
+        Max HP/ MP/ CP +10%%, P. Def. +5%%, M. Def. +10%%, all weapon resistance +5, M./ P. Critical Rate +20, received PvP damage -10%%.
+        Reflects 4%% of the damage received back to the enemy.
+        -->
+        <set name="icon" val="icon.vesper_cloack_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="maxHp" val="1.10"/>
+            <mul order="0x30" stat="maxMp" val="1.10"/>
+            <mul order="0x30" stat="maxCp" val="1.10"/>
+            <mul order="0x30" stat="pDef" val="1.05"/>
+            <mul order="0x30" stat="mDef" val="1.10"/>
+            <add order="0x40" stat="swordWpnVuln" val="5"/>
+            <add order="0x40" stat="dualWpnVuln" val="5"/>
+            <add order="0x40" stat="bluntWpnVuln" val="5"/>
+            <add order="0x40" stat="daggerWpnVuln" val="5"/>
+            <add order="0x40" stat="bowWpnVuln" val="5"/>
+            <add order="0x40" stat="poleWpnVuln" val="5"/>
+            <add order="0x40" stat="fistWpnVuln" val="5"/>
+            <mul order="0x30" stat="mCritRate" val="1.2"/>
+            <mul order="0x30" stat="cAtk" val="1.2"/>
+            <mul order="0x30" stat="pvpPhysDefenceBonus" val="1.10"/>
+            <mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.10"/>
+            <mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.10"/>
+            <add order="0x40" stat="reflectDam" val="4"/>
+        </for>
+    </skill>
+</list>

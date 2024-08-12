@@ -1,0 +1,232 @@
+[31.03.24 15:40:18] Pickup ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 108371 Y: -174169 Z: -408) 57 Adena (12)[268477116] Count: 12
+[31.03.24 15:50:03] Pickup ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 108689 Y: -174592 Z: -560) 57 Adena (7)[268477117] Count: 7
+[31.03.24 15:52:11] Pickup ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 108900 Y: -174514 Z: -560) 57 Adena (7)[268477120] Count: 7
+[31.03.24 15:52:16] Pickup ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 109016 Y: -174448 Z: -560) 6353 Blue Gemstone (1)[268477121] Count: 1
+[31.03.24 15:54:00] Pickup ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 114925 Y: -173380 Z: -720) 57 Adena (8)[268477126] Count: 8
+[31.03.24 16:03:11] Create ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 83513 Y: 148345 Z: -3408) 57 Adena (256000000000)[268477157] Count: 256000000000
+[31.03.24 16:05:36] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 83541 Y: 148382 Z: -3408) 57 Adena Count: 100
+[31.03.24 16:05:48] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 83541 Y: 148382 Z: -3408) 57 Adena Count: 200
+[31.03.24 16:05:51] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 83541 Y: 148382 Z: -3408) 57 Adena Count: 300
+[31.03.24 16:15:23] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 83416 Y: 148135 Z: -3408) 57 Adena Count: 34200
+[31.03.24 16:21:50] Delete ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 129309 Y: -41520 Z: -3440) 728 Mana Potion (10000)[268477279] Count: 5000
+[31.03.24 16:21:59] Delete ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 129309 Y: -41520 Z: -3440) 728 Mana Potion (5000)[268477279] Count: 4000
+[31.03.24 16:36:57] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 128999 Y: -39477 Z: -3456) 57 Adena Count: 700
+[31.03.24 16:36:57] RemoveItem ADMTKD[268477111] (IP: 127.0.0.1 Account: tkd1) (X: 128999 Y: -39477 Z: -3456) 57 Adena Count: 100
+[31.03.24 16:55:58] Pickup ChupadoR[268477171] (IP: 127.0.0.1 Account: chupador) (X: -56794 Y: -113665 Z: -672) 57 Adena (12)[268477176] Count: 12
+[31.03.24 17:00:07] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56724 Y: -113640 Z: -672) 57 Adena (104109)[268545993] Count: 104109
+[31.03.24 17:00:14] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56677 Y: -113714 Z: -672) 6353 Blue Gemstone (1)[268545994] Count: 1
+[31.03.24 17:00:21] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56696 Y: -113688 Z: -672) 57 Adena (90634)[268545996] Count: 90634
+[31.03.24 17:06:53] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56699 Y: -113484 Z: -672) 57 Adena (79224)[268544765] Count: 79224
+[31.03.24 17:07:25] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56697 Y: -113648 Z: -672) 57 Adena (77160)[268544767] Count: 77160
+[31.03.24 17:07:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56546 Y: -113624 Z: -672) 57 Adena (97689)[268544768] Count: 97689
+[31.03.24 17:07:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56506 Y: -113601 Z: -672) 57 Adena (84094)[268544770] Count: 84094
+[31.03.24 17:07:43] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56520 Y: -113640 Z: -672) 57 Adena (87994)[268544772] Count: 87994
+[31.03.24 17:07:54] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -56536 Y: -113624 Z: -672) 57 Adena (114891)[268544775] Count: 114891
+[31.03.24 17:10:38] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -45640 Y: -113449 Z: -240) 57 Adena Count: 22500
+[31.03.24 17:11:46] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: 79961 Y: 147307 Z: -3536) 57 Adena Count: 1650
+[31.03.24 17:12:36] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -83387 Y: 151156 Z: -3120) 57 Adena Count: 500
+[31.03.24 17:14:12] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: 117702 Y: -200920 Z: -3728) 57 Adena Count: 7200
+[31.03.24 17:14:42] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47898 Y: -114130 Z: -240) 57 Adena (85720)[268544781] Count: 85720
+[31.03.24 17:14:53] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -48056 Y: -114792 Z: -176) 57 Adena (100499)[268544787] Count: 100499
+[31.03.24 17:14:57] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47842 Y: -114792 Z: -192) 57 Adena (91758)[268544790] Count: 91758
+[31.03.24 17:15:02] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47672 Y: -114744 Z: -208) 57 Adena (134017)[268544794] Count: 134017
+[31.03.24 17:15:07] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47749 Y: -115008 Z: -192) 57 Adena (90832)[268544796] Count: 90832
+[31.03.24 17:15:12] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47768 Y: -115144 Z: -176) 57 Adena (119220)[268544799] Count: 119220
+[31.03.24 17:15:30] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -48392 Y: -115912 Z: -160) 57 Adena (87834)[268544806] Count: 87834
+[31.03.24 17:15:40] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -48407 Y: -116261 Z: -160) 57 Adena Count: 200
+[31.03.24 17:15:40] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -48407 Y: -116261 Z: -160) 57 Adena Count: 2
+[31.03.24 17:16:17] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47816 Y: -116072 Z: -176) 57 Adena (156450)[268544823] Count: 156450
+[31.03.24 17:16:17] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47816 Y: -116072 Z: -176) 1 Short Sword (1)[268544824] Count: 1
+[31.03.24 17:23:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -48922 Y: -116594 Z: -160) 57 Adena (90972)[268544767] Count: 90972
+[31.03.24 17:24:58] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -46566 Y: -118018 Z: -240) 57 Adena (146314)[268544775] Count: 146314
+[31.03.24 17:25:03] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -46838 Y: -118002 Z: -240) 57 Adena (257836)[268544777] Count: 257836
+[31.03.24 17:25:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -44104 Y: -120400 Z: -272) 57 Adena (335838)[268544782] Count: 335838
+[31.03.24 17:25:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -44104 Y: -120400 Z: -272) 112 Apprentice's Earring (1)[268544783] Count: 1
+[31.03.24 17:25:39] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -44104 Y: -120400 Z: -272) 57 Adena (309798)[268544784] Count: 309798
+[31.03.24 17:25:45] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -44777 Y: -120385 Z: -240) 57 Adena (180817)[268544789] Count: 180817
+[31.03.24 17:25:48] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -45152 Y: -120841 Z: -208) 57 Adena (160555)[268544791] Count: 160555
+[31.03.24 17:26:05] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -43582 Y: -121464 Z: -272) 116 Magic Ring (1)[268544795] Count: 1
+[31.03.24 17:26:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -43390 Y: -121848 Z: -272) 57 Adena (312963)[268544798] Count: 312963
+[31.03.24 17:26:18] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -42825 Y: -121630 Z: -288) 57 Adena (361612)[268544801] Count: 361612
+[31.03.24 17:26:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -42568 Y: -121393 Z: -240) 57 Adena (386573)[268544808] Count: 386573
+[31.03.24 17:26:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -42465 Y: -121881 Z: -304) 57 Adena (253701)[268544812] Count: 253701
+[31.03.24 17:26:40] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -41993 Y: -121889 Z: -272) 57 Adena (216315)[268544818] Count: 216315
+[31.03.24 17:26:48] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -41775 Y: -122215 Z: -320) 57 Adena (324533)[268544823] Count: 324533
+[31.03.24 17:26:57] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -41052 Y: -122805 Z: -416) 116 Magic Ring (1)[268544829] Count: 1
+[31.03.24 17:27:01] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -41025 Y: -122553 Z: -368) 57 Adena (254888)[268544831] Count: 254888
+[31.03.24 17:27:01] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -41025 Y: -122553 Z: -368) 1868 Thread (1)[268544832] Count: 1
+[31.03.24 17:27:09] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -40524 Y: -122757 Z: -432) 57 Adena (321391)[268544835] Count: 321391
+[31.03.24 17:27:15] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -40185 Y: -123075 Z: -496) 57 Adena (312333)[268544838] Count: 312333
+[31.03.24 17:27:19] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -40024 Y: -123088 Z: -496) 57 Adena (263930)[268544841] Count: 263930
+[31.03.24 17:27:32] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -39592 Y: -123792 Z: -560) 57 Adena (383833)[268544849] Count: 383833
+[31.03.24 17:28:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37496 Y: -122864 Z: -1632) 57 Adena (438879)[268544855] Count: 438879
+[31.03.24 17:28:56] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37152 Y: -120648 Z: -1696) 57 Adena (217935)[268544860] Count: 217935
+[31.03.24 17:29:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -38217 Y: -121520 Z: -1680) 57 Adena (459018)[268544863] Count: 459018
+[31.03.24 17:29:29] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37600 Y: -122185 Z: -1680) 57 Adena (479307)[268544870] Count: 479307
+[31.03.24 17:29:32] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37600 Y: -122185 Z: -1680) 57 Adena (571696)[268544873] Count: 571696
+[31.03.24 17:29:55] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -36873 Y: -121470 Z: -1696) 57 Adena (434498)[268544879] Count: 434498
+[31.03.24 17:29:59] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -36873 Y: -121470 Z: -1696) 57 Adena (554344)[268544882] Count: 554344
+[31.03.24 17:30:03] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -36873 Y: -121470 Z: -1696) 57 Adena (444782)[268544885] Count: 444782
+[31.03.24 17:30:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -36878 Y: -121946 Z: -1672) 57 Adena (314517)[268544889] Count: 314517
+[31.03.24 17:30:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37225 Y: -122289 Z: -1664) 57 Adena (370641)[268544893] Count: 370641
+[31.03.24 17:30:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37225 Y: -122289 Z: -1664) 1864 Stem (1)[268544894] Count: 1
+[31.03.24 17:30:37] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -38169 Y: -122320 Z: -1680) 116 Magic Ring (1)[268544900] Count: 1
+[31.03.24 17:30:42] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -38192 Y: -122409 Z: -1680) 57 Adena (444044)[268544903] Count: 444044
+[31.03.24 17:30:56] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -39401 Y: -122209 Z: -1600) 118 Necklace of Magic (1)[268544909] Count: 1
+[31.03.24 17:32:30] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -37707 Y: -120872 Z: -1696) 57 Adena Count: 1650
+[31.03.24 17:33:20] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -49118 Y: 150142 Z: -2864) 57 Adena Count: 500
+[31.03.24 17:34:23] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -44987 Y: -112394 Z: -240) 57 Adena Count: 22500
+[31.03.24 17:36:14] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: 80981 Y: 146927 Z: -3536) 57 Adena Count: 1650
+[31.03.24 17:36:24] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -46427 Y: 147921 Z: -2976) 57 Adena Count: 300
+[31.03.24 17:36:24] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -46427 Y: 147921 Z: -2976) 57 Adena Count: 5
+[31.03.24 17:36:48] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -47065 Y: 147088 Z: -2992) 57 Adena (1668784)[268544921] Count: 1668784
+[31.03.24 17:37:52] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -74430 Y: 168562 Z: -3520) 1867 Animal Skin (1)[268544923] Count: 1
+[31.03.24 17:38:00] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73694 Y: 168738 Z: -3568) 57 Adena (1767571)[268544925] Count: 1767571
+[31.03.24 17:38:02] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73687 Y: 168759 Z: -3568) 57 Adena (1471712)[268544928] Count: 1471712
+[31.03.24 17:38:02] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73687 Y: 168759 Z: -3568) 1870 Coal (1)[268544929] Count: 1
+[31.03.24 17:38:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73228 Y: 168992 Z: -3584) 57 Adena (1638134)[268544931] Count: 1638134
+[31.03.24 17:38:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73136 Y: 169572 Z: -3552) 57 Adena (1796421)[268544935] Count: 1796421
+[31.03.24 17:38:13] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73160 Y: 169576 Z: -3552) 57 Adena (1455075)[268544936] Count: 1455075
+[31.03.24 17:38:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73604 Y: 169942 Z: -3488) 57 Adena (1898677)[268544942] Count: 1898677
+[31.03.24 17:38:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73054 Y: 170674 Z: -3504) 57 Adena (1473797)[268544945] Count: 1473797
+[31.03.24 17:38:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -73054 Y: 170674 Z: -3504) 1831 Antidote (1)[268544946] Count: 1
+[31.03.24 17:38:39] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72670 Y: 170525 Z: -3520) 57 Adena (1311252)[268544949] Count: 1311252
+[31.03.24 17:38:49] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72705 Y: 171284 Z: -3520) 57 Adena (2076294)[268544953] Count: 2076294
+[31.03.24 17:38:49] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72705 Y: 171284 Z: -3520) 1831 Antidote (1)[268544954] Count: 1
+[31.03.24 17:38:56] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72206 Y: 171618 Z: -3504) 57 Adena (2081753)[268544957] Count: 2081753
+[31.03.24 17:39:01] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72027 Y: 171694 Z: -3520) 57 Adena (1694584)[268544960] Count: 1694584
+[31.03.24 17:39:01] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72027 Y: 171694 Z: -3520) 57 Adena (1941589)[268544961] Count: 1941589
+[31.03.24 17:39:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -72027 Y: 171694 Z: -3520) 57 Adena (2105518)[268544964] Count: 2105518
+[31.03.24 17:39:14] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -71148 Y: 171567 Z: -3640) 57 Adena (1938231)[268544967] Count: 1938231
+[31.03.24 17:39:18] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70622 Y: 170989 Z: -3712) 57 Adena (1502877)[268544971] Count: 1502877
+[31.03.24 17:39:27] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70220 Y: 171248 Z: -3728) 57 Adena (2047352)[268544975] Count: 2047352
+[31.03.24 17:39:32] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69710 Y: 171069 Z: -3696) 57 Adena (1581690)[268544979] Count: 1581690
+[31.03.24 17:39:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69698 Y: 170954 Z: -3696) 57 Adena (1545924)[268544982] Count: 1545924
+[31.03.24 17:39:42] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69337 Y: 170952 Z: -3648) 57 Adena (1726924)[268544985] Count: 1726924
+[31.03.24 17:39:50] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69337 Y: 170952 Z: -3648) 57 Adena (1609184)[268544989] Count: 1609184
+[31.03.24 17:39:53] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69397 Y: 171360 Z: -3680) 57 Adena (1312870)[268544993] Count: 1312870
+[31.03.24 17:39:59] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena (1642609)[268544998] Count: 1642609
+[31.03.24 17:40:05] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena Count: 300
+[31.03.24 17:40:05] RemoveItem DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena Count: 5
+[31.03.24 17:40:05] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena (1354434)[268545000] Count: 1354434
+[31.03.24 17:40:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena (1933903)[268545005] Count: 1933903
+[31.03.24 17:40:13] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69155 Y: 171469 Z: -3664) 57 Adena (1752102)[268545006] Count: 1752102
+[31.03.24 17:40:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69016 Y: 171464 Z: -3648) 57 Adena (1930451)[268545008] Count: 1930451
+[31.03.24 17:40:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69016 Y: 171464 Z: -3648) 1817 Recipe: Cord (1)[268545009] Count: 1
+[31.03.24 17:40:20] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68924 Y: 171574 Z: -3632) 57 Adena (1585848)[268545011] Count: 1585848
+[31.03.24 17:40:20] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68924 Y: 171574 Z: -3632) 1865 Varnish (1)[268545012] Count: 1
+[31.03.24 17:40:28] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68779 Y: 171606 Z: -3616) 57 Adena (1824681)[268545016] Count: 1824681
+[31.03.24 17:40:43] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68683 Y: 171727 Z: -3600) 57 Adena (1358654)[268545018] Count: 1358654
+[31.03.24 17:40:50] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68059 Y: 171665 Z: -3584) 57 Adena (1591931)[268545020] Count: 1591931
+[31.03.24 17:40:53] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67954 Y: 171562 Z: -3584) 57 Adena (1880756)[268545022] Count: 1880756
+[31.03.24 17:41:00] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67954 Y: 171562 Z: -3584) 57 Adena (1782059)[268545025] Count: 1782059
+[31.03.24 17:41:08] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67632 Y: 171163 Z: -3600) 57 Adena (1615309)[268545031] Count: 1615309
+[31.03.24 17:41:13] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67616 Y: 170891 Z: -3616) 57 Adena (1378049)[268545034] Count: 1378049
+[31.03.24 17:41:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67616 Y: 170891 Z: -3616) 57 Adena (1599406)[268545035] Count: 1599406
+[31.03.24 17:41:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67616 Y: 170891 Z: -3616) 57 Adena (1894592)[268545039] Count: 1894592
+[31.03.24 17:41:28] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67616 Y: 170891 Z: -3616) 57 Adena (1841269)[268545043] Count: 1841269
+[31.03.24 17:41:30] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67616 Y: 170891 Z: -3616) 57 Adena (1826107)[268545044] Count: 1826107
+[31.03.24 17:41:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67448 Y: 170632 Z: -3664) 57 Adena (1503629)[268545047] Count: 1503629
+[31.03.24 17:41:46] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67966 Y: 170045 Z: -3600) 57 Adena (1728955)[268545052] Count: 1728955
+[31.03.24 17:42:05] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68802 Y: 169562 Z: -3584) 57 Adena (1531405)[268545063] Count: 1531405
+[31.03.24 17:42:07] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68802 Y: 169562 Z: -3584) 57 Adena (1689062)[268545065] Count: 1689062
+[31.03.24 17:42:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69062 Y: 169489 Z: -3584) 57 Adena (1286765)[268545067] Count: 1286765
+[31.03.24 17:42:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69153 Y: 169211 Z: -3584) 57 Adena (1793768)[268545073] Count: 1793768
+[31.03.24 17:42:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69153 Y: 169211 Z: -3584) 1831 Antidote (1)[268545074] Count: 1
+[31.03.24 17:42:21] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69621 Y: 169648 Z: -3600) 57 Adena (1729133)[268545076] Count: 1729133
+[31.03.24 17:42:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69649 Y: 169627 Z: -3616) 57 Adena (1375369)[268545078] Count: 1375369
+[31.03.24 17:42:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70165 Y: 169615 Z: -3680) 57 Adena (1479478)[268545082] Count: 1479478
+[31.03.24 17:42:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70165 Y: 169615 Z: -3680) 57 Adena (1854819)[268545087] Count: 1854819
+[31.03.24 17:42:39] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70165 Y: 169615 Z: -3680) 57 Adena (1377029)[268545090] Count: 1377029
+[31.03.24 17:42:46] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70207 Y: 169909 Z: -3696) 57 Adena (2101791)[268545095] Count: 2101791
+[31.03.24 17:42:52] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70595 Y: 170002 Z: -3712) 57 Adena (1746205)[268545108] Count: 1746205
+[31.03.24 17:42:57] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70707 Y: 170386 Z: -3728) 57 Adena (2065038)[268545110] Count: 2065038
+[31.03.24 17:43:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70773 Y: 170432 Z: -3728) 57 Adena (2057335)[268545115] Count: 2057335
+[31.03.24 17:43:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70430 Y: 170786 Z: -3728) 57 Adena (1402050)[268545117] Count: 1402050
+[31.03.24 17:43:15] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70094 Y: 170717 Z: -3728) 57 Adena (1855561)[268545121] Count: 1855561
+[31.03.24 17:43:23] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69676 Y: 170720 Z: -3696) 57 Adena (1635612)[268545124] Count: 1635612
+[31.03.24 17:43:27] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69676 Y: 170720 Z: -3696) 57 Adena (1542128)[268545128] Count: 1542128
+[31.03.24 17:43:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69679 Y: 170170 Z: -3664) 57 Adena (1455282)[268545130] Count: 1455282
+[31.03.24 17:43:40] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69054 Y: 170802 Z: -3616) 57 Adena (1328393)[268545134] Count: 1328393
+[31.03.24 17:43:45] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69054 Y: 170802 Z: -3616) 57 Adena (1364116)[268545139] Count: 1364116
+[31.03.24 17:43:45] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69054 Y: 170802 Z: -3616) 1870 Coal (1)[268545140] Count: 1
+[31.03.24 17:43:50] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68830 Y: 171154 Z: -3600) 57 Adena (1874424)[268545143] Count: 1874424
+[31.03.24 17:43:58] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69009 Y: 171732 Z: -3664) 57 Adena (1752751)[268545145] Count: 1752751
+[31.03.24 17:44:08] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69411 Y: 171970 Z: -3712) 57 Adena (2222644)[268545149] Count: 2222644
+[31.03.24 17:44:24] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69298 Y: 172453 Z: -3712) 57 Adena (2090910)[268545154] Count: 2090910
+[31.03.24 17:44:28] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69022 Y: 172818 Z: -3712) 57 Adena (1324535)[268545156] Count: 1324535
+[31.03.24 17:44:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69107 Y: 173138 Z: -3712) 57 Adena (2147775)[268545158] Count: 2147775
+[31.03.24 17:44:40] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69302 Y: 173150 Z: -3712) 57 Adena (2124932)[268545163] Count: 2124932
+[31.03.24 17:44:54] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70241 Y: 173003 Z: -3576) 57 Adena (1719033)[268545168] Count: 1719033
+[31.03.24 17:44:57] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70241 Y: 173003 Z: -3576) 57 Adena (1379771)[268545171] Count: 1379771
+[31.03.24 17:44:59] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70241 Y: 173003 Z: -3576) 57 Adena (1650610)[268545174] Count: 1650610
+[31.03.24 17:45:03] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70206 Y: 173170 Z: -3568) 57 Adena (1485623)[268545176] Count: 1485623
+[31.03.24 17:45:09] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70488 Y: 173190 Z: -3520) 57 Adena (1592316)[268545181] Count: 1592316
+[31.03.24 17:45:14] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70789 Y: 173296 Z: -3472) 57 Adena (1802628)[268545185] Count: 1802628
+[31.03.24 17:45:18] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70796 Y: 173399 Z: -3456) 57 Adena (1669560)[268545187] Count: 1669560
+[31.03.24 17:45:26] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70078 Y: 172717 Z: -3664) 57 Adena (1896328)[268545190] Count: 1896328
+[31.03.24 17:45:32] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70179 Y: 172285 Z: -3696) 57 Adena (2048941)[268545193] Count: 2048941
+[31.03.24 17:45:38] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70469 Y: 171999 Z: -3696) 57 Adena (1804154)[268545195] Count: 1804154
+[31.03.24 17:45:43] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70222 Y: 171693 Z: -3712) 57 Adena (1468854)[268545198] Count: 1468854
+[31.03.24 17:45:52] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69742 Y: 171101 Z: -3696) 57 Adena (1302848)[268545202] Count: 1302848
+[31.03.24 17:46:03] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69793 Y: 170330 Z: -3696) 57 Adena (2180500)[268545209] Count: 2180500
+[31.03.24 17:46:03] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69793 Y: 170330 Z: -3696) 1831 Antidote (1)[268545210] Count: 1
+[31.03.24 17:46:10] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70019 Y: 169693 Z: -3664) 57 Adena (1422380)[268545213] Count: 1422380
+[31.03.24 17:46:13] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -70019 Y: 169693 Z: -3664) 1870 Coal (1)[268545215] Count: 1
+[31.03.24 17:46:21] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69726 Y: 169181 Z: -3584) 57 Adena (1885008)[268545218] Count: 1885008
+[31.03.24 17:46:21] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69726 Y: 169181 Z: -3584) 1868 Thread (1)[268545219] Count: 1
+[31.03.24 17:46:29] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69198 Y: 169730 Z: -3584) 57 Adena (2057302)[268545221] Count: 2057302
+[31.03.24 17:46:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68795 Y: 169966 Z: -3584) 57 Adena (1497559)[268545224] Count: 1497559
+[31.03.24 17:46:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68795 Y: 169966 Z: -3584) 1831 Antidote (1)[268545225] Count: 1
+[31.03.24 17:46:46] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68491 Y: 170030 Z: -3568) 57 Adena (1471528)[268545230] Count: 1471528
+[31.03.24 17:46:46] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68491 Y: 170030 Z: -3568) 1870 Coal (1)[268545231] Count: 1
+[31.03.24 17:46:54] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68579 Y: 169629 Z: -3584) 57 Adena (2219124)[268545237] Count: 2219124
+[31.03.24 17:47:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68254 Y: 169277 Z: -3616) 57 Adena (1809855)[268545241] Count: 1809855
+[31.03.24 17:47:20] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68050 Y: 169637 Z: -3600) 57 Adena (1620945)[268545248] Count: 1620945
+[31.03.24 17:47:25] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68115 Y: 169682 Z: -3600) 57 Adena (1420658)[268545252] Count: 1420658
+[31.03.24 17:47:31] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67712 Y: 170212 Z: -3632) 57 Adena (1723987)[268545256] Count: 1723987
+[31.03.24 17:47:35] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67859 Y: 170338 Z: -3600) 57 Adena (1721009)[268545258] Count: 1721009
+[31.03.24 17:47:44] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68368 Y: 171029 Z: -3584) 57 Adena (1407520)[268545263] Count: 1407520
+[31.03.24 17:47:54] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67884 Y: 171088 Z: -3584) 57 Adena (1893803)[268545268] Count: 1893803
+[31.03.24 17:47:58] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67874 Y: 171461 Z: -3584) 57 Adena (1594060)[268545270] Count: 1594060
+[31.03.24 17:48:01] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67974 Y: 171550 Z: -3584) 57 Adena (1186385)[268545272] Count: 1186385
+[31.03.24 17:48:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68056 Y: 171540 Z: -3584) 57 Adena (1224986)[268545276] Count: 1224986
+[31.03.24 17:48:17] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67792 Y: 172052 Z: -3600) 57 Adena (1667929)[268545281] Count: 1667929
+[31.03.24 17:48:21] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67600 Y: 172244 Z: -3600) 57 Adena (1862083)[268545285] Count: 1862083
+[31.03.24 17:48:27] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67502 Y: 172594 Z: -3600) 1872 Animal Bone (1)[268545289] Count: 1
+[31.03.24 17:48:33] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67100 Y: 172928 Z: -3632) 57 Adena (1774731)[268545292] Count: 1774731
+[31.03.24 17:48:36] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67100 Y: 172928 Z: -3632) 2011 Short Spear Edge (1)[268545295] Count: 1
+[31.03.24 17:48:51] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66443 Y: 173503 Z: -3664) 57 Adena (1942923)[268545302] Count: 1942923
+[31.03.24 17:48:54] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66443 Y: 173503 Z: -3664) 57 Adena (1531686)[268545305] Count: 1531686
+[31.03.24 17:48:57] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66443 Y: 173503 Z: -3664) 57 Adena (2312188)[268545307] Count: 2312188
+[31.03.24 17:49:06] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -65966 Y: 173869 Z: -3672) 57 Adena (2151677)[268545315] Count: 2151677
+[31.03.24 17:49:12] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -65880 Y: 174344 Z: -3696) 57 Adena (2034912)[268545319] Count: 2034912
+[31.03.24 17:49:16] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66070 Y: 174337 Z: -3688) 57 Adena (1599694)[268545323] Count: 1599694
+[31.03.24 17:49:19] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66406 Y: 174639 Z: -3696) 57 Adena (1284055)[268545326] Count: 1284055
+[31.03.24 17:49:23] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66479 Y: 174901 Z: -3712) 57 Adena (1886269)[268545328] Count: 1886269
+[31.03.24 17:49:28] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66787 Y: 175138 Z: -3728) 57 Adena (1844234)[268545332] Count: 1844234
+[31.03.24 17:49:30] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -66870 Y: 175137 Z: -3728) 1865 Varnish (1)[268545333] Count: 1
+[31.03.24 17:49:33] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67347 Y: 175234 Z: -3728) 57 Adena (1625740)[268545335] Count: 1625740
+[31.03.24 17:49:38] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67606 Y: 175233 Z: -3728) 57 Adena (2011324)[268545337] Count: 2011324
+[31.03.24 17:49:41] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67894 Y: 175406 Z: -3728) 57 Adena (1739706)[268545340] Count: 1739706
+[31.03.24 17:49:44] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67842 Y: 175493 Z: -3728) 57 Adena (1591649)[268545342] Count: 1591649
+[31.03.24 17:49:46] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67842 Y: 175493 Z: -3728) 57 Adena (1762329)[268545344] Count: 1762329
+[31.03.24 17:49:59] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67710 Y: 176418 Z: -3696) 57 Adena (2199035)[268545350] Count: 2199035
+[31.03.24 17:50:07] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67710 Y: 176418 Z: -3696) 1865 Varnish (1)[268545354] Count: 1
+[31.03.24 17:50:15] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67710 Y: 176418 Z: -3696) 57 Adena (1769745)[268545361] Count: 1769745
+[31.03.24 17:50:25] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68115 Y: 176466 Z: -3648) 57 Adena (2189661)[268545367] Count: 2189661
+[31.03.24 17:50:42] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68707 Y: 175517 Z: -3632) 57 Adena (1607530)[268545372] Count: 1607530
+[31.03.24 17:50:52] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69059 Y: 175810 Z: -3552) 57 Adena (1880298)[268545378] Count: 1880298
+[31.03.24 17:50:56] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -69267 Y: 175469 Z: -3536) 57 Adena (2294623)[268545381] Count: 2294623
+[31.03.24 17:51:07] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68011 Y: 175086 Z: -3728) 57 Adena (1572359)[268545386] Count: 1572359
+[31.03.24 17:51:11] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68011 Y: 175086 Z: -3728) 57 Adena (2209943)[268545387] Count: 2209943
+[31.03.24 17:51:15] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68011 Y: 175086 Z: -3728) 57 Adena (2137759)[268545389] Count: 2137759
+[31.03.24 17:51:18] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68011 Y: 175086 Z: -3728) 57 Adena (1452007)[268545392] Count: 1452007
+[31.03.24 17:51:23] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68008 Y: 174664 Z: -3712) 57 Adena (1676802)[268545394] Count: 1676802
+[31.03.24 17:51:23] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68008 Y: 174664 Z: -3712) 1865 Varnish (1)[268545395] Count: 1
+[31.03.24 17:51:29] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67984 Y: 174571 Z: -3712) 57 Adena (1797719)[268545399] Count: 1797719
+[31.03.24 17:51:30] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -67984 Y: 174571 Z: -3712) 57 Adena (1452991)[268545400] Count: 1452991
+[31.03.24 17:51:39] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68111 Y: 174026 Z: -3680) 57 Adena (1404102)[268545406] Count: 1404102
+[31.03.24 17:51:41] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68111 Y: 174026 Z: -3680) 57 Adena (1543020)[268545408] Count: 1543020
+[31.03.24 17:51:41] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68111 Y: 174026 Z: -3680) 1866 Suede (1)[268545409] Count: 1
+[31.03.24 17:51:52] Pickup DominatoR[268544175] (IP: 127.0.0.1 Account: dominator) (X: -68705 Y: 174660 Z: -3680) 57 Adena (1794051)[268545415] Count: 1794051

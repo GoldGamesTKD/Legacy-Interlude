@@ -1,0 +1,11 @@
+<!ELEMENT list (ensoul_option)*>
+<!ELEMENT ensoul_option (#PCDATA)>
+<!ATTLIST ensoul_option
+        id CDATA #REQUIRED
+        skillId CDATA #REQUIRED
+        skillLvl CDATA #REQUIRED
+        optionType CDATA #REQUIRED
+        slotType CDATA #REQUIRED
+        stoneId CDATA #REQUIRED
+        name CDATA #IMPLIED
+        icon CDATA #IMPLIED>

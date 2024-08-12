@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="55248" levels="1" name="Bracelet of Duty - Lv. 1">
+        <set name="icon" val="icon.etc_rbracelet_b_i01" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="talismansLimit" val="1" />
+        </for>
+    </skill>
+    <skill id="55234" levels="1" name="XP and SP Rune - 100%">
+        <set name="icon" val="icon.skill19226"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="SpMultiplier" val="2"/>
+            <mul order="0x30" stat="ExpMultiplier" val="2"/>
+        </for>
+    </skill>
+    <skill id="55235" levels="1" name="Adventurer's Potion - Atk. Spd.">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.etc_reagent_green_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="0"/>
+        <set name="itemConsumeId" val="70102"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="hitCancelTime" val="0"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="pAtkSpeedUp" time="1200" val="0">
+                <add order="0x40" stat="pAtkSpd" val="20"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55236" levels="1" name="Adventurer's Potion - Casting Spd.">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.etc_potion_of_acumen2_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="0"/>
+        <set name="hitCancelTime" val="0"/>
+        <set name="itemConsumeId" val="70103"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="mAtkSpeedUp" time="1200" val="0">
+                <add order="0x40" stat="mAtkSpd" val="20"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55237" levels="1" name="Scroll: Vampiric Rage" >
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_scroll_white_i00" />
+        <set name="itemConsumeId" val="70104"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="magicLevel" val="60" />
+        <set name="hitTime" val="4000"/>
+        <set name="hitCancelTime" val="500" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="useSS" val="false" />
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="vampRage" time="1200" val="0">
+                <add order="0x40" stat="absorbDam" val="6" />
+            </effect>
+        </for>
+    </skill>
+    <skill id="55241" levels="1" name="Scroll: Mana Regeneration" >
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_scroll_white_i00" />
+        <set name="itemConsumeId" val="70105"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="magicLevel" val="60" />
+        <set name="hitTime" val="4000"/>
+        <set name="hitCancelTime" val="500" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="useSS" val="false" />
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="vampRage" time="1200" val="0">
+                <add order="0x40" stat="regMp" val="4"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55242" levels="1" name="Scroll: Berserker Spirit">
+        <set name="magicType" val="MAGIC"/>
+        <set name="icon" val="icon.etc_scroll_white_i00"/>
+        <set name="magicLevel" val="52"/>
+        <set name="itemConsumeId" val="70107"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="hitTime" val="500"/>
+        <set name="hitCancelTime" val="500"/>
+        <set name="mpConsume1" val="0"/>
+        <set name="mpConsume2" val="2"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" stackOrder="1" stackType="berserk" time="1200" val="0">
+                <mul order="0x30" stat="mAtk" val="1.10"/>
+                <mul order="0x30" stat="pAtk" val="1.05"/>
+                <mul order="0x30" stat="mDef" val="0.90"/>
+                <mul order="0x30" stat="pDef" val="0.95"/>
+                <mul order="0x30" stat="mAtkSpd" val="1.05"/>
+                <mul order="0x30" stat="pAtkSpd" val="1.05"/>
+                <add order="0x40" stat="runSpd" val="5"/>
+                <sub order="0x40" stat="rEvas" val="2"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55244" levels="1" name="Dance of the Mystic">
+        <set name="magicType" val="MUSIC"/>
+        <set name="itemConsumeId" val="70111"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="icon" val="icon.skill0273"/>
+        <set name="reuseDelay" val="10000"/>
+        <set name="magicLevel" val="49"/>
+        <set name="effectPoint" val="467"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillRadius" val="1000"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="displayId" val="273"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Buff" time="600" val="0">
+                <mul order="0x30" stat="mAtk" val="1.2"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55247" levels="1" name="Refined Romantic Chapeau">
+        <set name="icon" val="BranchSys3.lcon.g_rune_itemdrop_up"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pAtk" val="33" />
+            <add order="0x40" stat="mAtk" val="41" />
+        </for>
+    </skill>
+    <skill id="55246" levels="1" name="Rune of Boost">
+        <set name="icon" val="BranchSys3.lcon.g_rune_itemdrop_up"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="STR" val="1" />
+            <add order="0x40" stat="INT" val="1" />
+            <add order="0x40" stat="CON" val="1" />
+            <add order="0x40" stat="MEN" val="1" />
+            <add order="0x40" stat="DEX" val="1" />
+            <add order="0x40" stat="WIT" val="1" />
+        </for>
+    </skill>
+    <skill id="55253" levels="20" name="Sigel's Protection">
+        <set name="icon" val="BranchIcon.Icon.g_rune_sigel_lv00"/>
+        <table name="#pdef">20.2 24.6 29.8 35.7 42.6 50.7 57.9 66.1 75.3 83.5 92.2 101.6 112.7 2 2 2 2 2 2 2</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pDef" val="#pdef" />
+        </for>
+    </skill>
+    <skill id="55254" levels="20" name="Sigel's Protection">
+        <set name="icon" val="BranchIcon.Icon.g_rune_sigel_lv00"/>
+        <table name="#maxHp">73 94 129 154 185 223 249 276 303 331 359 388 418 50 50 50 50 50 50 50</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxHp" val="#maxHp" />
+        </for>
+    </skill>
+    <skill id="55255" levels="20" name="Tyrr Might">
+        <set name="icon" val="BranchIcon.Icon.g_rune_tir_lv00"/>
+        <table name="#patk">2.8 3.8 5.1 7.8 10.1 12.9 15.3 18.1 21.2 24.3 28 31.9 36.5 20 20 20 20 20 20 20</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pAtk" val="#patk" />
+        </for>
+    </skill>
+    <skill id="55256" levels="20" name="Tyrr Haste">
+        <set name="icon" val="BranchIcon.Icon.g_rune_tir_lv00"/>
+        <table name="#patkSpd">1.02 1.022 1.025 1.027 1.03 1.032 1.035 1.037 1.04 1.042 1.045 1.047 1.05 1.01 1.01 1.01 1.01 1.01 1.01 1.01</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="pAtkSpd" val="#patkSpd" />
+        </for>
+    </skill>
+    <skill id="55257" levels="20" name="Othell's Focus">
+        <set name="icon" val="BranchIcon.Icon.g_rune_othel_lv01"/>
+        <table name="#rCrit">75  100 125 150 175 200 225 250 275 300 325 350 375 1.8 1.8 1.8 1.8 1.8 1.8 1.8</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="rCrit" val="#rCrit"/>
+        </for>
+    </skill>
+    <skill id="55258" levels="20" name="Othell's Critical Damage">
+        <set name="icon" val="BranchIcon.Icon.g_rune_othel_lv01"/>
+        <table name="#cAtkStatic">80 97 114 131 148 165 182 192 216 233 251 268 285 20 20 20 20 20 20 20</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="cAtkStatic" val="#cAtkStatic"/>
+        </for>
+    </skill>
+    <skill id="55259" levels="20" name="Yul Wind Walk">
+        <set name="icon" val="BranchIcon.Icon.g_rune_yr_lv01"/>
+        <table name="#runSpd">4 4.5 5 5.5 6 6.5 7 7.5 8 8.5 9 9.5 10 10 10 10 10 10 10 10</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="runSpd" val="#runSpd"/>
+        </for>
+    </skill>
+    <skill id="55260" levels="20" name="Yul Guidance">
+        <set name="icon" val="BranchIcon.Icon.g_rune_yr_lv01"/>
+        <table name="#accCombat">2.47 2.67 2.87 3.07 3.27 3.47 3.62 3.77 3.92 4.07 4.22 4.37 4.52 1 1 1 1 1 1 1</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="accCombat" val="#accCombat"/>
+        </for>
+    </skill>
+    <skill id="55261" levels="20" name="Feoh's Magical Power">
+        <set name="icon" val="BranchIcon.Icon.g_rune_feoh_lv01"/>
+        <table name="#mAtk">15.94 19.84 24.31 30.48 35.84 49.24 62.99 75.86 87.22 99.3 112 125 139 10.1 10.1 10.1 10.1 10.1 10.1 10.1</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="mAtk" val="#mAtk"/>
+            <mul order="0x30" stat="mpConsum" val="0.85"/>
+        </for>
+    </skill>
+    <skill id="55262" levels="20" name="Feoh's Empower">
+        <set name="icon" val="BranchIcon.Icon.g_rune_feoh_lv01"/>
+        <table name="#mAtk">20 27 34 41 48 55 62 69 76 83 90 97 104 20.36 20.36 20.36 20.36 20.36 20.36 20.36</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="mAtk" val="#mAtk"/>
+        </for>
+    </skill>
+    <skill id="55263" levels="20" name="Iss' Magic Regeneration">
+        <set name="icon" val="BranchIcon.Icon.g_rune_is_lv01"/>
+        <table name="#regMp">1.12 1.12 1.13 1.14 1.15 1.16 1.17 1.17 1.18 1.19 1.19 1.20 1.01 1.01 1.01 1.01 1.01 1.01 1.01 1.01</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="regMp" val="#regMp"/>
+        </for>
+    </skill>
+    <skill id="55264" levels="20" name="Iss' Boost Mana">
+        <set name="icon" val="BranchIcon.Icon.g_rune_wynn_lv01"/>
+        <table name="#maxMp">3.89 5 6.1 7.2 8.3 9.4 10.5 11.6 12.7 13.8 14.9 16 17.1 3 3 3 3 3 3 3</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxMp" val="#maxMp"/>
+        </for>
+    </skill>
+    <skill id="55265" levels="20" name="Wynn's Acumen">
+        <set name="icon" val="BranchIcon.Icon.g_rune_wynn_lv01"/>
+        <table name="#mAtkSpd">1.026 1.03 1.033 1.036 1.04 1.043 1.046 1.049 1.053 1.056 1.059 1.063 1.066 1.01 1.01 1.01 1.01 1.01 1.01 1.01</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="mAtkSpd" val="#mAtkSpd"/>
+        </for>
+    </skill>
+    <skill id="55266" levels="20" name="Wynn's Lightness">
+        <set name="icon" val="BranchIcon.Icon.g_rune_wynn_lv01"/>
+        <table name="#maxLoad">1000 1400 1800 2200 2600 3000 3400 3800 4200 4600 5000 5600 5900 3000 3000 3000 3000 3000 3000 3000</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="maxLoad" val="#maxLoad"/>
+        </for>
+    </skill>
+    <skill id="55267" levels="20" name="Aeore's Regeneration">
+        <set name="icon" val="BranchIcon.Icon.g_rune_eolh_lv01"/>
+        <table name="#regHp">0.57 0.88 0.92 0.95 0.98 1.01 1.38 1.41 1.44 1.4 1.5 1.5 1.9 1.1 1.1 1.1 1.1 1.1 1.1 1.1</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="regHp" val="#regHp"/>
+        </for>
+    </skill>
+    <skill id="55268" levels="20" name="Aeore's Heal">
+        <set name="icon" val="BranchIcon.Icon.g_rune_eolh_lv01"/>
+        <table name="#healPower">15.1 18.5 22.4 24.5 30.1 35 38.9 42.7 45.3 50.6 54.4 58.2 62.1 10 10 10 10 10 10 10</table>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="healPower" val="#healPower"/>
+        </for>
+    </skill>
+    <skill id="55290" levels="1" name="Devi's Ring">
+        <set name="icon" val="icon.ev_11th_rare_acc_ring"/>
+        <set name="magicLevel" val="55"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="mAtk" val="5" />
+            <add order="0x40" stat="pAtk" val="5" />
+            <add order="0x40" stat="maxHp" val="20" />
+        </for>
+    </skill>
+    <skill id="55292" levels="1" name="Devi's Earring">
+        <set name="icon" val="icon.ev_11th_rare_acc_earing"/>
+        <set name="magicLevel" val="55"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="regMp" val="1.02"/>
+            <mul order="0x30" stat="regHp" val="1.02" />
+        </for>
+    </skill>
+    <skill id="55294" levels="1" name="Devi's Necklace">
+        <set name="icon" val="icon.ev_11th_rare_acc_earing"/>
+        <set name="magicLevel" val="55"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="mDef" val="1.03"/>
+            <mul order="0x30" stat="pDef" val="1.03" />
+            <add order="0x40" stat="maxHp" val="20" />
+        </for>
+    </skill>
+
+</list>

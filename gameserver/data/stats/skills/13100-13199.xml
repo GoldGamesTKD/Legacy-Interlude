@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="13136" levels="1" name="Hero's Cloak">
+        <!--
+        Max HP/ MP/ CP +10%%, P. Def. +5%%, M. Def. +10%%, all weapon resistance +5,
+         M./ P. Critical Rate +20, received PvP damage -10%%.
+        Reflects 4% of the damage received back to the enemy.
+        -->
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="maxHp" val="1.10"/>
+            <mul order="0x30" stat="maxMp" val="1.10"/>
+            <mul order="0x30" stat="maxCp" val="1.10"/>
+            <mul order="0x30" stat="pDef" val="1.05"/>
+            <mul order="0x30" stat="mDef" val="1.10"/>
+            <add order="0x40" stat="swordWpnVuln" val="5"/>
+            <add order="0x40" stat="dualWpnVuln" val="5"/>
+            <add order="0x40" stat="bluntWpnVuln" val="5"/>
+            <add order="0x40" stat="daggerWpnVuln" val="5"/>
+            <add order="0x40" stat="bowWpnVuln" val="5"/>
+            <add order="0x40" stat="poleWpnVuln" val="5"/>
+            <add order="0x40" stat="fistWpnVuln" val="5"/>
+            <mul order="0x30" stat="mCritRate" val="1.2"/>
+            <mul order="0x30" stat="cAtk" val="1.2"/>
+            <mul order="0x30" stat="pvpPhysDefenceBonus" val="1.10"/>
+            <mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.10"/>
+            <mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.10"/>
+            <add order="0x40" stat="reflectDam" val="4"/>
+        </for>
+    </skill>
+</list>

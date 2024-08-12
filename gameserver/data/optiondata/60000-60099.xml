@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "optiondata.dtd">
+<list>
+	<optiondata id="60000">
+		<!-- Increases P. Atk. +4. -->
+		<skill id="55090" level="1" />
+	</optiondata>
+	<optiondata id="60001">
+		<!-- Increases P. Atk. +6. -->
+		<skill id="55091" level="1" />
+	</optiondata>
+	<optiondata id="60002">
+		<!-- Increases P. Atk. +8. -->
+		<skill id="55091" level="2" />
+	</optiondata>
+	<optiondata id="60003">
+		<!-- Increases P. Atk. +12. -->
+		<skill id="55091" level="3" />
+	</optiondata>
+	<optiondata id="60004">
+		<!-- Increases P. Atk. +19. -->
+		<skill id="55091" level="4" />
+	</optiondata>
+	<optiondata id="60005">
+		<!-- Increases P. Atk. +28. XP/SP gain +5%. -->
+		<skill id="55091" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60006">
+		<!-- Increases P. Atk. +35. XP/SP gain +10%. -->
+		<skill id="55091" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60007">
+		<!-- Increases P. Atk. +46. XP/SP gain +15%. -->
+		<skill id="55091" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60008">
+		<!-- Increases P. Atk. +59. XP/SP gain +20%. -->
+		<skill id="55091" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60009">
+		<!-- Increases P. Atk. +63. XP/SP gain +30%. -->
+		<skill id="55091" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60010">
+		<!-- Increases P. Atk. +75. XP/SP gain +40%. -->
+		<skill id="55091" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Fire Dragon Pendant Lv. 2 -->
+	<optiondata id="60011">
+		<!-- Increases P. Atk. +4. Critical Damage +26 -->
+		<skill id="55092" level="1" />
+	</optiondata>
+	<optiondata id="60012">
+		<!-- Increases P. Atk. +6. Critical Damage +38 -->
+		<skill id="55093" level="1" />
+	</optiondata>
+	<optiondata id="60013">
+		<!-- Increases P. Atk. +8. Critical Damage +56 -->
+		<skill id="55093" level="2" />
+	</optiondata>
+	<optiondata id="60014">
+		<!-- Increases P. Atk. +12. Critical Damage +78 -->
+		<skill id="55093" level="3" />
+	</optiondata>
+	<optiondata id="60015">
+		<!-- Increases P. Atk. +19. Critical Damage +124 -->
+		<skill id="55093" level="4" />
+	</optiondata>
+	<optiondata id="60016">
+		<!-- Increases P. Atk. +28. Critical Damage +185. XP/SP gain +5%. -->
+		<skill id="55093" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60017">
+		<!-- Increases P. Atk. +35. Critical Damage +250. XP/SP gain +10%. -->
+		<skill id="55093" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60018">
+		<!-- Increases P. Atk. +46. Critical Damage +307. XP/SP gain +15%. -->
+		<skill id="55093" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60019">
+		<!-- Increases P. Atk. +59. Critical Damage +391. XP/SP gain +20%. -->
+		<skill id="55093" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60020">
+		<!-- Increases P. Atk. +63. Critical Damage +421. XP/SP gain +30%. -->
+		<skill id="55093" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60021">
+		<!-- Increases P. Atk. +75. Critical Damage +498. XP/SP gain +40%. -->
+		<skill id="55093" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Fire Dragon Pendant Lv. 3 -->
+	<optiondata id="60022">
+		<!-- Increases P. Atk. +4. Critical Damage +26. P. Critical Rate +1% -->
+		<skill id="55094" level="1" />
+	</optiondata>
+	<optiondata id="60023">
+		<!-- Increases P. Atk. +6. Critical Damage +38. P. Critical Rate +2% -->
+		<skill id="55095" level="1" />
+	</optiondata>
+	<optiondata id="60024">
+		<!-- Increases P. Atk. +8. Critical Damage +56. P. Critical Rate +3% -->
+		<skill id="55095" level="2" />
+	</optiondata>
+	<optiondata id="60025">
+		<!-- Increases P. Atk. +12. Critical Damage +78. P. Critical Rate +4% -->
+		<skill id="55095" level="3" />
+	</optiondata>
+	<optiondata id="60026">
+		<!-- Increases P. Atk. +19. Critical Damage +124. P. Critical Rate +5% -->
+		<skill id="55095" level="4" />
+	</optiondata>
+	<optiondata id="60027">
+		<!-- Increases P. Atk. +28. Critical Damage +185. P. Critical Rate +6%. XP/SP gain +5%. -->
+		<skill id="55095" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60028">
+		<!-- Increases P. Atk. +35. Critical Damage +250. P. Critical Rate +7%. XP/SP gain +10%. -->
+		<skill id="55095" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60029">
+		<!-- Increases P. Atk. +46. Critical Damage +307. P. Critical Rate +8%. XP/SP gain +15%. -->
+		<skill id="55095" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60030">
+		<!-- Increases P. Atk. +59. Critical Damage +391. P. Critical Rate +10%. XP/SP gain +20%. -->
+		<skill id="55095" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60031">
+		<!-- Increases P. Atk. +63. Critical Damage +421. P. Critical Rate +12%. XP/SP gain +30%. -->
+		<skill id="55095" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60032">
+		<!-- Increases P. Atk. +75. Critical Damage +498. P. Critical Rate +15%. XP/SP gain +40%. -->
+		<skill id="55095" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Fire Dragon Pendant Lv. 4 -->
+	<optiondata id="60033">
+		<!-- Increases P. Atk. +4. Critical Damage +26. P. Critical Rate +1%. P. Atk +1% -->
+		<skill id="55096" level="1" />
+	</optiondata>
+	<optiondata id="60034">
+		<!-- Increases P. Atk. +6. Critical Damage +38. P. Critical Rate +2%. P. Atk +1.5% -->
+		<skill id="55097" level="1" />
+	</optiondata>
+	<optiondata id="60035">
+		<!-- Increases P. Atk. +8. Critical Damage +56. P. Critical Rate +3%. P. Atk +2% -->
+		<skill id="55097" level="2" />
+	</optiondata>
+	<optiondata id="60036">
+		<!-- Increases P. Atk. +12. Critical Damage +78. P. Critical Rate +4%. P. Atk +2.5% -->
+		<skill id="55097" level="3" />
+	</optiondata>
+	<optiondata id="60037">
+		<!-- Increases P. Atk. +19. Critical Damage +124. P. Critical Rate +5%. P. Atk +3% -->
+		<skill id="55097" level="4" />
+	</optiondata>
+	<optiondata id="60038">
+		<!-- Increases P. Atk. +28. Critical Damage +185. P. Critical Rate +6%. P. Atk +3.5%. XP/SP gain +5%. -->
+		<skill id="55097" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60039">
+		<!-- Increases P. Atk. +35. Critical Damage +250. P. Critical Rate +7%. P. Atk +4%. XP/SP gain +10%. -->
+		<skill id="55097" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60040">
+		<!-- Increases P. Atk. +46. Critical Damage +307. P. Critical Rate +8%. P. Atk +4.5%. XP/SP gain +15%. -->
+		<skill id="55097" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60041">
+		<!-- Increases P. Atk. +59. Critical Damage +391. P. Critical Rate +10%. P. Atk +5%. XP/SP gain +20%. -->
+		<skill id="55097" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60042">
+		<!-- Increases P. Atk. +63. Critical Damage +421. P. Critical Rate +12%. P. Atk +6%. XP/SP gain +30%. -->
+		<skill id="55097" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60043">
+		<!-- Increases P. Atk. +75. Critical Damage +498. P. Critical Rate +15%. P. Atk +8%. XP/SP gain +40%. -->
+		<skill id="55097" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Fire Dragon Pendant Lv. 5 -->
+	<optiondata id="60044">
+		<!-- Increases P. Atk. +4. Critical Damage +26. P. Critical Rate +1%. P. Atk +1%. P. Critical Damage +1% -->
+		<skill id="55098" level="1" />
+	</optiondata>
+	<optiondata id="60045">
+		<!-- Increases P. Atk. +6. Critical Damage +38. P. Critical Rate +2%. P. Atk +1.5%. P. Critical Damage +2% -->
+		<skill id="55099" level="1" />
+	</optiondata>
+	<optiondata id="60046">
+		<!-- Increases P. Atk. +8. Critical Damage +56. P. Critical Rate +3%. P. Atk +2%. P. Critical Damage +3% -->
+		<skill id="55099" level="2" />
+	</optiondata>
+	<optiondata id="60047">
+		<!-- Increases P. Atk. +12. Critical Damage +78. P. Critical Rate +4%. P. Atk +2.5%. P. Critical Damage +4% -->
+		<skill id="55099" level="3" />
+	</optiondata>
+	<optiondata id="60048">
+		<!-- Increases P. Atk. +19. Critical Damage +124. P. Critical Rate +5%. P. Atk +3%. P. Critical Damage +5% -->
+		<skill id="55099" level="4" />
+	</optiondata>
+	<optiondata id="60049">
+		<!-- Increases P. Atk. +28. Critical Damage +185. P. Critical Rate +6%. P. Atk +3.5%. P. Critical Damage +6%. XP/SP gain +5%. -->
+		<skill id="55099" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60050">
+		<!-- Increases P. Atk. +35. Critical Damage +250. P. Critical Rate +7%. P. Atk +4%. P. Critical Damage +7%. XP/SP gain +10%. -->
+		<skill id="55099" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60051">
+		<!-- Increases P. Atk. +46. Critical Damage +307. P. Critical Rate +8%. P. Atk +4.5%. P. Critical Damage +9%. XP/SP gain +15%. -->
+		<skill id="55099" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60052">
+		<!-- Increases P. Atk. +59. Critical Damage +391. P. Critical Rate +10%. P. Atk +5%. P. Critical Damage +11%. XP/SP gain +20%. -->
+		<skill id="55099" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60053">
+		<!-- Increases P. Atk. +63. Critical Damage +421. P. Critical Rate +12%. P. Atk +6%. P. Critical Damage +13%. XP/SP gain +30%. -->
+		<skill id="55099" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60054">
+		<!-- Increases P. Atk. +75. Critical Damage +498. P. Critical Rate +15%. P. Atk +8%. P. Critical Damage +15%. XP/SP gain +40%. -->
+		<skill id="55099" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+
+	<optiondata id="60055">
+		<!-- Increases M. Atk. +9. -->
+		<skill id="55100" level="1" />
+	</optiondata>
+	<optiondata id="60056">
+		<!-- Increases M. Atk. +13. -->
+		<skill id="55101" level="1" />
+	</optiondata>
+	<optiondata id="60057">
+		<!-- Increases M. Atk. +20. -->
+		<skill id="55101" level="2" />
+	</optiondata>
+	<optiondata id="60058">
+		<!-- Increases M. Atk. +31. -->
+		<skill id="55101" level="3" />
+	</optiondata>
+	<optiondata id="60059">
+		<!-- Increases M. Atk. +46. -->
+		<skill id="55101" level="4" />
+	</optiondata>
+	<optiondata id="60060">
+		<!-- Increases M. Atk. +64. XP/SP gain +5%. -->
+		<skill id="55101" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60061">
+		<!-- Increases M. Atk. +84. XP/SP gain +10%. -->
+		<skill id="55101" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60062">
+		<!-- Increases M. Atk. +107. XP/SP gain +15%. -->
+		<skill id="55101" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60063">
+		<!-- Increases M. Atk. +149. XP/SP gain +20%. -->
+		<skill id="55101" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60064">
+		<!-- Increases M. Atk. +160. XP/SP gain +30%. -->
+		<skill id="55101" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60065">
+		<!-- Increases M. Atk. +202. XP/SP gain +40%. -->
+		<skill id="55101" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Water Dragon Pendant Lv. 2 -->
+	<optiondata id="60066">
+		<!-- Increases M. Atk. +9. M. Critical Damage +62 -->
+		<skill id="55102" level="1" />
+	</optiondata>
+	<optiondata id="60067">
+		<!-- Increases M. Atk. +13. M. Critical Damage +89 -->
+		<skill id="55103" level="1" />
+	</optiondata>
+	<optiondata id="60068">
+		<!-- Increases M. Atk. +20. M. Critical Damage +134 -->
+		<skill id="55103" level="2" />
+	</optiondata>
+	<optiondata id="60069">
+		<!-- Increases M. Atk. +31. M. Critical Damage +210 -->
+		<skill id="55103" level="3" />
+	</optiondata>
+	<optiondata id="60070">
+		<!-- Increases M. Atk. +46. M. Critical Damage +307 -->
+		<skill id="55103" level="4" />
+	</optiondata>
+	<optiondata id="60071">
+		<!-- Increases M. Atk. +64. M. Critical Damage +429. XP/SP gain +5%. -->
+		<skill id="55103" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60072">
+		<!-- Increases M. Atk. +84. M. Critical Damage +565. XP/SP gain +10%. -->
+		<skill id="55103" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60073">
+		<!-- Increases M. Atk. +107. M. Critical Damage +717. XP/SP gain +15%. -->
+		<skill id="55103" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60074">
+		<!-- Increases M. Atk. +149. M. Critical Damage +992. XP/SP gain +20%. -->
+		<skill id="55103" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60075">
+		<!-- Increases M. Atk. +160. M. Critical Damage +1065. XP/SP gain +30%. -->
+		<skill id="55103" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60076">
+		<!-- Increases M. Atk. +202. M. Critical Damage +1344. XP/SP gain +40%. -->
+		<skill id="55103" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Water Dragon Pendant Lv. 3 -->
+	<optiondata id="60077">
+		<!-- Increases M. Atk. +9. M. Critical Damage +62. M. Critical Rate +1% -->
+		<skill id="55104" level="1" />
+	</optiondata>
+	<optiondata id="60078">
+		<!-- Increases M. Atk. +13. M. Critical Damage +89. M. Critical Rate +2% -->
+		<skill id="55105" level="1" />
+	</optiondata>
+	<optiondata id="60079">
+		<!-- Increases M. Atk. +20. M. Critical Damage +134. M. Critical Rate +3% -->
+		<skill id="55105" level="2" />
+	</optiondata>
+	<optiondata id="60080">
+		<!-- Increases M. Atk. +31. M. Critical Damage +210. M. Critical Rate +4% -->
+		<skill id="55105" level="3" />
+	</optiondata>
+	<optiondata id="60081">
+		<!-- Increases M. Atk. +46. M. Critical Damage +307. M. Critical Rate +5% -->
+		<skill id="55105" level="4" />
+	</optiondata>
+	<optiondata id="60082">
+		<!-- Increases M. Atk. +64. M. Critical Damage +429. M. Critical Rate +6%. XP/SP gain +5%. -->
+		<skill id="55105" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60083">
+		<!-- Increases M. Atk. +84. M. Critical Damage +565. M. Critical Rate +7%. XP/SP gain +10%. -->
+		<skill id="55105" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60084">
+		<!-- Increases M. Atk. +46. M. Critical Damage +717. M. Critical Rate +8%. XP/SP gain +15%. -->
+		<skill id="55105" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60085">
+		<!-- Increases M. Atk. +59. M. Critical Damage +992. M. Critical Rate +9%. XP/SP gain +20%. -->
+		<skill id="55105" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60086">
+		<!-- Increases M. Atk. +160. M. Critical Damage +1065. M. Critical Rate +10%. XP/SP gain +30%. -->
+		<skill id="55105" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60087">
+		<!-- Increases M. Atk. +202. M. Critical Damage +1344. M. Critical Rate +12%. XP/SP gain +40%. -->
+		<skill id="55105" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Water Dragon Pendant Lv. 4 -->
+	<optiondata id="60088">
+		<!-- Increases M. Atk. +9. M. Critical Damage +62. M. Critical Rate +1%. M. Atk +1% -->
+		<skill id="55106" level="1" />
+	</optiondata>
+	<optiondata id="60089">
+		<!-- Increases M. Atk. +13. M. Critical Damage +89. M. Critical Rate +2%. M. Atk +1.5% -->
+		<skill id="55107" level="1" />
+	</optiondata>
+	<optiondata id="60090">
+		<!-- Increases M. Atk. +20. M. Critical Damage +134. M. Critical Rate +3%. M. Atk +2% -->
+		<skill id="55107" level="2" />
+	</optiondata>
+	<optiondata id="60091">
+		<!-- Increases M. Atk. +31. M. Critical Damage +210. M. Critical Rate +4%. M. Atk +2.5% -->
+		<skill id="55107" level="3" />
+	</optiondata>
+	<optiondata id="60092">
+		<!-- Increases M. Atk. +46. M. Critical Damage +307. M. Critical Rate +5%. M. Atk +3% -->
+		<skill id="55107" level="4" />
+	</optiondata>
+	<optiondata id="60093">
+		<!-- Increases M. Atk. +64. M. Critical Damage +429. M. Critical Rate +6%. M. Atk +3.5%. XP/SP gain +5%. -->
+		<skill id="55107" level="5" />
+		<skill id="55133" level="1" />
+	</optiondata>
+	<optiondata id="60094">
+		<!-- Increases M. Atk. +84. M. Critical Damage +565. M. Critical Rate +7%. M. Atk +4%. XP/SP gain +10%. -->
+		<skill id="55107" level="6" />
+		<skill id="55133" level="2" />
+	</optiondata>
+	<optiondata id="60095">
+		<!-- Increases M. Atk. +46. M. Critical Damage +717. M. Critical Rate +8%. M. Atk +5%. XP/SP gain +15%. -->
+		<skill id="55107" level="7" />
+		<skill id="55133" level="3" />
+	</optiondata>
+	<optiondata id="60096">
+		<!-- Increases M. Atk. +59. M. Critical Damage +992. M. Critical Rate +9%. M. Atk +6%. XP/SP gain +20%. -->
+		<skill id="55107" level="8" />
+		<skill id="55133" level="4" />
+	</optiondata>
+	<optiondata id="60097">
+		<!-- Increases M. Atk. +160. M. Critical Damage +1065. M. Critical Rate +10%. M. Atk +8%. XP/SP gain +30%. -->
+		<skill id="55107" level="9" />
+		<skill id="55133" level="5" />
+	</optiondata>
+	<optiondata id="60098">
+		<!-- Increases M. Atk. +202. M. Critical Damage +1344. M. Critical Rate +12%. M. Atk +10%. XP/SP gain +40%. -->
+		<skill id="55107" level="10" />
+		<skill id="55133" level="6" />
+	</optiondata>
+	<!-- Enchant Items Options Water Dragon Pendant Lv. 5 -->
+	<optiondata id="60099">
+		<!-- Increases M. Atk. +9. M. Critical Damage +62. M. Critical Rate +1%. M. Atk +1%. M. Critical Damage +1% -->
+		<skill id="55108" level="1" />
+	</optiondata>
+</list>

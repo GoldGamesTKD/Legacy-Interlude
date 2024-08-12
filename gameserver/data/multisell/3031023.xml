@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <config showall="true" notax="false" keepenchanted="false" npcid="30298;30300;30317;30458;30471;30846;30678;30688;31271;31583"/>
+    <item>
+        <ingredient count="1" id="29844"/>
+        <ingredient count="1" id="29844"/> <!-- 2 Runes -->
+        <production count="1" id="70006"/> <!-- Sealed Rune Lvl 7 -->
+    </item>
+</list>

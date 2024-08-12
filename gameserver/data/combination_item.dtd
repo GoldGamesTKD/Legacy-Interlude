@@ -1,0 +1,8 @@
+<!ELEMENT list (combinationitem_begin)*>
+<!ELEMENT combinationitem_begin (#PCDATA)>
+<!ATTLIST combinationitem_begin
+        chance CDATA #REQUIRED
+        on_success CDATA #REQUIRED
+        on_fail CDATA #REQUIRED
+        slotone CDATA #REQUIRED
+        slottwo CDATA #REQUIRED>

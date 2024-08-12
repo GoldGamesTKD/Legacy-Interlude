@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="55416" levels="1" name="Release Seal on Agathion - One-eyed Bat Drove" >
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1513" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55417" levels="1" name="Release Seal on Agathion - Zaken Spirit Sword">
+        <!--
+            Description: Removes the seal of Agathion.
+        -->
+        <set name="icon" val="icon.etc_summon_aga_agit_i00"/>
+        <set name="magicLevel" val="85"/>
+        <set name="hitTime" val="3000"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SUMMON"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="useSS" val="false"/>
+        <set name="npcId" val="1595"/>
+        <set name="summonType" val="agathion"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true"/>
+            </not>
+        </cond>
+    </skill>
+    <skill id="55418" levels="1" name="Release Seal on Agathion - Pegasus" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1514" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55419" levels="1" name="Summon Agathion Guangong" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1551" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55420" levels="1" name="Summon Agathion God of Fortune" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1523" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55421" levels="1" name="Summon Agathion Phoenix" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1574" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55422" levels="1" name="Summon Agathion Saerom" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="16063" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55423" levels="1" name="Summon Agathion Gwanseum Nyang" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1552" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55424" levels="1" name="Summon Agathion Blue Opera" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1553" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55425" levels="1" name="Summon Agathion Red Opera" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1554" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55426" levels="1" name="Summon Agathion Miss Chipao" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1556" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55427" levels="1" name="Summon Agathion Flower Fairy Spirit" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1586" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55428" levels="1" name="Summon Agathion Iken" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1539" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55429" levels="1" name="Summon Agathion Lanya" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1540" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55430" levels="1" name="Summon Agathion Gnosian" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1541" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55431" levels="1" name="Summon Cheerleader Orodriel" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1542" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55432" levels="1" name="Summon Lakinos" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1543" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55433" levels="1" name="Summon Mortia" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1544" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55434" levels="1" name="Summon Heintz" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1545" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55435" levels="1" name="Summon Meruril" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1546" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55436" levels="1" name="Summon Taman Zu Rapatui" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1547" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55437" levels="1" name="Summon Kaurin" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1548" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55438" levels="1" name="Summon Ahertbein" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1549" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55439" levels="1" name="Summon Naonin" >
+        <!--
+            Description:	Summon an Agathion.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.etc_summon_aga_agit_i00" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="SUMMON" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <set name="useSS" val="false" />
+        <set name="npcId" val="1550" />
+        <set name="summonType" val="agathion" />
+    </skill>
+    <skill id="55440" levels="1" name="One-Eyed Bat Drove Agathion Cute Trick" >
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1513"/>
+        </cond>
+    </skill>
+    <skill id="55441" levels="1" name="Zaken Spirit Sword Cute Trick">
+        <!--
+              You can see the summoned spirit's cute tricks.
+        -->
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1595"/>
+        </cond>
+    </skill>
+    <skill id="55442" levels="1" name="Pegasus Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1514"/>
+        </cond>
+    </skill>
+    <skill id="55443" levels="1" name="Guangong Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1551"/>
+        </cond>
+    </skill>
+    <skill id="55444" levels="1" name="God of Fortune Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1523"/>
+        </cond>
+    </skill>
+    <skill id="55445" levels="1" name="Phoenix Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1574"/>
+        </cond>
+    </skill>
+    <skill id="55446" levels="1" name="Phoenix Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="16063"/>
+        </cond>
+    </skill>
+    <skill id="55447" levels="1" name="Gwanseum Nyang Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1552"/>
+        </cond>
+    </skill>
+    <skill id="55448" levels="1" name="Blue Opera Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1553"/>
+        </cond>
+    </skill>
+    <skill id="55449" levels="1" name="Red Opera Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1554"/>
+        </cond>
+    </skill>
+    <skill id="55450" levels="1" name="Miss Chipoa Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1556"/>
+        </cond>
+    </skill>
+    <skill id="55451" levels="1" name="Flower Fairy Spirit Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1586"/>
+        </cond>
+    </skill>
+    <skill id="55452" levels="1" name="Iken Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1539"/>
+        </cond>
+    </skill>
+    <skill id="55453" levels="1" name="Lanya Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1540"/>
+        </cond>
+    </skill>
+    <skill id="55454" levels="1" name="Gnosian Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1541"/>
+        </cond>
+    </skill>
+    <skill id="55455" levels="1" name="Cheerleader Orodriel Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1542"/>
+        </cond>
+    </skill>
+    <skill id="55456" levels="1" name="Lakinos Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1543"/>
+        </cond>
+    </skill>
+    <skill id="55457" levels="1" name="Mortia Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1544"/>
+        </cond>
+    </skill>
+    <skill id="55458" levels="1" name="Heintz Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1545"/>
+        </cond>
+    </skill>
+    <skill id="55459" levels="1" name="Meruril Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1546"/>
+        </cond>
+    </skill>
+    <skill id="55460" levels="1" name="Taman Zu Rapatui Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1547"/>
+        </cond>
+    </skill>
+    <skill id="55461" levels="1" name="Kaurin Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1548"/>
+        </cond>
+    </skill>
+    <skill id="55462" levels="1" name="Ahertbein Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1549"/>
+        </cond>
+    </skill>
+    <skill id="55463" levels="1" name="Naonin Agathion Cute Trick" >
+        <!--
+              Description: Lets you watch the summoned spirit perform cute tricks.
+        -->
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill_agathion_cute" />
+        <set name="magicLevel" val="85" />
+        <set name="hitTime" val="3000" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="hitTime" val="3000" />
+        <set name="isReuseDelayPermanent" val="true" />
+        <cond msgId="2292">
+            <player agathion="1550"/>
+        </cond>
+    </skill>
+    <skill id="55471" levels="10" name="Topaz">
+        <table name="#power">475 633 950 1357 2375 2500 2800 3400 4300 6000</table>
+        <set name="castRange" val="600"/>
+        <set name="coolTime" val="500"/>
+        <set name="directHp" val="true"/>
+        <set name="hitTime" val="1000"/>
+        <set name="effectPoint" val="1000"/>
+        <set name="icon" val="icon.bm_jewel_absdmg_high_lv1_lavianrose"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="isSkillTimePermanent" val="true"/>
+        <set name="nextAction" val="none"/>
+        <set name="magicType" val="SPECIAL"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="power" val="#power"/>
+        <set name="reuseDelay" val="30000"/>
+        <set name="skillType" val="PDAM"/>
+        <set name="staticDamage" val="true"/>
+        <set name="target" val="TARGET_ONE"/>
+        <set name="useSS" val="false"/>
+        <set name="skillInterrupt" val="true"/>
+        <cond msgId="113" addName="1">
+            <target pvp="true"/>
+        </cond>
+    </skill>
+    <skill id="55472" levels="10" name="Vital Stone">
+        <set name="icon" val="icon.etc_bm_jewel_vital"/>
+        <table name="#exp">1.03 1.04 1.06 1.08 1.17 1.20 1.23 1.26 1.30 1.35</table>
+        <table name="#sp">1.03 1.04 1.06 1.08 1.17 1.20 1.23 1.26 1.30 1.35</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="ExpMultiplier" val="#exp"/>
+            <mul order="0x30" stat="SpMultiplier" val="#sp"/>
+        </for>
+    </skill>
+    <skill id="55473" levels="10" name="Vital Stone - Special Ability">
+        <set name="icon" val="icon.etc_bm_jewel_vital"/>
+        <table name="#exp">1.5 1.7 2 2.11 2.2 2.5</table>
+        <table name="#sp">1.5 1.7 2 2.11 2.2 2.5</table>
+        <set name="hitTime" val="0"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="reuseDelay" val="1200000"/>
+        <set name="magicType" val="SPECIAL"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <for>
+            <effect count="1" name="Buff" time="15" stackType="vitality" stackOrder="1" val="0">
+                <mul order="0x30" stat="ExpMultiplier" val="#exp"/>
+                <mul order="0x30" stat="SpMultiplier" val="#sp"/>
+            </effect>
+        </for>
+    </skill>
+    <skill id="55474" levels="10" name="Jade">
+        <set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+        <table name="#pAtkSpd">1.01 1.02 1.04 1.07 1.14 1.15 1.16 1.17 1.18 1.2</table>
+        <table name="#mAtkSpd">1.01 1.02 1.04 1.07 1.14 1.15 1.16 1.17 1.18 1.2</table>
+        <table name="#wpnVuln">1 1 1 1 1 1 1 1 1 1.1</table>
+        <table name="#runSpd">1 1 1 1 1.01 1 1 1 1 1.07</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="pAtkSpd" val="#pAtkSpd" />
+            <mul order="0x30" stat="mAtkSpd" val="#mAtkSpd"/>
+            <mul order="0x30" stat="runSpd" val="#runSpd"/>
+            <mul order="0x30" stat="swordWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="dualWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="bluntWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="daggerWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="bowWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="poleWpnVuln" val="#wpnVuln"/>
+            <mul order="0x30" stat="fistWpnVuln" val="#wpnVuln"/>
+        </for>
+    </skill>
+    <skill id="55475" levels="10" name="Diamond">
+        <set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+        <table name="#pdef">11 25 50 81 130 150 180 220 280 400</table>
+        <table name="#critResist">1 1 1 1.04 1.10 1.11 1.12 1.14 1.16 1.20</table>
+        <table name="#critChance">1 1 1 1 1 1 1 1 1 0.9</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pDef" val="#pdef" />
+            <mul order="0x30" stat="critDamRcpt" val="#critResist"/>
+            <mul order="0x30" stat="critChanceRcpt" val="#critChance"/>
+        </for>
+    </skill>
+    <skill id="55476" levels="10" name="Pearl">
+        <set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+        <table name="#mdef">7 14 28 46 74 85 100 125 160 250</table>
+        <table name="#mResist">1 1 1 1 1 1 1 1 1 1.1</table>
+        <table name="#mCritResist">1 1 1 1.04 1.10 1.11 1.12 1.14 1.16 1.20</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="mDef" val="#mdef" />
+            <mul order="0x30" stat="mCritDamageResist" val="#mCritResist"/>
+            <mul order="0x30" stat="magicResist" val="#mResist"/>
+        </for>
+    </skill>
+    <skill id="55483" levels="10" name="Sapphire">
+        <set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for> <!-- TODO: Добавить BSS бонусы-->
+            <mul order="0x30" stat="runSpd" val="1"/>
+        </for>
+    </skill>
+    <skill id="55485" levels="10" name="Garnet">
+        <set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+        <table name="#resist">1.03 1.05 1.08 1.11 1.20 1.22 1.24 1.26 1.30</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="stunResist" val="#resist" />
+            <mul order="0x30" stat="mentalResist" val="#resist"/>
+            <mul order="0x30" stat="paralyzeResist" val="#resist"/>
+        </for>
+    </skill>
+    <skill id="55486" levels="7" name="Garnet - Special Ability">
+        <table name="#abnormal_time">5 15 16 17 18 20 25</table>
+        <set name="icon" val="icon.etc_bm_jewel_garnet"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="reuseDelay" val="300000"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="isSkillTimePermanent" val="true"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <for>
+            <effect count="1" name="DebuffImmunity" time="#abnormal_time" val="0"/>
+        </for>
+    </skill>
+</list>

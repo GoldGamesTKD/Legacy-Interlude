@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="39228" levels="1" name="Chef's Fish Stew - Victory">
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.fish_stew_residence_cha"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="magicLevel" val="78"/>
+		<set name="itemConsumeId" val="90407"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="600" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2"/>
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<mul order="0x30" stat="pDef" val="1.2"/>
+				<mul order="0x30" stat="pAtk" val="1.1"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.2"/>
+				<add order="0x40" stat="rCrit" val="20"/>
+				<mul order="0x30" stat="cAtk" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.2"/>
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<add order="0x40" stat="debuffResist" val="20"/>
+			</effect>
+			<effect count="1" name="HealPercent" time="0" val="20"/>
+		</for>
+	</skill>
+	<skill id="39229" levels="1" name="Chef's Fish Stew - Fire">
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.fish_stew_residence_cha"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="magicLevel" val="78"/>
+		<set name="itemConsumeId" val="90408"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="600" val="0">
+				<mul order="0x30" stat="maxHp" val="1.2"/>
+				<mul order="0x30" stat="regHp" val="1.2"/>
+				<mul order="0x30" stat="pDef" val="1.2"/>
+				<add order="0x40" stat="accCombat" val="4"/>
+				<mul order="0x30" stat="pAtk" val="1.1"/>
+				<mul order="0x30" stat="runSpd" val="0.9"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.2"/>
+				<add order="0x40" stat="debuffResist" val="10"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="39230" levels="1" name="Chef's Fish Stew - Water">
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.fish_stew_residence_cha"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="magicLevel" val="78"/>
+		<set name="itemConsumeId" val="90409"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="600" val="0">
+				<mul order="0x30" stat="regMp" val="1.2"/>
+				<mul order="0x30" stat="runSpd" val="0.8"/>
+				<mul order="0x30" stat="mAtk" val="1.2"/>
+				<mul order="0x30" stat="mDef" val="1.2"/>
+				<mul order="0x30" stat="mAtkSpd" val="1.2"/>
+				<mul order="0x30" stat="mCritRate" val="2"/>
+				<add order="0x40" stat="debuffResist" val="10"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="39231" levels="1" name="Chef's Fish Stew - Wind">
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.fish_stew_residence_cha"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="magicLevel" val="78"/>
+		<set name="itemConsumeId" val="90410"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="600" val="0">
+				<add order="0x40" stat="accCombat" val="4"/>
+				<add order="0x40" stat="rEvas" val="4"/>
+				<mul order="0x30" stat="pAtkSpd" val="1.2"/>
+				<add order="0x40" stat="absorbDam" val="5"/>
+				<add order="0x40" stat="rCrit" val="20">
+					<and>
+						<target direction="behind"/>
+					</and>
+				</add>
+				<mul order="0x30" stat="cAtk" val="1.2">
+					<and>
+						<target direction="behind"/>
+					</and>
+				</mul>
+				<mul order="0x30" stat="pAtk" val="1.15">
+					<target boss="true"/>
+				</mul>
+				<add order="0x40" stat="debuffResist" val="10"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="39258" levels="1" name="Warrior MP Recovery Potion">
+		<set name="icon" val="icon.etc_reagent_white_i00"/>
+		<set name="itemConsumeId" val="90415"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="isHandler" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="MANAHEAL"/>
+		<set name="power" val="40"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+	</skill>
+</list>

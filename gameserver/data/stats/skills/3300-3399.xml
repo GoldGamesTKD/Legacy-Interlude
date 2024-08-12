@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="3322" levels="1" name="Brass Bracelet">
+		<!--
+			Description: 1 Talisman can be equipped.
+		-->
+		<set name="icon" val="icon.etc_rbracelet_c_i00" />
+		<set name="magicLevel" val="20" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" val="1" />
+		</for>
+	</skill>
+	<skill id="3323" levels="1" name="Bronze Bracelet">
+		<!--
+			Description: 2 Talisman can be equipped.
+		-->
+		<set name="icon" val="icon.etc_rbracelet_b_i01" />
+		<set name="magicLevel" val="40" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" val="2" />
+		</for>
+	</skill>
+	<skill id="3324" levels="1" name="Steel Bracelet">
+		<!--
+			Description: 3 Talisman can be equipped.
+		-->
+		<set name="icon" val="icon.etc_rbracelet_a_i02" />
+		<set name="magicLevel" val="52" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="talismansLimit" val="3" />
+		</for>
+	</skill>
+</list>

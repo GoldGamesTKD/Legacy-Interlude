@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="29648" name="XP/SP Scroll - Normal">
+		<set name="reuse_delay" value="60000"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_recall_exp_scroll"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="POTION"/>
+		<set name="automaticUseItemType" value="ITEM" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+		<skills>
+			<skill id="55000" level="1"/>
+		</skills>
+	</etcitem>
+	<etcitem id="29649" name="XP/SP Scroll - Medium">
+		<set name="reuse_delay" value="60000"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_recall_exp_scroll"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="POTION"/>
+		<set name="automaticUseItemType" value="ITEM" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+		<skills>
+			<skill id="55000" level="2"/>
+		</skills>
+	</etcitem>
+	<etcitem id="29650" name="XP/SP Scroll - High">
+		<set name="reuse_delay" value="60000"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="icon" value="icon.etc_recall_exp_scroll"/>
+		<set name="stackable" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="type" value="POTION"/>
+		<set name="automaticUseItemType" value="ITEM" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+		<skills>
+			<skill id="55000" level="4"/>
+		</skills>
+	</etcitem>
+	<etcitem id="29651" name="Healing Potion" add_name="Event">
+		<!-- [healing_potion] -->
+		<set name="reuse_delay" value="10000"/>
+		<set name="tradeable" value="false"/>
+		<set name="reuse_delay" value="10000"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_lesser_potion_red_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="5"/>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+		<skills>
+			<skill id="39002" level="1"/>
+		</skills>
+	</etcitem>
+	<etcitem id="29652" name="Major Healing Potion">
+		<!-- [major_healing_potion] -->
+		<set name="reuse_delay" value="10000"/>
+		<set name="tradeable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_lesser_potion_red_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="5"/>
+		<skills>
+			<skill id="55016" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="29654" name="1st Class Buff Scroll">
+		<set name="reuse_delay" value="3000"/>
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchIcon.Icon.etc_g_bm_buff_scroll_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="5"/>
+		<set name="automaticUseItemType" value="ITEM" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="29655" name="2nd Class Buff Scroll">
+		<set name="reuse_delay" value="3000"/>
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="BranchIcon.Icon.etc_g_bm_buff_scroll_i01"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<set name="weight" value="5"/>
+		<set name="automaticUseItemType" value="ITEM" />
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+</list>

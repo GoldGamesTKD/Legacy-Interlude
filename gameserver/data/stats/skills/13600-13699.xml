@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="13656" levels="1" name="Lv. 1 Brooch">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i00" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="broochLimit" val="2" />
+        </for>
+    </skill>
+    <skill id="13657" levels="1" name="Lv. 2 Brooch">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i01" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="abnormal" val="AVE_BROOCH" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="broochLimit" val="3" />
+        </for>
+    </skill>
+    <skill id="13658" levels="1" name="Lv. 3 Brooch">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i03" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="abnormal" val="AVE_BROOCH" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="broochLimit" val="4" />
+        </for>
+    </skill>
+    <skill id="13659" levels="1" name="Lv. 4 Brooch">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i05" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="abnormal" val="AVE_BROOCH" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="broochLimit" val="5" />
+        </for>
+    </skill>
+    <skill id="13660" levels="1" name="Lv. 5 Brooch">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i06" />
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="abnormal" val="AVE_BROOCH_B" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="broochLimit" val="6" />
+        </for>
+    </skill>
+    <skill id="13661" levels="5" name="Lv. 2 Brooch - Additional Effect">
+        <set name="icon" val="icon.etc_bm_brooch_lavianrose_i00" />
+        <table name="#InventoryLimit">5 9 12 12 15</table>
+        <set name="magicLevel" val="40" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="inventoryLimit" val="#InventoryLimit" />
+        </for>
+    </skill>
+</list>

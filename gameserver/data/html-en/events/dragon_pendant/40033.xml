@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+    <config showall="true" is_chanced="true" notax="false" keepenchanted="false"/>
+
+    <!-- Fire -->
+    <item>
+        <ingredient id="29704" count="2"/>
+        <production id="29704" count="1" chance="0"/>
+        <production id="29704" count="1" chance="60"/>
+        <production id="29705" count="1" chance="40"/>
+    </item>
+    <item>
+        <ingredient id="29705" count="2"/>
+        <production id="29705" count="1" chance="0"/>
+        <production id="29705" count="1" chance="70"/>
+        <production id="29706" count="1" chance="30"/>
+    </item>
+    <item>
+        <ingredient id="29706" count="2"/>
+        <production id="29706" count="1" chance="0"/>
+        <production id="29706" count="1" chance="80"/>
+        <production id="29707" count="1" chance="20"/>
+    </item>
+    <item>
+        <ingredient id="29707" count="2"/>
+        <production id="29707" count="1" chance="0"/>
+        <production id="29707" count="1" chance="90"/>
+        <production id="29708" count="1" chance="10"/>
+    </item>
+
+    <!-- Water -->
+    <item>
+        <ingredient id="29709" count="2"/>
+        <production id="29709" count="1" chance="0"/>
+        <production id="29709" count="1" chance="60"/>
+        <production id="29710" count="1" chance="40"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29710" count="2"/>       
+        <production id="29710" count="1" chance="0"/>
+        <production id="29710" count="1" chance="70"/>
+        <production id="29711" count="1" chance="30"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29711" count="2"/>       
+        <production id="29711" count="1" chance="0"/>
+        <production id="29711" count="1" chance="80"/>
+        <production id="29712" count="1" chance="20"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29712" count="2"/>       
+        <production id="29712" count="1" chance="0"/>
+        <production id="29712" count="1" chance="90"/>
+        <production id="29713" count="1" chance="10"/>
+    </item>
+
+    <!-- Wind -->
+    <item>
+        <ingredient id="29714" count="2"/>
+        <production id="29714" count="1" chance="0"/>
+        <production id="29714" count="1" chance="60"/>
+        <production id="29715" count="1" chance="40"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29715" count="2"/>       
+        <production id="29715" count="1" chance="0"/>
+        <production id="29715" count="1" chance="70"/>
+        <production id="29716" count="1" chance="30"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29716" count="2"/>       
+        <production id="29716" count="1" chance="0"/>
+        <production id="29716" count="1" chance="80"/>
+        <production id="29717" count="1" chance="20"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29717" count="2"/>       
+        <production id="29717" count="1" chance="0"/>
+        <production id="29717" count="1" chance="90"/>
+        <production id="29719" count="1" chance="10"/>
+    </item>
+
+    <!-- Land -->
+    <item>
+        <ingredient id="29719" count="2"/>
+        <production id="29719" count="1" chance="0"/>
+        <production id="29719" count="1" chance="60"/>
+        <production id="29720" count="1" chance="40"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29720" count="2"/>       
+        <production id="29720" count="1" chance="0"/>
+        <production id="29720" count="1" chance="70"/>
+        <production id="29721" count="1" chance="30"/>
+    </item>                                      
+    <item>                                       
+        <ingredient id="29721" count="2"/>       
+        <production id="29721" count="1" chance="0"/>
+        <production id="29721" count="1" chance="80"/>
+        <production id="29722" count="1" chance="20"/>
+    </item>                                      
+       <item>                                    
+        <ingredient id="29722" count="2"/>       
+        <production id="29722" count="1" chance="0"/>
+        <production id="29722" count="1" chance="90"/>
+        <production id="29723" count="1" chance="10"/>
+    </item>
+</list>

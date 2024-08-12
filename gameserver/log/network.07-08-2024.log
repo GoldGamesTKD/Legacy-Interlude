@@ -1,0 +1,65 @@
+[07.08.24 17:50:55] Client: IN_GAME IP: 127.0.0.1 Account: tkd100 Player : COVID19[268537848] - Failed running: [C] Say2C - Server Version: 1019:1049M
+java.lang.NullPointerException: Cannot invoke "bosses.EpicBossState$State.ordinal()" because the return value of "bosses.EpicBossState.getState()" is null
+	at services.BossStatusService$EpicBossStatusInfo.getStatus(Unknown Source)
+	at services.BossStatusService.a(Unknown Source)
+	at services.BossStatusService.listBossStatusesWithMsg(Unknown Source)
+	at services.BossStatusService.useVoicedCommand(Unknown Source)
+	at l2.gameserver.network.l2.c2s.Say2C.runImpl(Unknown Source)
+	at l2.gameserver.network.l2.c2s.L2GameClientPacket.run(Unknown Source)
+	at l2.commons.net.nio.impl.MMOExecutableQueue.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[07.08.24 17:51:01] Client: IN_GAME IP: 127.0.0.1 Account: tkd100 Player : COVID19[268537848] - Failed running: [C] Say2C - Server Version: 1019:1049M
+java.lang.NullPointerException: Cannot invoke "bosses.EpicBossState$State.ordinal()" because the return value of "bosses.EpicBossState.getState()" is null
+	at services.BossStatusService$EpicBossStatusInfo.getStatus(Unknown Source)
+	at services.BossStatusService.a(Unknown Source)
+	at services.BossStatusService.listBossStatusesWithMsg(Unknown Source)
+	at services.BossStatusService.useVoicedCommand(Unknown Source)
+	at l2.gameserver.network.l2.c2s.Say2C.runImpl(Unknown Source)
+	at l2.gameserver.network.l2.c2s.L2GameClientPacket.run(Unknown Source)
+	at l2.commons.net.nio.impl.MMOExecutableQueue.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[07.08.24 17:51:52] RateLimit: Player COVID19/tkd100[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 17:56:01] RateLimit: Player COVID19/tkd100[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 18:09:14] RateLimit: Player zinabre/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 18:28:31] Incorrect packet size : 58818! Client : CONNECTED IP: 87.236.176.233. Closing connection.
+[07.08.24 18:28:49] Incorrect packet size : 1! Client : CONNECTED IP: 87.236.176.251. Closing connection.
+[07.08.24 18:29:59] Incorrect packet size : 49168! Client : CONNECTED IP: 87.236.176.234. Closing connection.
+[07.08.24 18:30:14] Incorrect packet size : 0! Client : CONNECTED IP: 87.236.176.233. Closing connection.
+[07.08.24 18:31:23] Incorrect packet size : 0! Client : CONNECTED IP: 87.236.176.240. Closing connection.
+[07.08.24 18:32:11] Incorrect packet size : 0! Client : CONNECTED IP: 87.236.176.225. Closing connection.
+[07.08.24 18:32:11] Incorrect packet size : 0! Client : CONNECTED IP: 87.236.176.225. Closing connection.
+[07.08.24 19:04:13] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:04:13] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:04:15] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:04:16] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:23:33] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:23:33] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 19:23:39] RateLimit: Player zinas/cleitingato[201.162.73.255/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[07.08.24 23:46:04] Client: IN_GAME IP: 127.0.0.1 Account: tkd1 Player : asdadasd[268536365] - Failed running: [C] Say2C - Server Version: 1019:1049M
+java.lang.NullPointerException: Cannot invoke "bosses.EpicBossState$State.ordinal()" because the return value of "bosses.EpicBossState.getState()" is null
+	at services.BossStatusService$EpicBossStatusInfo.getStatus(Unknown Source)
+	at services.BossStatusService.a(Unknown Source)
+	at services.BossStatusService.listBossStatusesWithMsg(Unknown Source)
+	at services.BossStatusService.useVoicedCommand(Unknown Source)
+	at l2.gameserver.network.l2.c2s.Say2C.runImpl(Unknown Source)
+	at l2.gameserver.network.l2.c2s.L2GameClientPacket.run(Unknown Source)
+	at l2.commons.net.nio.impl.MMOExecutableQueue.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[07.08.24 23:46:08] Client: IN_GAME IP: 127.0.0.1 Account: tkd1 Player : asdadasd[268536365] - Failed running: [C] Say2C - Server Version: 1019:1049M
+java.lang.NullPointerException: Cannot invoke "bosses.EpicBossState$State.ordinal()" because the return value of "bosses.EpicBossState.getState()" is null
+	at services.BossStatusService$EpicBossStatusInfo.getStatus(Unknown Source)
+	at services.BossStatusService.a(Unknown Source)
+	at services.BossStatusService.listBossStatusesWithMsg(Unknown Source)
+	at services.BossStatusService.useVoicedCommand(Unknown Source)
+	at l2.gameserver.network.l2.c2s.Say2C.runImpl(Unknown Source)
+	at l2.gameserver.network.l2.c2s.L2GameClientPacket.run(Unknown Source)
+	at l2.commons.net.nio.impl.MMOExecutableQueue.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)

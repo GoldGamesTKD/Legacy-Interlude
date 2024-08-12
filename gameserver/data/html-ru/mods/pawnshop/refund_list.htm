@@ -1,0 +1,27 @@
+<html>
+<title>Pawn shop » My items</title>
+<body>
+<table width=282 border=0 cellspacing=0 cellpadding=0 bgcolor="000000">
+<tr><td align=center>
+    <table width=282 height=28 border=0 cellspacing=0 cellpadding=0>
+    <tr>
+        <td fixwidth=94><button width=94 height=28 back="L2UI_CT1.Tab_DF_Tab_Unselected" fore="L2UI_CT1.Tab_DF_Tab_Unselected" value="Купить" action="bypass -h scripts_services.pawnshop.PawnShop:buyList"></td>
+        <td fixwidth=94><button width=94 height=28 back="L2UI_CT1.Tab_DF_Tab_Unselected" fore="L2UI_CT1.Tab_DF_Tab_Unselected" value="Продать" action="bypass -h scripts_services.pawnshop.PawnShop:sellList"></td>
+        <td fixwidth=94><button width=94 height=28 back="L2UI_CT1.Tab_DF_Tab_Selected" fore="L2UI_CT1.Tab_DF_Tab_Selected" value="Мои предметы"  ></td>
+    </tr>
+    </table>
+</td></tr>
+<tr><td align=center>
+<br>
+%list%
+<br>
+<img src="L2UI.SquareWhite" width=270 height=1>
+</td></tr>
+<tr><td align=center>
+<br>
+%paging%
+<br>
+</td></tr>
+</table>
+</body>
+</html>

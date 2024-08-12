@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="39123" levels="1" name="Melissa's Healing Potion">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.etc_bm_hero_red_potion"/>
+        <set name="reuseDelay" val="1000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="300" />
+        <set name="itemConsumeId" val="49663"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="isHandler" val="true"/>
+        <set name="altUse" val="true"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+        <for>
+            <effect count="1" name="Heal" time="0" val="500" ignoreHpEff="true"/>
+        </for>
+    </skill>
+    <skill id="39118" levels="1" name="Scroll: 2000 SP">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.etc_sp_scroll1_i00"/>
+        <set name="reuseDelay" val="2000"/>
+        <set name="power" val="2000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="200"/>
+        <set name="itemConsumeId" val="49595"/>
+        <set name="itemConsumeCount" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SPHEAL"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="39181" levels="1" name="XP Scroll: 10K">
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill0000" />
+        <set name="reuseDelay" val="500" />
+        <set name="power" val="10000" />
+        <set name="magicLevel" val="1" />
+        <set name="hitTime" val="200" />
+        <set name="itemConsumeId" val="49778" />
+        <set name="itemConsumeCount" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="EXPHEAL" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="altUse" val="true" />
+        <set name="isHandler" val="true" />
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="39182" levels="1" name="XP Scroll: 100K">
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill0000" />
+        <set name="reuseDelay" val="500" />
+        <set name="power" val="100000" />
+        <set name="magicLevel" val="1" />
+        <set name="hitTime" val="200" />
+        <set name="itemConsumeId" val="49779" />
+        <set name="itemConsumeCount" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="EXPHEAL" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="altUse" val="true" />
+        <set name="isHandler" val="true" />
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="39183" levels="1" name="XP Scroll: 500K">
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill0000" />
+        <set name="reuseDelay" val="500" />
+        <set name="power" val="500000" />
+        <set name="magicLevel" val="1" />
+        <set name="hitTime" val="200" />
+        <set name="itemConsumeId" val="49780" />
+        <set name="itemConsumeCount" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="EXPHEAL" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="altUse" val="true" />
+        <set name="isHandler" val="true" />
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="39184" levels="1" name="XP Scroll: 1M">
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill0000" />
+        <set name="reuseDelay" val="500" />
+        <set name="power" val="1000000" />
+        <set name="magicLevel" val="1" />
+        <set name="hitTime" val="200" />
+        <set name="itemConsumeId" val="49781" />
+        <set name="itemConsumeCount" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="EXPHEAL" />
+        <set name="operateType" val="OP_ACTIVE" />
+        <set name="altUse" val="true" />
+        <set name="isHandler" val="true" />
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+</list>

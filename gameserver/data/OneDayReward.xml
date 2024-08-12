@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<one_day_reward>
+		<id>1001</id>
+		<name>Daily Hunting (Lv. 20 or lower)</name>
+		<description>Hunt 30 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Kill 30 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>30</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player maxLevel="20"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1002</id>
+		<name>Daily Hunting (Lv. 21-40)</name>
+		<description>Hunt 30 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Kill 30 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>30</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="21"/>
+				<player maxLevel="40"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="49779" count="1"/>
+			<reward_item id="49595" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1003</id>
+		<name>Daily Hunting (Lv. 41-50)</name>
+		<description>Hunt 40 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 40 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>40</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="50"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1004</id>
+		<name>Daily Hunting (Lv. 51-60)</name>
+		<description>Hunt 50 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 50 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>50</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="51"/>
+				<player maxLevel="60"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1005</id>
+		<name>Daily Hunting (Lv. 61-70)</name>
+		<description>Hunt 60 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 60 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>60</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="70"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1006</id>
+		<name>Daily Hunting (Lv. 71-75)</name>
+		<description>Hunt 80 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 80 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>80</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="71"/>
+				<player maxLevel="75"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1007</id>
+		<name>Daily Hunting (Lv. 76 or higher)</name>
+		<description>Hunt 100 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 100 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="71683" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1015</id>
+		<name>Go Fishing</name>
+		<description>Fish 100 times to complete the mission. \nYou can play this mission only once a week.</description>
+		<target>Obtainable by fishing 100 times</target>
+		<reset_time>WEEKLY</reset_time>
+		<requirement>
+			<fishing>100</fishing>
+		</requirement>
+		<reward_items>
+			<reward_item id="49508" count="1000"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1017</id>
+		<name>Log-in on Weekends</name>
+		<description>Log in Saturday or Sunday to complete the mission. \nYou can play this mission only once a week.</description>
+		<target>Obtainable by logging in on weekends</target>
+		<reset_time>WEEKLY</reset_time>
+		<requirement>
+			<login/>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1023</id>
+		<name>Join a Clan</name>
+		<description>Join a clan to complete the mission. \nYou can play this mission only once.</description>
+		<target>Obtainable by joining a clan</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<join_clan/>
+		</requirement>
+		<reward_items>
+			<reward_item id="29978" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1102</id>
+		<name>Alligator Island Exploration (Level 35-50)</name>
+		<description>Completed when 100 Nos are hunted on Alligator Island. Can be done daily.</description>
+		<target>Can be received when 100 Nos are hunted</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="35"/>
+				<player maxLevel="50"/>
+				<target mobId="20808"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49781" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1103</id>
+		<name>Forest of Mirrors Exploration (Level 45-60)</name>
+		<description>Completed when 30 Earth's Guardian Harit are hunted in the Forest of Mirrors. Can be done daily.</description>
+		<target>Can be received when 30 Harit are hunted</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>30</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="45"/>
+				<player maxLevel="60"/>
+				<target mobId="20640;20641;20642;20643;20644;20645"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49781" count="7"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1104</id>
+		<name>Seal of Shilen Exploration (Level 55-70)</name>
+		<description>Completed when 30 Guardian Palibati are hunted in the Seal of Shilen. Can be done daily.</description>
+		<target>Can be received when 30 Palibati are hunted</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>30</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="55"/>
+				<player maxLevel="70"/>
+				<target mobId="20673"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49781" count="9"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1105</id>
+		<name>Forsaken Plains Exploration (Level 65-75)</name>
+		<description>Completed when 30 Forsaken Brave Sharp Talon Tigers are hunted on the Forsaken Plains. Can be done daily.</description>
+		<target>Can be received when 30 Sharp Talon Tigers are hunted</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>30</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="65"/>
+				<player maxLevel="75"/>
+				<target mobId="21021"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49781" count="11"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1106</id>
+		<name>Hot Springs Exploration (Level 76 +)</name>
+		<description>Completed when 100 Hot Springs Yeti, Hot Springs Buffalo, Hot Springs Grendel are hunted. Can be done daily.</description>
+		<target>Can be received when 100 Hot Springs Yeti, Hot Springs Buffalo, Hot Springs Grendel are hunted</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="21320;21315;21323"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="90917" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<!-- <one_day_reward>
+        <id>1112</id>
+        <name>Attain Fire Spirits 3 Stars</name>
+        <description>Evolve your Fire Spirits. \nCompleted when evolved to 3 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Fire Attack Spirits is evolved to 3 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91185" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1113</id>
+        <name>Attain Water Spirits 3 Stars</name>
+        <description>Evolve your Water Spirits. \nCompleted when evolved to 3 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Water Attack Spirits are evolved to 3 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91185" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1114</id>
+        <name>Attain Wind Spirits 3 Stars</name>
+        <description>Evolve your Wind Spirits. \nCompleted when evolved to 3 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Wind Attack Spirits are evolved to 3 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91185" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1115</id>
+        <name>Attain Earth Spirits 3 Stars</name>
+        <description>Evolve your Earth Spirits. \nCompleted when evolved to 3 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Earth Attack Spirits are evolved to 3 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91185" count="30"/>
+        </reward_items>
+    </one_day_reward> -->
+	<one_day_reward>
+		<id>1116</id>
+		<name>Attribute Monster Hunt</name>
+		<description>Hunt Monsters with Attributes. Mission can only be completed 1 time in 1 week.</description>
+		<target>Can be received when 1,800 Attribute Monsters are hunted</target>
+		<reset_time>WEEKLY</reset_time>
+		<requirement>
+			<kill_mob>1800</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91030" count="10"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1117</id>
+		<name>Giant's Cave Exploration</name>
+		<description>Completed when 200 Monsters are hunted on the Upper and Lower Level excluding entrance to Giant's Cave. Can be done daily. \n(Level 76 or higher may engage in hunt)</description>
+		<target>Can be received when 200 Giant's Cave Monsters are hunted.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="21059;20646;20647;20648;20649;20650;20651;20652;20653;20654;20655;20656;20657;20658;20771;20772;25162;25467;25471;25140"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="90917" count="3"/>
+			<reward_item id="91030" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1118</id>
+		<name>Forgotten Island Exploration</name>
+		<description>Completed when 200 Monsters are hunted in the inner area of Forgotten Island past entrance. Can be done daily. \n(Level 78 or higher may engage in hunt)</description>
+		<target>Can be received when 200 Forgotten Island Monsters are hunted.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="78"/>
+				<player maxLevel="99"/>
+				<target mobId="22218;22219;22201;22202;22204;22205;18346;22197;22198;22223;22225;22215;22216;22217;22199"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="90917" count="3"/>
+			<reward_item id="91030" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1126</id>
+		<name>Daily Hunting II (Lv. 20 or lower)</name>
+		<description>Hunt 50 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 50 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>50</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player maxLevel="20"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1127</id>
+		<name>Daily Hunting II (Lv. 21-40)</name>
+		<description>Hunt 60 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 60 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>60</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="21"/>
+				<player maxLevel="40"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+			<reward_item id="49779" count="1"/>
+			<reward_item id="49595" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1128</id>
+		<name>Daily Hunting II (Lv. 41-50)</name>
+		<description>Hunt 80 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 80 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>80</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="50"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1129</id>
+		<name>Daily Hunting II (Lv. 51-60)</name>
+		<description>Hunt 100 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing100 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="51"/>
+				<player maxLevel="60"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1130</id>
+		<name>Daily Hunting II (Lv. 61-70)</name>
+		<description>Hunt 120 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 120 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>120</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="70"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1131</id>
+		<name>Daily Hunting II (Lv. 71-75)</name>
+		<description>Hunt 150 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 150 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>150</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="71"/>
+				<player maxLevel="75"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1132</id>
+		<name>Daily Hunting II (Lv. 76 or higher)</name>
+		<description>Hunt 200 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 200 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1133</id>
+		<name>Daily Hunting III (Lv. 20 or lower)</name>
+		<description>Hunt 80 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 80 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>80</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player maxLevel="20"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1134</id>
+		<name>Daily Hunting III (Lv. 21-40)</name>
+		<description>Hunt 100 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing100 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="21"/>
+				<player maxLevel="40"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+			<reward_item id="49779" count="1"/>
+			<reward_item id="49595" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1135</id>
+		<name>Daily Hunting III (Lv. 41-50)</name>
+		<description>Hunt 120 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 120 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>120</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="50"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1136</id>
+		<name>Daily Hunting III (Lv. 51-60)</name>
+		<description>Hunt 150 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 150 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>150</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="51"/>
+				<player maxLevel="60"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1137</id>
+		<name>Daily Hunting III (Lv. 61-70)</name>
+		<description>Hunt 180 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 180 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>180</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="70"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1138</id>
+		<name>Daily Hunting III (Lv. 71-75)</name>
+		<description>Hunt 200 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 200 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="71"/>
+				<player maxLevel="75"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1139</id>
+		<name>Daily Hunting III (Lv. 76 or higher)</name>
+		<description>Hunt 300 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 300 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>300</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1141</id>
+		<name>Adventurer's Journey I (Lv. 20-30)</name>
+		<description>Completed when killing 100 monsters in Ruins of Agony/Abandoned Camp.</description>
+		<target>Obtain after killing 100 monters in the recommended hunting ground</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="20"/>
+				<player maxLevel="30"/>
+				<target mobId="20042;20045;20054;20029;20035;20050;20359;20064;20062;20060;20439;20436;20066;20076;20058;20061;20063"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91654" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1142</id>
+		<name>Adventurer's Journey II (Lv. 31-40)</name>
+		<description>Completed when killing 200 monsters in Gorgon Flower Garden/Ant Nest/Death Pass.</description>
+		<target>Obtain after killing 200 monters in the recommended hunting ground</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="31"/>
+				<player maxLevel="40"/>
+				<target mobId="20079;20080;20081;20082;20083;20084;20085;20086;20087;20088;20089;20176;20248;20249;20158;20554;20552;20551;20550;20553"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91655" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1143</id>
+		<name>Adventurer's Journey III (Lv. 41-60)</name>
+		<description>Completed when killing 500 monsters in Ivory Tower Crater/Sea of Spores/Cemetery/Enchanted Valley/Fields of Massacre.</description>
+		<target>Obtain after killing 500 monters in the recommended hunting ground</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_mob>500</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="60"/>
+				<target mobId="20563;20564;20565;20566;20567;20235;20555;20556;20557;20558;20559;20560;20561;20562;20996;20997;20675;20589;20590;20591;20592;20593;20594;20595;20596;20597;20598;20599;21001;21002;21003;21004;21005;21006"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91656" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1144</id>
+		<name>Adventurer's Journey IV (Lv. 61-75)</name>
+		<description>Completed when killing 700 monsters in Plains of Glory/War-Torn Plains/The Patriot's Necropolis/Necropolis of Devotion/Silent Valley.</description>
+		<target>Obtain after killing 700 monsters in the recommended hunting ground</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_mob>700</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="75"/>
+				<target mobId="20681;20682;20683;20684;20685;20686;20659;20660;20661;20662;20663;20664;21177;21178;21198;21199;21221;21222;21223;21153;21224;21225;21179;21200;20972;20966;20969;20973"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91657" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1145</id>
+		<name>Adventurer’s Journey V (Lv. 76+)</name>
+		<description>Completed when killing 1000 monsters in Wind Plateau / Forge of the Gods / Wall of Argos / Garden of Eva.</description>
+		<target>Obtain after killing 1000 monsters in the recommended hunting ground.</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_mob>1000</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="21382;21383;21384;21376;21377;21378;21379;21380;21381;21652;21653;21654;21394;21298;21299;21301;21302;21303;21304;21305;20994;20800;20801;20802;20803"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91931" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1146</id>
+		<name>Daily Hunting IV (Lv. 20 or lower)</name>
+		<description>Hunt 100 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing100 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>100</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player maxLevel="20"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1147</id>
+		<name>Daily Hunting IV (Lv. 21-40)</name>
+		<description>Hunt 130 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 130 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>130</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="21"/>
+				<player maxLevel="40"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+			<reward_item id="49779" count="1"/>
+			<reward_item id="49595" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1148</id>
+		<name>Daily Hunting IV (Lv. 41-50)</name>
+		<description>Hunt 160 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 160 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>160</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="50"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1149</id>
+		<name>Daily Hunting IV (Lv. 51-60)</name>
+		<description>Hunt 200 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 200 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="51"/>
+				<player maxLevel="60"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1150</id>
+		<name>Daily Hunting IV (Lv. 61-70)</name>
+		<description>Hunt 240 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 240 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>240</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="70"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1151</id>
+		<name>Daily Hunting IV (Lv. 71-75)</name>
+		<description>Hunt 300 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 300 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>300</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="71"/>
+				<player maxLevel="75"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1152</id>
+		<name>Daily Hunting IV (Lv. 76 or higher)</name>
+		<description>Hunt 400 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 400 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>400</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1153</id>
+		<name>Daily Hunting V (Lv. 20 or lower)</name>
+		<description>Hunt 130 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 130 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>130</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="1"/>
+				<player maxLevel="20"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1154</id>
+		<name>Daily Hunting V (Lv. 21-40)</name>
+		<description>Hunt 160 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 160 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>160</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="21"/>
+				<player maxLevel="40"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="2"/>
+			<reward_item id="49779" count="1"/>
+			<reward_item id="49595" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1155</id>
+		<name>Daily Hunting V (Lv. 41-50)</name>
+		<description>Hunt 200 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 200 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>200</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="41"/>
+				<player maxLevel="50"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1156</id>
+		<name>Daily Hunting V (Lv. 51-60)</name>
+		<description>Hunt 250 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 250 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>250</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="51"/>
+				<player maxLevel="60"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1157</id>
+		<name>Daily Hunting V (Lv. 61-70)</name>
+		<description>Hunt 300 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 300 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>300</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="61"/>
+				<player maxLevel="70"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1158</id>
+		<name>Daily Hunting V (Lv. 71-75)</name>
+		<description>Hunt 400 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 400 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>400</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="71"/>
+				<player maxLevel="75"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>1159</id>
+		<name>Daily Hunting V (Lv. 76 or higher)</name>
+		<description>Hunt 500 monsters to complete the mission. You can play this mission every day. You should hunt monsters of level (Character level - 10) or above.</description>
+		<target>Obtain after killing 500 monsters.</target>
+		<reset_time>DAILY</reset_time>
+		<requirement>
+			<kill_mob>500</kill_mob>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<!-- <one_day_reward>
+        <id>1162</id>
+        <name>Attain Fire Spirits 5 Stars</name>
+        <description>Evolve your Fire Spirits. \nCompleted when evolved to 5 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Fire Attack Spirits is evolved to 5 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91186" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1163</id>
+        <name>Attain Water Spirits 5 Stars</name>
+        <description>Evolve your Water Spirits. \nCompleted when evolved to 5 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Water Attack Spirits are evolved to 5 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91186" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1164</id>
+        <name>Attain Wind Spirits 5 Stars</name>
+        <description>Evolve your Wind Spirits. \nCompleted when evolved to 5 Stars. \nMission can only be completed 1 time.</description>
+        <target>Can be received when Wind Attack Spirits are evolved to 5 Stars.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91186" count="30"/>
+        </reward_items>
+    </one_day_reward>
+    <one_day_reward>
+        <id>1165</id>
+        <name>Attain Earth Spirits 5 Stars</name>
+        <description>Evolve your Earth Spirits. \nCompleted when evolved to 5 Stars. \nMission can only be completed 1 time.</description>
+        <target>Evolve an Earth Spirit to 5 stars to receive the reward.</target>
+        <reset_time>SINGLE</reset_time>
+        <can_condition_level_min>40</can_condition_level_min>
+        <can_condition_level_max>99</can_condition_level_max>
+        <category>2</category>
+        <reward_items>
+            <reward_item id="91186" count="30"/>
+        </reward_items>
+    </one_day_reward> -->
+	<one_day_reward>
+		<id>4000</id>
+		<name>Reach Level 10</name>
+		<description>Level up your character to Lv. 10 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 10 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>10</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90907" count="5"/>
+			<reward_item id="49778" count="1"/>
+			<reward_item id="49495" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4001</id>
+		<name>Reach Level 20</name>
+		<description>Level up your character to Lv. 20 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 20 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>20</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90907" count="5"/>
+			<reward_item id="49488" count="10"/>
+			<reward_item id="49778" count="8"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4002</id>
+		<name>Reach Level 30</name>
+		<description>Level up your character to Lv. 30 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 30 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>30</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90907" count="15"/>
+			<reward_item id="49488" count="20"/>
+			<reward_item id="49779" count="9"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4003</id>
+		<name>Reach Level 40</name>
+		<description>Level up your character to Lv. 40 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 40 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>40</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90907" count="20"/>
+			<reward_item id="49488" count="30"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4004</id>
+		<name>Reach Level 45</name>
+		<description>Level up your character to Lv. 45 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 45 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>45</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="49781" count="4"/>
+			<reward_item id="49674" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4005</id>
+		<name>Reach Level 50</name>
+		<description>Level up your character to Lv. 50 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 50 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>50</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="49781" count="8"/>
+			<reward_item id="49674" count="6"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4006</id>
+		<name>Reach Level 55</name>
+		<description>Level up your character to Lv. 55 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 55 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>55</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="49781" count="14"/>
+			<reward_item id="49674" count="9"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4007</id>
+		<name>Reach Level 60</name>
+		<description>Level up your character to Lv. 60 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 60 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>60</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="49781" count="25"/>
+			<reward_item id="49674" count="9"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4008</id>
+		<name>Level Up to Lv. 65</name>
+		<description>Level up your character to Lv. 65 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 65 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>65</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90917" count="4"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="3"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4009</id>
+		<name>Level Up to Lv. 68</name>
+		<description>Level up your character to Lv. 68 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 68 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>68</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90917" count="6"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="6"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4010</id>
+		<name>Reach Level 71</name>
+		<description>Level up your character to Lv. 71 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 71 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>71</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90917" count="8"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="9"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4011</id>
+		<name>Reach Level 74</name>
+		<description>Level up your character to Lv. 74 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 74 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>74</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="90917" count="12"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="12"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4012</id>
+		<name>Reach Level 76</name>
+		<description>Level up your character to Lv. 76 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 76 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>76</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="12"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="12"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4013</id>
+		<name>Reach Level 78</name>
+		<description>Level up your character to Lv. 78 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 78 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>78</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="12"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="12"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4014</id>
+		<name>Reach Level 79</name>
+		<description>Level up your character to Lv. 79 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 79 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>79</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="12"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="12"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4015</id>
+		<name>Reach Level 80</name>
+		<description>Level up your character to Lv. 80 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 80 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>80</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="12"/>
+			<reward_item id="49674" count="12"/>
+			<reward_item id="91781" count="15"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4016</id>
+		<name>Reach Level 81</name>
+		<description>Level up your character to Lv. 81 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 81 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>81</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="12"/>
+			<reward_item id="49674" count="15"/>
+			<reward_item id="91781" count="15"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4017</id>
+		<name>Reach Level 82</name>
+		<description>Level up your character to Lv. 82 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 82 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>82</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="15"/>
+			<reward_item id="49674" count="15"/>
+			<reward_item id="91781" count="15"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4018</id>
+		<name>Reach Level 83</name>
+		<description>Level up your character to Lv. 83 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 83 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>83</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="15"/>
+			<reward_item id="49674" count="15"/>
+			<reward_item id="91781" count="18"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4019</id>
+		<name>Reach Level 84</name>
+		<description>Level up your character to Lv. 84 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 84 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>84</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91780" count="15"/>
+			<reward_item id="49674" count="18"/>
+			<reward_item id="91781" count="18"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4020</id>
+		<name>Reach Level 85</name>
+		<description>Level up your character to Lv. 85 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 85 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>85</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="85"/>
+			<reward_item id="49674" count="85"/>
+			<reward_item id="91780" count="85"/>
+			<reward_item id="93062" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4021</id>
+		<name>Reach Level 86</name>
+		<description>Level up your character to Lv. 86 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 86 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>86</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="86"/>
+			<reward_item id="49674" count="86"/>
+			<reward_item id="91780" count="86"/>
+			<reward_item id="93064" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4022</id>
+		<name>Reach Level 87</name>
+		<description>Level up your character to Lv. 87 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 87 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>87</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="87"/>
+			<reward_item id="49674" count="87"/>
+			<reward_item id="91780" count="87"/>
+			<reward_item id="93059" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4023</id>
+		<name>Reach Level 88</name>
+		<description>Level up your character to Lv. 88 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 88 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>88</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="88"/>
+			<reward_item id="49674" count="88"/>
+			<reward_item id="91780" count="88"/>
+			<reward_item id="93063" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4024</id>
+		<name>Reach Level 89</name>
+		<description>Level up your character to Lv. 89 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 89 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>89</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="89"/>
+			<reward_item id="49674" count="89"/>
+			<reward_item id="91780" count="89"/>
+			<reward_item id="93061" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>4026</id>
+		<name>Reach Level 90</name>
+		<description>Level up your character to Lv. 90 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 90 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>90</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="91781" count="90"/>
+			<reward_item id="49674" count="90"/>
+			<reward_item id="91780" count="90"/>
+			<reward_item id="94046" count="1"/>
+			<reward_item id="99221" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>3007</id>
+		<name>Special Reward for reaching Lv. 90</name>
+		<description>Level up your character to Lv. 90 to receive the reward. (Only once)</description>
+		<target>Can be received when Level 90 is reached</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<obtain_level>90</obtain_level>
+		</requirement>
+		<reward_items>
+			<reward_item id="93974" count="1"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>9001</id>
+		<name>Attack Clan Raid</name>
+		<description>Hunt 1 raid monster in the Clan Arena. You can play the mission only once a week. (Must be part of a clan to complete.)</description>
+		<target>Hunt 1 raid monster in the Clan Arena to receive the reward.</target>
+		<reset_time>WEEKLY</reset_time>
+		<requirement>
+			<kill_raid>1</kill_raid>
+		</requirement>
+		<cond> <!-- TODO add condition: clanMember-->
+			<and>
+				<player minLevel="40"/>
+				<player maxLevel="99"/>
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91781" count="3"/>
+			<reward_item id="94481" count="500"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>9002</id>
+		<name>Defeat Spirits King Ignis</name>
+		<description>Completed when Spirits King Ignis is defeated 10 times at Spirit King's Abode. Can only be completed 1 time. (Level 76 or higher may engage in battle)</description>
+		<target>Can be received when Spirits King Ignis is defeated 10 times</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_raid>10</kill_raid>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="29105"/> <!-- Spirits King Ignis -->
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91125" count="1"/>
+			<reward_item id="94481" count="250"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>9003</id>
+		<name>Defeat Spirits Queen Nebula</name>
+		<description>Completed when Spirits Queen Nebula is defeated 10 times at Spirit Queen's Abode. Can only be completed 1 time. (Level 76 or higher may engage in battle)</description>
+		<target>Can be received when Spirits Queen Nebula is defeated 10 times</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_raid>10</kill_raid>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="29106"/> <!-- Spirits Queen Nebula -->
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91126" count="1"/>
+			<reward_item id="94481" count="250"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>9004</id>
+		<name>Defeat Spirits King Procella</name>
+		<description>Completed when Spirits King Procella is defeated 10 times at Spirit King's Abode. Can only be completed 1 time. (Level 76 or higher may engage in battle)</description>
+		<target>Can be received when Spirits King Procella is defeated 10 times</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_raid>10</kill_raid>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="29108"/> <!-- Spirits King Procella -->
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91127" count="1"/>
+			<reward_item id="94481" count="250"/>
+		</reward_items>
+	</one_day_reward>
+	<one_day_reward>
+		<id>9005</id>
+		<name>Defeat Spirits King Petram</name>
+		<description>Completed when Spirits King Petram is defeated 10 times at Spirit King's Abode. Can only be completed 1 time. (Level 76 or higher may engage in battle)</description>
+		<target>Can be received when Spirits King Petram is defeated 10 times</target>
+		<reset_time>SINGLE</reset_time>
+		<requirement>
+			<kill_raid>10</kill_raid>
+		</requirement>
+		<cond>
+			<and>
+				<player minLevel="76"/>
+				<player maxLevel="99"/>
+				<target mobId="29109"/> <!-- Spirits King Petram -->
+			</and>
+		</cond>
+		<reward_items>
+			<reward_item id="91128" count="1"/>
+			<reward_item id="94481" count="250"/>
+		</reward_items>
+	</one_day_reward>
+</list>

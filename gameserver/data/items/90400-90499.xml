@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<etcitem id="90407" name="Chef's Fish Stew - Victory">
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.bm_freya_gift_box"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<skills>
+			<skill id="39228" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="90408" name="Chef's Fish Stew - Fire">
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.bm_freya_gift_box"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<skills>
+			<skill id="39229" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="90409" name="Chef's Fish Stew - Water">
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.bm_freya_gift_box"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<skills>
+			<skill id="39230" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="90410" name="Chef's Fish Stew - Wind">
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.bm_freya_gift_box"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="SCROLL"/>
+		<skills>
+			<skill id="39231" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+	<etcitem id="90415" name="Warrior MP Recovery Potion">
+		<!-- [mana_potion] -->
+		<set name="tradeable" value="false"/>
+		<set name="storeable" value="false"/>
+		<set name="dropable" value="false"/>
+		<set name="sellable" value="false"/>
+		<set name="class" value="CONSUMABLE"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="icon" value="icon.etc_reagent_blue_i00"/>
+		<set name="stackable" value="true"/>
+		<set name="type" value="POTION"/>
+		<set name="weight" value="180"/>
+		<skills>
+			<skill id="39258" level="1"/>
+		</skills>
+		<cond msgId="1508">
+			<not>
+				<player olympiad="true"/>
+			</not>
+		</cond>
+	</etcitem>
+</list>

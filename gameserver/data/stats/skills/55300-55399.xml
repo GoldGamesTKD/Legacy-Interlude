@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="55399" levels="1" name="Tryout Glorious Cloak">
+        <!-- P./ M. Def. +3%%, Speed +10. -->
+        <set name="icon" val="icon.vesper_cloack_i00"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="pDef" val="1.03"/>
+            <mul order="0x30" stat="mDef" val="1.03"/>
+            <add order="0x40" stat="runSpd" val="10"/>
+        </for>
+    </skill>
+</list>

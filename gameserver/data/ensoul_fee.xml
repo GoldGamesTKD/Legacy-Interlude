@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "ensoul_fee.dtd">
+<list>
+    <ensoul_fee grade="D">
+        <insert_fee type="1">
+            <item id="2130" amount="107"/>
+            <item id="2130" amount="535"/>
+        </insert_fee>
+        <insert_fee type="2">
+            <item id="2130" amount="535"/>
+        </insert_fee>
+        <replace_fee type="1">
+            <item id="2130" amount="89"/>
+            <item id="2130" amount="89"/>
+        </replace_fee>
+        <replace_fee type="2">
+            <item id="2130" amount="89"/>
+        </replace_fee>
+        <remove_fee type="1">
+            <item id="2130" amount="89"/>
+        </remove_fee>
+        <remove_fee type="2">
+            <item id="2130" amount="178"/>
+        </remove_fee>
+    </ensoul_fee>
+    <ensoul_fee grade="C">
+        <insert_fee type="1">
+            <item id="2131" amount="177"/>
+            <item id="2131" amount="885"/>
+        </insert_fee>
+        <insert_fee type="2">
+            <item id="2131" amount="885"/>
+        </insert_fee>
+        <replace_fee type="1">
+            <item id="2131" amount="89"/>
+            <item id="2131" amount="89"/>
+        </replace_fee>
+        <replace_fee type="2">
+            <item id="2131" amount="89"/>
+        </replace_fee>
+        <remove_fee type="1">
+            <item id="2131" amount="89"/>
+        </remove_fee>
+        <remove_fee type="2">
+            <item id="2131" amount="178"/>
+        </remove_fee>
+    </ensoul_fee>
+    <ensoul_fee grade="B">
+        <insert_fee type="1">
+            <item id="2132" amount="112"/>
+            <item id="2132" amount="560"/>
+        </insert_fee>
+        <insert_fee type="2">
+            <item id="2132" amount="560"/>
+        </insert_fee>
+        <replace_fee type="1">
+            <item id="2132" amount="56"/>
+            <item id="2132" amount="56"/>
+        </replace_fee>
+        <replace_fee type="2">
+            <item id="2132" amount="112"/>
+        </replace_fee>
+        <remove_fee type="1">
+            <item id="2132" amount="19"/>
+            <item id="57" amount="700000"/>
+        </remove_fee>
+        <remove_fee type="2">
+            <item id="2132" amount="190"/>
+            <item id="57" amount="5000000"/>
+        </remove_fee>
+    </ensoul_fee>
+    <ensoul_fee grade="A">
+        <insert_fee type="1">
+            <item id="2133" amount="5"/>
+            <item id="2133" amount="5"/>
+        </insert_fee>
+        <insert_fee type="2">
+            <item id="2133" amount="15"/>
+        </insert_fee>
+        <replace_fee type="1">
+            <item id="2133" amount="2"/>
+            <item id="2133" amount="2"/>
+        </replace_fee>
+        <replace_fee type="2">
+            <item id="2133" amount="10"/>
+        </replace_fee>
+        <remove_fee type="1">
+            <item id="2133" amount="5"/>
+            <item id="57" amount="3500000"/>
+        </remove_fee>
+        <remove_fee type="2">
+            <item id="2133" amount="13"/>
+            <item id="57" amount="5000000"/>
+        </remove_fee>
+    </ensoul_fee>
+    <ensoul_fee grade="S">
+        <insert_fee type="1">
+            <item id="2134" amount="124"/>
+            <item id="2134" amount="486"/>
+        </insert_fee>
+        <insert_fee type="2">
+            <item id="2134" amount="486"/>
+        </insert_fee>
+        <replace_fee type="1">
+            <item id="2134" amount="40"/>
+            <item id="2134" amount="40"/>
+        </replace_fee>
+        <replace_fee type="2">
+            <item id="2134" amount="40"/>
+        </replace_fee>
+        <remove_fee type="1">
+            <item id="2134" amount="207"/>
+            <item id="57" amount="10000000"/>
+        </remove_fee>
+        <remove_fee type="2">
+            <item id="2134" amount="452"/>
+            <item id="57" amount="10000000"/>
+        </remove_fee>
+    </ensoul_fee>
+</list>

@@ -1,0 +1,3 @@
+0	L2GoldGames Legacy Project.
+0	Alt+B permite abrir a Community Board para buffs e informações adicionais.
+0	Alt+T permite adicionar 1 ponto a cada level que você evolui!

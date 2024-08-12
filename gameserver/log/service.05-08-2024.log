@@ -1,0 +1,729 @@
+[05.08.24 00:05:20] [NpcClassMaster] [DarkElfMago-268545187]  got a classId dark_wizard
+[05.08.24 00:09:20] [NpcClassMaster] [ElfArcher-268544322]  got a classId elven_scout
+[05.08.24 00:27:56] [NpcClassMaster] [OzzY-268544217]  got a classId orc_raider
+[05.08.24 00:50:17] [NpcClassMaster] [karma-268544196]  got a classId wizard
+[05.08.24 00:55:53] [NpcClassMaster] [evanger-268544242]  got a classId dark_wizard
+[05.08.24 02:27:24] [Levelup] [karma-268544196] Levelup on - 1 and old level - 26 bought for 57 amount 1000
+[05.08.24 02:27:30] [Levelup] [karma-268544196] Levelup on - 1 and old level - 27 bought for 57 amount 1000
+[05.08.24 02:27:31] [Levelup] [karma-268544196] Levelup on - 1 and old level - 28 bought for 57 amount 1000
+[05.08.24 02:27:32] [Levelup] [karma-268544196] Levelup on - 1 and old level - 29 bought for 57 amount 1000
+[05.08.24 02:27:33] [Levelup] [karma-268544196] Levelup on - 1 and old level - 30 bought for 57 amount 1000
+[05.08.24 02:27:34] [Levelup] [karma-268544196] Levelup on - 1 and old level - 31 bought for 57 amount 1000
+[05.08.24 02:27:35] [Levelup] [karma-268544196] Levelup on - 1 and old level - 32 bought for 57 amount 1000
+[05.08.24 02:27:35] [Levelup] [karma-268544196] Levelup on - 1 and old level - 33 bought for 57 amount 1000
+[05.08.24 02:27:36] [Levelup] [karma-268544196] Levelup on - 1 and old level - 34 bought for 57 amount 1000
+[05.08.24 02:27:37] [Levelup] [karma-268544196] Levelup on - 1 and old level - 35 bought for 57 amount 1000
+[05.08.24 02:27:40] [Levelup] [karma-268544196] Levelup on - 1 and old level - 36 bought for 57 amount 1000
+[05.08.24 02:27:41] [Levelup] [karma-268544196] Levelup on - 1 and old level - 37 bought for 57 amount 1000
+[05.08.24 02:27:42] [Levelup] [karma-268544196] Levelup on - 1 and old level - 38 bought for 57 amount 1000
+[05.08.24 02:27:43] [Levelup] [karma-268544196] Levelup on - 1 and old level - 39 bought for 57 amount 1000
+[05.08.24 02:27:44] [Levelup] [karma-268544196] Levelup on - 1 and old level - 40 bought for 57 amount 1000
+[05.08.24 02:27:44] [Levelup] [karma-268544196] Levelup on - 1 and old level - 41 bought for 57 amount 1000
+[05.08.24 02:27:45] [Levelup] [karma-268544196] Levelup on - 1 and old level - 42 bought for 57 amount 1000
+[05.08.24 02:27:46] [Levelup] [karma-268544196] Levelup on - 1 and old level - 43 bought for 57 amount 1000
+[05.08.24 02:27:47] [Levelup] [karma-268544196] Levelup on - 1 and old level - 44 bought for 57 amount 1000
+[05.08.24 02:27:47] [Levelup] [karma-268544196] Levelup on - 1 and old level - 45 bought for 57 amount 1000
+[05.08.24 02:27:48] [Levelup] [karma-268544196] Levelup on - 1 and old level - 46 bought for 57 amount 1000
+[05.08.24 02:27:51] [Levelup] [karma-268544196] Levelup on - 1 and old level - 47 bought for 57 amount 1000
+[05.08.24 02:27:51] [Levelup] [karma-268544196] Levelup on - 1 and old level - 48 bought for 57 amount 1000
+[05.08.24 02:27:52] [Levelup] [karma-268544196] Levelup on - 1 and old level - 49 bought for 57 amount 1000
+[05.08.24 02:27:53] [Levelup] [karma-268544196] Levelup on - 1 and old level - 50 bought for 57 amount 1000
+[05.08.24 02:27:53] [Levelup] [karma-268544196] Levelup on - 1 and old level - 51 bought for 57 amount 1000
+[05.08.24 02:27:54] [Levelup] [karma-268544196] Levelup on - 1 and old level - 52 bought for 57 amount 1000
+[05.08.24 02:27:55] [Levelup] [karma-268544196] Levelup on - 1 and old level - 53 bought for 57 amount 1000
+[05.08.24 02:27:55] [Levelup] [karma-268544196] Levelup on - 1 and old level - 54 bought for 57 amount 1000
+[05.08.24 02:27:56] [Levelup] [karma-268544196] Levelup on - 1 and old level - 55 bought for 57 amount 1000
+[05.08.24 02:27:57] [Levelup] [karma-268544196] Levelup on - 1 and old level - 56 bought for 57 amount 1000
+[05.08.24 02:27:57] [Levelup] [karma-268544196] Levelup on - 1 and old level - 57 bought for 57 amount 1000
+[05.08.24 02:27:58] [Levelup] [karma-268544196] Levelup on - 1 and old level - 58 bought for 57 amount 1000
+[05.08.24 02:27:59] [Levelup] [karma-268544196] Levelup on - 1 and old level - 59 bought for 57 amount 1000
+[05.08.24 02:27:59] [Levelup] [karma-268544196] Levelup on - 1 and old level - 60 bought for 57 amount 1000
+[05.08.24 02:28:00] [Levelup] [karma-268544196] Levelup on - 1 and old level - 61 bought for 57 amount 1000
+[05.08.24 02:28:01] [Levelup] [karma-268544196] Levelup on - 1 and old level - 62 bought for 57 amount 1000
+[05.08.24 02:28:01] [Levelup] [karma-268544196] Levelup on - 1 and old level - 63 bought for 57 amount 1000
+[05.08.24 02:28:02] [Levelup] [karma-268544196] Levelup on - 1 and old level - 64 bought for 57 amount 1000
+[05.08.24 02:28:03] [Levelup] [karma-268544196] Levelup on - 1 and old level - 65 bought for 57 amount 1000
+[05.08.24 02:28:03] [Levelup] [karma-268544196] Levelup on - 1 and old level - 66 bought for 57 amount 1000
+[05.08.24 02:28:04] [Levelup] [karma-268544196] Levelup on - 1 and old level - 67 bought for 57 amount 1000
+[05.08.24 02:28:05] [Levelup] [karma-268544196] Levelup on - 1 and old level - 68 bought for 57 amount 1000
+[05.08.24 02:28:05] [Levelup] [karma-268544196] Levelup on - 1 and old level - 69 bought for 57 amount 1000
+[05.08.24 02:28:06] [Levelup] [karma-268544196] Levelup on - 1 and old level - 70 bought for 57 amount 1000
+[05.08.24 02:28:07] [Levelup] [karma-268544196] Levelup on - 1 and old level - 71 bought for 57 amount 1000
+[05.08.24 02:28:07] [Levelup] [karma-268544196] Levelup on - 1 and old level - 72 bought for 57 amount 1000
+[05.08.24 02:28:08] [Levelup] [karma-268544196] Levelup on - 1 and old level - 73 bought for 57 amount 1000
+[05.08.24 02:28:08] [Levelup] [karma-268544196] Levelup on - 1 and old level - 74 bought for 57 amount 1000
+[05.08.24 02:28:09] [Levelup] [karma-268544196] Levelup on - 1 and old level - 75 bought for 57 amount 1000
+[05.08.24 02:28:10] [Levelup] [karma-268544196] Levelup on - 1 and old level - 76 bought for 57 amount 1000
+[05.08.24 02:28:10] [Levelup] [karma-268544196] Levelup on - 1 and old level - 77 bought for 57 amount 1000
+[05.08.24 02:28:11] [Levelup] [karma-268544196] Levelup on - 1 and old level - 78 bought for 57 amount 1000
+[05.08.24 02:28:11] [Levelup] [karma-268544196] Levelup on - 1 and old level - 79 bought for 57 amount 1000
+[05.08.24 02:28:34] [NpcClassMaster] [karma-268544196]  got a classId necromancer
+[05.08.24 02:28:41] [NpcClassMaster] [karma-268544196]  got a classId soultaker
+[05.08.24 02:35:51] [NoblesSell] [karma-268544196] Buy Nobles status bought for 57 1000
+[05.08.24 02:36:15] [HeroSell] [karma-268544196] bought a custom hero for a period 86400 for 57 amount 1000
+[05.08.24 02:39:45] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 25 bought for 57 amount 1000
+[05.08.24 02:39:47] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 26 bought for 57 amount 1000
+[05.08.24 02:39:48] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 27 bought for 57 amount 1000
+[05.08.24 02:39:49] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 28 bought for 57 amount 1000
+[05.08.24 02:39:50] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 29 bought for 57 amount 1000
+[05.08.24 02:39:50] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 30 bought for 57 amount 1000
+[05.08.24 02:39:51] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 31 bought for 57 amount 1000
+[05.08.24 02:39:52] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 32 bought for 57 amount 1000
+[05.08.24 02:39:53] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 33 bought for 57 amount 1000
+[05.08.24 02:39:54] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 34 bought for 57 amount 1000
+[05.08.24 02:39:55] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 35 bought for 57 amount 1000
+[05.08.24 02:39:55] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 36 bought for 57 amount 1000
+[05.08.24 02:39:56] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 37 bought for 57 amount 1000
+[05.08.24 02:39:57] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 38 bought for 57 amount 1000
+[05.08.24 02:39:57] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 39 bought for 57 amount 1000
+[05.08.24 02:39:58] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 40 bought for 57 amount 1000
+[05.08.24 02:39:59] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 41 bought for 57 amount 1000
+[05.08.24 02:39:59] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 42 bought for 57 amount 1000
+[05.08.24 02:40:00] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 43 bought for 57 amount 1000
+[05.08.24 02:40:01] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 44 bought for 57 amount 1000
+[05.08.24 02:40:02] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 45 bought for 57 amount 1000
+[05.08.24 02:40:02] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 46 bought for 57 amount 1000
+[05.08.24 02:40:03] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 47 bought for 57 amount 1000
+[05.08.24 02:40:04] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 48 bought for 57 amount 1000
+[05.08.24 02:40:05] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 49 bought for 57 amount 1000
+[05.08.24 02:40:06] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 50 bought for 57 amount 1000
+[05.08.24 02:40:06] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 51 bought for 57 amount 1000
+[05.08.24 02:40:07] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 52 bought for 57 amount 1000
+[05.08.24 02:40:08] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 53 bought for 57 amount 1000
+[05.08.24 02:40:09] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 54 bought for 57 amount 1000
+[05.08.24 02:40:09] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 55 bought for 57 amount 1000
+[05.08.24 02:40:10] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 56 bought for 57 amount 1000
+[05.08.24 02:40:11] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 57 bought for 57 amount 1000
+[05.08.24 02:40:11] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 58 bought for 57 amount 1000
+[05.08.24 02:40:12] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 59 bought for 57 amount 1000
+[05.08.24 02:40:13] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 60 bought for 57 amount 1000
+[05.08.24 02:40:14] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 61 bought for 57 amount 1000
+[05.08.24 02:40:15] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 62 bought for 57 amount 1000
+[05.08.24 02:40:15] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 63 bought for 57 amount 1000
+[05.08.24 02:40:16] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 64 bought for 57 amount 1000
+[05.08.24 02:40:17] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 65 bought for 57 amount 1000
+[05.08.24 02:40:18] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 66 bought for 57 amount 1000
+[05.08.24 02:40:18] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 67 bought for 57 amount 1000
+[05.08.24 02:40:19] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 68 bought for 57 amount 1000
+[05.08.24 02:40:20] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 69 bought for 57 amount 1000
+[05.08.24 02:40:21] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 70 bought for 57 amount 1000
+[05.08.24 02:40:22] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 71 bought for 57 amount 1000
+[05.08.24 02:40:22] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 72 bought for 57 amount 1000
+[05.08.24 02:40:23] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 73 bought for 57 amount 1000
+[05.08.24 02:40:24] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 74 bought for 57 amount 1000
+[05.08.24 02:40:25] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 75 bought for 57 amount 1000
+[05.08.24 02:40:25] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 76 bought for 57 amount 1000
+[05.08.24 02:40:26] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 77 bought for 57 amount 1000
+[05.08.24 02:40:27] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 78 bought for 57 amount 1000
+[05.08.24 02:40:28] [Levelup] [OzzY-268544217] Levelup on - 1 and old level - 79 bought for 57 amount 1000
+[05.08.24 02:41:17] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:18] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:19] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:20] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:21] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:22] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:23] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:23] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:27] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:28] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:29] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:30] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:31] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:31] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:32] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:33] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:34] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:35] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:36] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:37] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:37] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:38] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:41:41] [ExpandInventory] [OzzY-268544217] increased inventory 1 slots for 57 amount 1000
+[05.08.24 02:42:58] [HeroSell] [OzzY-268544217] bought a custom hero for a period 86400 for 57 amount 1000
+[05.08.24 02:43:26] [NpcClassMaster] [OzzY-268544217]  got a classId destroyer
+[05.08.24 02:43:34] [NpcClassMaster] [OzzY-268544217]  got a classId titan
+[05.08.24 03:05:27] [NpcClassMaster] [DarkElfMago-268545187]  got a classId spellhowler
+[05.08.24 03:05:39] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:40] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:41] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:41] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:42] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:42] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:50] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:05:51] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:00] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:00] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:01] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:01] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:02] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:02] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:03] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:03] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:03] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:03] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:04] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:04] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:04] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:04] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:05] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:05] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:05] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:05] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:06] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:06] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:06] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:06] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:06] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:07] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:07] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:07] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:07] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:07] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:08] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:08] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:08] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:08] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:08] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:09] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:09] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:09] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:09] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:09] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:10] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:10] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:10] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:10] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:10] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:11] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:11] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:15] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:16] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:17] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:17] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:17] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:17] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:18] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:18] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:18] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:18] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:18] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:22] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:22] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:23] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:23] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:23] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:24] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:24] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:24] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:24] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:25] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:25] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:26] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:26] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:26] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:27] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:27] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:27] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:28] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:28] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:28] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:29] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:29] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:29] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:29] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:30] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:30] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:30] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:31] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:31] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:31] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:32] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:32] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:32] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:32] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:33] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:33] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:33] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:33] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:34] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:34] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:34] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:35] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:35] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:35] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:35] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:35] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:36] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:36] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:36] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:36] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:37] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:37] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:37] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:38] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:38] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:38] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:38] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:39] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:39] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:39] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:39] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:40] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:40] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:41] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:42] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:42] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:42] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:43] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:44] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:45] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:46] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:46] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:46] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:46] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:47] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:47] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:47] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:47] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:48] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:48] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:48] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:48] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:49] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:49] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:49] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:50] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:50] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:51] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:51] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:06:52] [ExpandInventory] [DarkElfMago-268545187] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:48:49] [NpcClassMaster] [ElfArcher-268544322]  got a classId silver_ranger
+[05.08.24 03:51:24] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:25] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:25] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:25] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:26] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:26] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:26] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:26] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:27] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:27] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:27] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:27] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:28] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:28] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:28] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:29] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:29] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:29] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:30] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:30] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:30] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:31] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:31] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:31] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:31] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:32] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:32] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:32] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:33] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:33] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:33] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:34] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:34] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:34] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:34] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:35] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:35] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:35] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:36] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:36] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:36] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:36] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:37] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:37] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:37] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:37] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:38] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:38] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:38] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:39] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:39] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:39] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:39] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:40] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:40] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:40] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:40] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:41] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:41] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:41] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:41] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:41] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:42] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:42] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:42] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:42] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:43] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:43] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:43] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:43] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:43] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:48] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:48] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:49] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:49] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:49] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:50] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:50] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:50] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:50] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:51] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:51] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:51] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:51] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:52] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:52] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:52] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:52] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:53] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:53] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:53] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:54] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:54] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:54] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:55] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:55] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:55] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:55] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:56] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:56] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:56] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:56] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:57] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:57] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:57] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:58] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:58] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:58] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:58] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:59] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:59] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:59] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:51:59] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:00] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:00] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:00] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:01] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:01] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:01] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:01] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:02] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:02] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:02] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:02] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:03] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:03] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:03] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:03] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:04] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:04] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:04] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:05] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:05] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:05] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:05] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:06] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:06] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:06] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:06] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:07] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:07] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:07] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:07] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:08] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:08] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:08] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:08] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:09] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:09] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:09] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:09] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:10] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:10] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:10] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:10] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:11] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:11] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:11] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:11] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:12] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:12] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:12] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:12] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:13] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:13] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:13] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:13] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:13] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:14] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 03:52:14] [ExpandInventory] [ElfArcher-268544322] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:19:01] [NpcClassMaster] [Elfdagger-268544228]  got a classId plain_walker
+[05.08.24 04:20:07] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:07] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:09] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:12] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:12] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:12] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:13] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:13] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:14] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:14] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:15] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:15] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:15] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:16] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:16] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:17] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:17] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:17] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:18] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:18] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:18] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:19] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:19] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:20] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:20] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:20] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:21] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:21] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:21] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:22] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:22] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:23] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:23] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:23] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:24] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:24] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:24] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:25] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:25] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:25] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:26] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:26] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:26] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:27] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:27] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:27] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:28] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:28] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:28] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:29] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:30] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:33] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:33] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:34] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:34] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:35] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:35] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:35] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:36] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:36] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:37] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:37] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:37] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:38] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:38] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:39] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:39] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:39] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:40] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:40] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:40] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:41] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:41] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:41] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:42] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:42] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:42] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:43] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:43] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:43] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:44] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:44] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:44] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:45] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:45] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:45] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:46] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:46] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:46] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:47] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:47] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:47] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:48] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:48] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:49] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:49] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:49] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:50] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:50] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:51] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:51] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:51] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:52] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:52] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:53] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:53] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:53] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:53] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:54] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:54] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:55] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:55] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:55] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:55] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:56] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:56] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:56] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:57] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:57] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:58] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:58] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:58] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:59] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:59] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:20:59] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:00] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:00] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:01] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:01] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:01] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:02] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:02] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:02] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:03] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:03] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:03] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:04] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:04] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:04] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:05] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:05] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:05] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:05] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:06] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:06] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:06] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:07] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:07] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:07] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:08] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:09] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:09] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:09] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:10] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 04:21:11] [ExpandInventory] [Elfdagger-268544228] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:02] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:03] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:03] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:03] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:03] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:04] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:04] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:04] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:04] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:04] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:05] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:05] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:05] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:05] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:05] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:06] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:06] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:06] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:06] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:07] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:07] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:07] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:07] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:08] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:08] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:14] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:14] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:14] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:15] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:15] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:15] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:16] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:16] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:16] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:17] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:17] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:17] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:17] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:18] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:18] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:18] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:19] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:19] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:19] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:19] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:20] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:20] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:21] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:21] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:21] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:22] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:22] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:23] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:23] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:24] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:24] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:25] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:25] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:26] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:28] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:29] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:29] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:29] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:30] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:30] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:31] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:31] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:32] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:33] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:48:33] [ExpandInventory] [Chupador-268536948] increased inventory 1 slots for 57 amount 1000
+[05.08.24 12:50:30] [NpcClassMaster] [Chupador-268536948]  got a classId orc_shaman
+[05.08.24 18:25:53] [NpcClassMaster] [XxZinaxX-268536373]  got a classId wizard

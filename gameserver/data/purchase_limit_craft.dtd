@@ -1,0 +1,27 @@
+<!ELEMENT list (item)*>
+<!ELEMENT item (ingredient)*>
+<!ATTLIST item
+        shop_index CDATA #REQUIRED
+        product_name CDATA #IMPLIED
+        product_item CDATA #REQUIRED
+        product_item_amount CDATA #IMPLIED
+        product_item_chance CDATA #IMPLIED
+        buy_item_1 CDATA #IMPLIED
+        buy_item_amount_1 CDATA #IMPLIED
+        buy_item_chance_1 CDATA #IMPLIED
+        buy_item_2 CDATA #IMPLIED
+        buy_item_amount_2 CDATA #IMPLIED
+        buy_item_chance_2 CDATA #IMPLIED
+        buy_item_3 CDATA #IMPLIED
+        buy_item_amount_3 CDATA #IMPLIED
+        buy_item_chance_3 CDATA #IMPLIED
+        buy_item_4 CDATA #IMPLIED
+        buy_item_amount_4 CDATA #IMPLIED
+        buy_item_chance_4 CDATA #IMPLIED
+        limit_daily CDATA #IMPLIED
+        product_id CDATA #REQUIRED>
+<!ELEMENT ingredient (#PCDATA)>
+<!ATTLIST ingredient
+        count CDATA #REQUIRED
+        id CDATA #REQUIRED
+        enchantLevel CDATA #IMPLIED>

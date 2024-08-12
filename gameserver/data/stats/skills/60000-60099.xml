@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="60018" levels="1" name="Teleport" >
+        <set name="magicType" val="SPECIAL" />
+        <set name="icon" val="icon.skill0000" />
+        <set name="magicLevel" val="1" />
+        <set name="hitTime" val="2000" />
+        <set name="isSkillTimePermanent" val="true"/>
+        <set name="hitCancelTime" val="500" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="TELEPORT_BASE" />
+        <set name="operateType" val="OP_ACTIVE" />
+    </skill>
+</list>

@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "ensoul_options.dtd">
+<list>
+    <ensoul_option id="1" stoneId="29818" skillId="55253" skillLvl="1" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- P. Def. +20.2 -->
+    <ensoul_option id="2" stoneId="29819" skillId="55253" skillLvl="2" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- P. Def. +24.6 -->
+    <ensoul_option id="3" stoneId="29820" skillId="55253" skillLvl="3" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- P. Def. +29.8 -->
+    <ensoul_option id="4" stoneId="29821" skillId="55253" skillLvl="4" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- P. Def. +35.7 -->
+    <ensoul_option id="5" stoneId="29822" skillId="55253" skillLvl="5" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- P. Def. +42.6 -->
+    <ensoul_option id="6" stoneId="29823" skillId="55253" skillLvl="6" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- P. Def. +50.7 -->
+    <ensoul_option id="7" stoneId="29824" skillId="55253" skillLvl="7" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- P. Def. +57.9 -->
+    <ensoul_option id="8" stoneId="29825" skillId="55253" skillLvl="8" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- P. Def. +66.1 -->
+    <ensoul_option id="9" stoneId="29826" skillId="55253" skillLvl="9" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- P. Def. +75.3 -->
+    <ensoul_option id="10" stoneId="29827" skillId="55253" skillLvl="10" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- P. Def. +83.5 -->
+    <ensoul_option id="11" stoneId="29828" skillId="55253" skillLvl="11" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- P. Def. +92.2 -->
+    <ensoul_option id="12" stoneId="29829" skillId="55253" skillLvl="12" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- P. Def. +101.6 -->
+    <ensoul_option id="13" stoneId="29830" skillId="55253" skillLvl="13" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- P. Def. +112.7 -->
+    <ensoul_option id="14" stoneId="29831" skillId="55253" skillLvl="14" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="15" stoneId="29832" skillId="55253" skillLvl="15" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="16" stoneId="29833" skillId="55253" skillLvl="16" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="17" stoneId="29834" skillId="55253" skillLvl="17" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="18" stoneId="29835" skillId="55253" skillLvl="18" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="19" stoneId="29836" skillId="55253" skillLvl="19" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="20" stoneId="29837" skillId="55253" skillLvl="20" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- P. Def. +2 -->
+    <ensoul_option id="21" stoneId="29818" skillId="55254" skillLvl="1" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- Max HP +73 -->
+    <ensoul_option id="22" stoneId="29819" skillId="55254" skillLvl="2" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- Max HP +94 -->
+    <ensoul_option id="23" stoneId="29820" skillId="55254" skillLvl="3" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- Max HP +129 -->
+    <ensoul_option id="24" stoneId="29821" skillId="55254" skillLvl="4" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- Max HP +154 -->
+    <ensoul_option id="25" stoneId="29822" skillId="55254" skillLvl="5" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00"/> <!-- Max HP +185 -->
+    <ensoul_option id="26" stoneId="29823" skillId="55254" skillLvl="6" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- Max HP +223 -->
+    <ensoul_option id="27" stoneId="29824" skillId="55254" skillLvl="7" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- Max HP +249 -->
+    <ensoul_option id="28" stoneId="29825" skillId="55254" skillLvl="8" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- Max HP +276 -->
+    <ensoul_option id="29" stoneId="29826" skillId="55254" skillLvl="9" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- Max HP +303 -->
+    <ensoul_option id="30" stoneId="29827" skillId="55254" skillLvl="10" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01"/> <!-- Max HP +331 -->
+    <ensoul_option id="31" stoneId="29828" skillId="55254" skillLvl="11" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- Max HP +359 -->
+    <ensoul_option id="32" stoneId="29829" skillId="55254" skillLvl="12" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- Max HP +388 -->
+    <ensoul_option id="33" stoneId="29830" skillId="55254" skillLvl="13" optionType="74" name="sigel_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02"/> <!-- Max HP +418 -->
+    <ensoul_option id="34" stoneId="29831" skillId="55254" skillLvl="14" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="35" stoneId="29832" skillId="55254" skillLvl="15" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="36" stoneId="29833" skillId="55254" skillLvl="16" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="37" stoneId="29834" skillId="55254" skillLvl="17" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="38" stoneId="29835" skillId="55254" skillLvl="18" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="39" stoneId="29836" skillId="55254" skillLvl="19" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="40" stoneId="29837" skillId="55254" skillLvl="20" optionType="74" name="sigel_protection" slotType="1" icon="icon.ensoul_big_p"/> <!-- Max HP +50 -->
+    <ensoul_option id="41" stoneId="29838" skillId="55255" skillLvl="1" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- P. Atk. +2.8 -->
+    <ensoul_option id="42" stoneId="29839" skillId="55255" skillLvl="2" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- P. Atk. +3.8 -->
+    <ensoul_option id="43" stoneId="29840" skillId="55255" skillLvl="3" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- P. Atk. +5.1 -->
+    <ensoul_option id="44" stoneId="29841" skillId="55255" skillLvl="4" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- P. Atk. +7.8 -->
+    <ensoul_option id="45" stoneId="29842" skillId="55255" skillLvl="5" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- P. Atk. +10.1 -->
+    <ensoul_option id="46" stoneId="29843" skillId="55255" skillLvl="6" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- P. Atk. +12.9 -->
+    <ensoul_option id="47" stoneId="29844" skillId="55255" skillLvl="7" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- P. Atk. +15.3 -->
+    <ensoul_option id="48" stoneId="29845" skillId="55255" skillLvl="8" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- P. Atk. +18.1 -->
+    <ensoul_option id="49" stoneId="29846" skillId="55255" skillLvl="9" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- P. Atk. +21.2 -->
+    <ensoul_option id="50" stoneId="29847" skillId="55255" skillLvl="10" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- P. Atk. +24.3 -->
+    <ensoul_option id="51" stoneId="29848" skillId="55255" skillLvl="11" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- P. Atk. +28 -->
+    <ensoul_option id="52" stoneId="29849" skillId="55255" skillLvl="12" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- P. Atk. +31.9 -->
+    <ensoul_option id="53" stoneId="29850" skillId="55255" skillLvl="13" optionType="75" name="tyrr_might" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- P. Atk. +36.5 -->
+    <ensoul_option id="54" stoneId="29851" skillId="55255" skillLvl="14" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="55" stoneId="29852" skillId="55255" skillLvl="15" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="56" stoneId="29853" skillId="55255" skillLvl="16" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="57" stoneId="29854" skillId="55255" skillLvl="17" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="58" stoneId="29855" skillId="55255" skillLvl="18" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="59" stoneId="29856" skillId="55255" skillLvl="19" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="60" stoneId="29857" skillId="55255" skillLvl="20" optionType="75" name="tyrr_might" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 -->
+    <ensoul_option id="61" stoneId="29838" skillId="55256" skillLvl="1" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +2% -->
+    <ensoul_option id="62" stoneId="29839" skillId="55256" skillLvl="2" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +2.25% -->
+    <ensoul_option id="63" stoneId="29840" skillId="55256" skillLvl="3" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +2.5% -->
+    <ensoul_option id="64" stoneId="29841" skillId="55256" skillLvl="4" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +2.75% -->
+    <ensoul_option id="65" stoneId="29842" skillId="55256" skillLvl="5" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +3% -->
+    <ensoul_option id="66" stoneId="29843" skillId="55256" skillLvl="6" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +3.25% -->
+    <ensoul_option id="67" stoneId="29844" skillId="55256" skillLvl="7" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +3.5% -->
+    <ensoul_option id="68" stoneId="29845" skillId="55256" skillLvl="8" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +3.75% -->
+    <ensoul_option id="69" stoneId="29846" skillId="55256" skillLvl="9" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +4% -->
+    <ensoul_option id="70" stoneId="29847" skillId="55256" skillLvl="10" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +4.25% -->
+    <ensoul_option id="71" stoneId="29848" skillId="55256" skillLvl="11" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +4.5% -->
+    <ensoul_option id="72" stoneId="29849" skillId="55256" skillLvl="12" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +4.75% -->
+    <ensoul_option id="73" stoneId="29850" skillId="55256" skillLvl="13" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +5% -->
+    <ensoul_option id="74" stoneId="29851" skillId="55256" skillLvl="14" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="75" stoneId="29852" skillId="55256" skillLvl="15" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="76" stoneId="29853" skillId="55256" skillLvl="16" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="77" stoneId="29854" skillId="55256" skillLvl="17" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="78" stoneId="29855" skillId="55256" skillLvl="18" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="79" stoneId="29856" skillId="55256" skillLvl="19" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="80" stoneId="29857" skillId="55256" skillLvl="20" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +1% -->
+    <ensoul_option id="81" stoneId="29858" skillId="55257" skillLvl="1" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +75 -->
+    <ensoul_option id="82" stoneId="29859" skillId="55257" skillLvl="2" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +100 -->
+    <ensoul_option id="83" stoneId="29860" skillId="55257" skillLvl="3" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +125 -->
+    <ensoul_option id="84" stoneId="29861" skillId="55257" skillLvl="4" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +150 -->
+    <ensoul_option id="85" stoneId="29862" skillId="55257" skillLvl="5" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +175 -->
+    <ensoul_option id="86" stoneId="29863" skillId="55257" skillLvl="6" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +200 -->
+    <ensoul_option id="87" stoneId="29864" skillId="55257" skillLvl="7" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +225 -->
+    <ensoul_option id="88" stoneId="29865" skillId="55257" skillLvl="8" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +250 -->
+    <ensoul_option id="89" stoneId="29866" skillId="55257" skillLvl="9" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +275 -->
+    <ensoul_option id="90" stoneId="29867" skillId="55257" skillLvl="10" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +300 -->
+    <ensoul_option id="91" stoneId="29868" skillId="55257" skillLvl="11" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +325 -->
+    <ensoul_option id="92" stoneId="29869" skillId="55257" skillLvl="12" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +350 -->
+    <ensoul_option id="93" stoneId="29870" skillId="55257" skillLvl="13" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +375 -->
+    <ensoul_option id="94" stoneId="29871" skillId="55257" skillLvl="14" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="95" stoneId="29872" skillId="55257" skillLvl="15" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="96" stoneId="29873" skillId="55257" skillLvl="16" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="97" stoneId="29874" skillId="55257" skillLvl="17" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="98" stoneId="29875" skillId="55257" skillLvl="18" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="99" stoneId="29876" skillId="55257" skillLvl="19" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="100" stoneId="29877" skillId="55257" skillLvl="20" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +1.8 -->
+    <ensoul_option id="101" stoneId="29858" skillId="55258" skillLvl="1" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Damage +80 -->
+    <ensoul_option id="102" stoneId="29859" skillId="55258" skillLvl="2" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Damage +97 -->
+    <ensoul_option id="103" stoneId="29860" skillId="55258" skillLvl="3" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Damage +114 -->
+    <ensoul_option id="104" stoneId="29861" skillId="55258" skillLvl="4" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Damage +131 -->
+    <ensoul_option id="105" stoneId="29862" skillId="55258" skillLvl="5" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Damage +148 -->
+    <ensoul_option id="106" stoneId="29863" skillId="55258" skillLvl="6" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Damage +165 -->
+    <ensoul_option id="107" stoneId="29864" skillId="55258" skillLvl="7" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Damage +182 -->
+    <ensoul_option id="108" stoneId="29865" skillId="55258" skillLvl="8" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Damage +199 -->
+    <ensoul_option id="109" stoneId="29866" skillId="55258" skillLvl="9" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Damage +216 -->
+    <ensoul_option id="110" stoneId="29867" skillId="55258" skillLvl="10" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Damage +233 -->
+    <ensoul_option id="111" stoneId="29868" skillId="55258" skillLvl="11" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Damage +251 -->
+    <ensoul_option id="112" stoneId="29869" skillId="55258" skillLvl="12" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Damage +268 -->
+    <ensoul_option id="113" stoneId="29870" skillId="55258" skillLvl="13" optionType="78" name="othells_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Damage +285 -->
+    <ensoul_option id="114" stoneId="29871" skillId="55258" skillLvl="14" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="115" stoneId="29872" skillId="55258" skillLvl="15" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="116" stoneId="29873" skillId="55258" skillLvl="16" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="117" stoneId="29874" skillId="55258" skillLvl="17" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="118" stoneId="29875" skillId="55258" skillLvl="18" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="119" stoneId="29876" skillId="55258" skillLvl="19" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="120" stoneId="29877" skillId="55258" skillLvl="20" optionType="78" name="othells_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Damage +20 -->
+    <ensoul_option id="121" stoneId="29878" skillId="55259" skillLvl="1" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Speed +4 -->
+    <ensoul_option id="122" stoneId="29879" skillId="55259" skillLvl="2" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Speed +4.5 -->
+    <ensoul_option id="123" stoneId="29880" skillId="55259" skillLvl="3" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Speed +5 -->
+    <ensoul_option id="124" stoneId="29881" skillId="55259" skillLvl="4" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Speed +5.5 -->
+    <ensoul_option id="125" stoneId="29882" skillId="55259" skillLvl="5" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Speed +6 -->
+    <ensoul_option id="126" stoneId="29883" skillId="55259" skillLvl="6" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Speed +6.5 -->
+    <ensoul_option id="127" stoneId="29884" skillId="55259" skillLvl="7" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Speed +7 -->
+    <ensoul_option id="128" stoneId="29885" skillId="55259" skillLvl="8" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Speed +7.5 -->
+    <ensoul_option id="129" stoneId="29886" skillId="55259" skillLvl="9" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Speed +8 -->
+    <ensoul_option id="130" stoneId="29887" skillId="55259" skillLvl="10" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Speed +8.5 -->
+    <ensoul_option id="131" stoneId="29888" skillId="55259" skillLvl="11" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Speed +9 -->
+    <ensoul_option id="132" stoneId="29889" skillId="55259" skillLvl="12" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Speed +9.5 -->
+    <ensoul_option id="133" stoneId="29890" skillId="55259" skillLvl="13" optionType="79" name="yul_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Speed +10 -->
+    <ensoul_option id="134" stoneId="29891" skillId="55259" skillLvl="14" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="135" stoneId="29892" skillId="55259" skillLvl="15" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="136" stoneId="29893" skillId="55259" skillLvl="16" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="137" stoneId="29894" skillId="55259" skillLvl="17" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="138" stoneId="29895" skillId="55259" skillLvl="18" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="139" stoneId="29896" skillId="55259" skillLvl="19" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="140" stoneId="29897" skillId="55259" skillLvl="20" optionType="79" name="yul_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="141" stoneId="29878" skillId="55260" skillLvl="1" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2.47 -->
+    <ensoul_option id="142" stoneId="29879" skillId="55260" skillLvl="2" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2.67 -->
+    <ensoul_option id="143" stoneId="29880" skillId="55260" skillLvl="3" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2.87 -->
+    <ensoul_option id="144" stoneId="29881" skillId="55260" skillLvl="4" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +3.07 -->
+    <ensoul_option id="145" stoneId="29882" skillId="55260" skillLvl="5" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +3.27 -->
+    <ensoul_option id="146" stoneId="29883" skillId="55260" skillLvl="6" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +3.47 -->
+    <ensoul_option id="147" stoneId="29884" skillId="55260" skillLvl="7" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +3.62 -->
+    <ensoul_option id="148" stoneId="29885" skillId="55260" skillLvl="8" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +3.77 -->
+    <ensoul_option id="149" stoneId="29886" skillId="55260" skillLvl="9" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +3.92 -->
+    <ensoul_option id="150" stoneId="29887" skillId="55260" skillLvl="10" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4.07 -->
+    <ensoul_option id="151" stoneId="29888" skillId="55260" skillLvl="11" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +4.22 -->
+    <ensoul_option id="152" stoneId="29889" skillId="55260" skillLvl="12" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +4.37 -->
+    <ensoul_option id="153" stoneId="29890" skillId="55260" skillLvl="13" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +4.52 -->
+    <ensoul_option id="154" stoneId="29891" skillId="55260" skillLvl="14" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="155" stoneId="29892" skillId="55260" skillLvl="15" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="156" stoneId="29893" skillId="55260" skillLvl="16" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="157" stoneId="29894" skillId="55260" skillLvl="17" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="158" stoneId="29895" skillId="55260" skillLvl="18" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="159" stoneId="29896" skillId="55260" skillLvl="19" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="160" stoneId="29897" skillId="55260" skillLvl="20" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="161" stoneId="29898" skillId="55261" skillLvl="1" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +15.97, MP Consumption +15% -->
+    <ensoul_option id="162" stoneId="29899" skillId="55261" skillLvl="2" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +19.84, MP Consumption +15% -->
+    <ensoul_option id="163" stoneId="29900" skillId="55261" skillLvl="3" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +24.31, MP Consumption +15% -->
+    <ensoul_option id="164" stoneId="29901" skillId="55261" skillLvl="4" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +30.48, MP Consumption +15% -->
+    <ensoul_option id="165" stoneId="29902" skillId="55261" skillLvl="5" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +35.84, MP Consumption +15% -->
+    <ensoul_option id="166" stoneId="29903" skillId="55261" skillLvl="6" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +49.24, MP Consumption +15% -->
+    <ensoul_option id="167" stoneId="29904" skillId="55261" skillLvl="7" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +62.99, MP Consumption +15% -->
+    <ensoul_option id="168" stoneId="29905" skillId="55261" skillLvl="8" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +75.86, MP Consumption +15% -->
+    <ensoul_option id="169" stoneId="29906" skillId="55261" skillLvl="9" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +87.22, MP Consumption +15% -->
+    <ensoul_option id="170" stoneId="29907" skillId="55261" skillLvl="10" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +99.39, MP Consumption +15% -->
+    <ensoul_option id="171" stoneId="29908" skillId="55261" skillLvl="11" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +112.26, MP Consumption +15% -->
+    <ensoul_option id="172" stoneId="29909" skillId="55261" skillLvl="12" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +125.66, MP Consumption +15% -->
+    <ensoul_option id="173" stoneId="29910" skillId="55261" skillLvl="13" optionType="81" name="feohs_magical_power" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +139.41, MP Consumption +15% -->
+    <ensoul_option id="174" stoneId="29911" skillId="55261" skillLvl="14" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="175" stoneId="29912" skillId="55261" skillLvl="15" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="176" stoneId="29913" skillId="55261" skillLvl="16" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="177" stoneId="29914" skillId="55261" skillLvl="17" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="178" stoneId="29915" skillId="55261" skillLvl="18" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="179" stoneId="29916" skillId="55261" skillLvl="19" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="180" stoneId="29917" skillId="55261" skillLvl="20" optionType="81" name="feohs_magical_power" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +10.1, MP Consumption +15% -->
+    <ensoul_option id="181" stoneId="29898" skillId="55262" skillLvl="1" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +20 -->
+    <ensoul_option id="182" stoneId="29899" skillId="55262" skillLvl="2" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +27 -->
+    <ensoul_option id="183" stoneId="29900" skillId="55262" skillLvl="3" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +34 -->
+    <ensoul_option id="184" stoneId="29901" skillId="55262" skillLvl="4" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +41 -->
+    <ensoul_option id="185" stoneId="29902" skillId="55262" skillLvl="5" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +48 -->
+    <ensoul_option id="186" stoneId="29903" skillId="55262" skillLvl="6" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +55 -->
+    <ensoul_option id="187" stoneId="29904" skillId="55262" skillLvl="7" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +62 -->
+    <ensoul_option id="188" stoneId="29905" skillId="55262" skillLvl="8" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +69 -->
+    <ensoul_option id="189" stoneId="29906" skillId="55262" skillLvl="9" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +76 -->
+    <ensoul_option id="190" stoneId="29907" skillId="55262" skillLvl="10" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +83 -->
+    <ensoul_option id="191" stoneId="29908" skillId="55262" skillLvl="11" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +90 -->
+    <ensoul_option id="192" stoneId="29909" skillId="55262" skillLvl="12" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +97 -->
+    <ensoul_option id="193" stoneId="29910" skillId="55262" skillLvl="13" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +104 -->
+    <ensoul_option id="194" stoneId="29911" skillId="55262" skillLvl="14" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="195" stoneId="29912" skillId="55262" skillLvl="15" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="196" stoneId="29913" skillId="55262" skillLvl="16" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="197" stoneId="29914" skillId="55262" skillLvl="17" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="198" stoneId="29915" skillId="55262" skillLvl="18" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="199" stoneId="29916" skillId="55262" skillLvl="19" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="200" stoneId="29917" skillId="55262" skillLvl="20" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +20.36 -->
+    <ensoul_option id="201" stoneId="29918" skillId="55263" skillLvl="1" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- MP Recovery bonus +12% -->
+    <ensoul_option id="202" stoneId="29919" skillId="55263" skillLvl="2" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- MP Recovery bonus +12.72% -->
+    <ensoul_option id="203" stoneId="29920" skillId="55263" skillLvl="3" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- MP Recovery bonus +13.44% -->
+    <ensoul_option id="204" stoneId="29921" skillId="55263" skillLvl="4" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- MP Recovery bonus +14.16% -->
+    <ensoul_option id="205" stoneId="29922" skillId="55263" skillLvl="5" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- MP Recovery bonus +14.88% -->
+    <ensoul_option id="206" stoneId="29923" skillId="55263" skillLvl="6" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- MP Recovery bonus +15.6% -->
+    <ensoul_option id="207" stoneId="29924" skillId="55263" skillLvl="7" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- MP Recovery bonus +16.32% -->
+    <ensoul_option id="208" stoneId="29925" skillId="55263" skillLvl="8" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- MP Recovery bonus +17.04% -->
+    <ensoul_option id="209" stoneId="29926" skillId="55263" skillLvl="9" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- MP Recovery bonus +17.76% -->
+    <ensoul_option id="210" stoneId="29927" skillId="55263" skillLvl="10" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- MP Recovery bonus +18.48% -->
+    <ensoul_option id="211" stoneId="29928" skillId="55263" skillLvl="11" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- MP Recovery bonus +19.2% -->
+    <ensoul_option id="212" stoneId="29929" skillId="55263" skillLvl="12" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- MP Recovery bonus +19.92% -->
+    <ensoul_option id="213" stoneId="29930" skillId="55263" skillLvl="13" optionType="83" name="iss_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- MP Recovery bonus +20.64% -->
+    <ensoul_option id="214" stoneId="29931" skillId="55263" skillLvl="14" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="215" stoneId="29932" skillId="55263" skillLvl="15" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="216" stoneId="29933" skillId="55263" skillLvl="16" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="217" stoneId="29934" skillId="55263" skillLvl="17" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="218" stoneId="29935" skillId="55263" skillLvl="18" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="219" stoneId="29936" skillId="55263" skillLvl="19" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="220" stoneId="29937" skillId="55263" skillLvl="20" optionType="83" name="iss_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1% -->
+    <ensoul_option id="221" stoneId="29918" skillId="55264" skillLvl="1" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Max MP +3.89 -->
+    <ensoul_option id="222" stoneId="29919" skillId="55264" skillLvl="2" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Max MP +5 -->
+    <ensoul_option id="223" stoneId="29920" skillId="55264" skillLvl="3" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Max MP +6.1 -->
+    <ensoul_option id="224" stoneId="29921" skillId="55264" skillLvl="4" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Max MP +7.2 -->
+    <ensoul_option id="225" stoneId="29922" skillId="55264" skillLvl="5" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Max MP +8.3 -->
+    <ensoul_option id="226" stoneId="29923" skillId="55264" skillLvl="6" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Max MP +9.4 -->
+    <ensoul_option id="227" stoneId="29924" skillId="55264" skillLvl="7" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Max MP +10.5 -->
+    <ensoul_option id="228" stoneId="29925" skillId="55264" skillLvl="8" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Max MP +11.6 -->
+    <ensoul_option id="229" stoneId="29926" skillId="55264" skillLvl="9" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Max MP +12.7 -->
+    <ensoul_option id="230" stoneId="29927" skillId="55264" skillLvl="10" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Max MP +13.8 -->
+    <ensoul_option id="231" stoneId="29928" skillId="55264" skillLvl="11" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Max MP +14.9 -->
+    <ensoul_option id="232" stoneId="29929" skillId="55264" skillLvl="12" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Max MP +16 -->
+    <ensoul_option id="233" stoneId="29930" skillId="55264" skillLvl="13" optionType="84" name="iss_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Max MP +17.1 -->
+    <ensoul_option id="234" stoneId="29931" skillId="55264" skillLvl="14" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="235" stoneId="29932" skillId="55264" skillLvl="15" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="236" stoneId="29933" skillId="55264" skillLvl="16" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="237" stoneId="29934" skillId="55264" skillLvl="17" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="238" stoneId="29935" skillId="55264" skillLvl="18" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="239" stoneId="29936" skillId="55264" skillLvl="19" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="240" stoneId="29937" skillId="55264" skillLvl="20" optionType="84" name="iss_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +3 -->
+    <ensoul_option id="241" stoneId="29938" skillId="55265" skillLvl="1" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Casting Spd. +2.665% -->
+    <ensoul_option id="242" stoneId="29939" skillId="55265" skillLvl="2" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Casting Spd. +3% -->
+    <ensoul_option id="243" stoneId="29940" skillId="55265" skillLvl="3" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Casting Spd. +3.33% -->
+    <ensoul_option id="244" stoneId="29941" skillId="55265" skillLvl="4" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Casting Spd. +3.66% -->
+    <ensoul_option id="245" stoneId="29942" skillId="55265" skillLvl="5" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Casting Spd. +4% -->
+    <ensoul_option id="246" stoneId="29943" skillId="55265" skillLvl="6" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Casting Spd. +4.32% -->
+    <ensoul_option id="247" stoneId="29944" skillId="55265" skillLvl="7" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Casting Spd. +4.65% -->
+    <ensoul_option id="248" stoneId="29945" skillId="55265" skillLvl="8" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Casting Spd. +4.98% -->
+    <ensoul_option id="249" stoneId="29946" skillId="55265" skillLvl="9" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Casting Spd. +5.31% -->
+    <ensoul_option id="250" stoneId="29947" skillId="55265" skillLvl="10" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Casting Spd. +5.64% -->
+    <ensoul_option id="251" stoneId="29948" skillId="55265" skillLvl="11" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Casting Spd. +5.97% -->
+    <ensoul_option id="252" stoneId="29949" skillId="55265" skillLvl="12" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Casting Spd. +6.3% -->
+    <ensoul_option id="253" stoneId="29950" skillId="55265" skillLvl="13" optionType="85" name="wynns_acumen" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Casting Spd. +6.63% -->
+    <ensoul_option id="254" stoneId="29951" skillId="55265" skillLvl="14" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="255" stoneId="29952" skillId="55265" skillLvl="15" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="256" stoneId="29953" skillId="55265" skillLvl="16" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="257" stoneId="29954" skillId="55265" skillLvl="17" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="258" stoneId="29955" skillId="55265" skillLvl="18" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="259" stoneId="29956" skillId="55265" skillLvl="19" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="260" stoneId="29957" skillId="55265" skillLvl="20" optionType="85" name="wynns_acumen" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +1% -->
+    <ensoul_option id="261" stoneId="29938" skillId="55266" skillLvl="1" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1000 -->
+    <ensoul_option id="262" stoneId="29939" skillId="55266" skillLvl="2" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1400 -->
+    <ensoul_option id="263" stoneId="29940" skillId="55266" skillLvl="3" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1800 -->
+    <ensoul_option id="264" stoneId="29941" skillId="55266" skillLvl="4" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +2200 -->
+    <ensoul_option id="265" stoneId="29942" skillId="55266" skillLvl="5" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +2600 -->
+    <ensoul_option id="266" stoneId="29943" skillId="55266" skillLvl="6" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="267" stoneId="29944" skillId="55266" skillLvl="7" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +3400 -->
+    <ensoul_option id="268" stoneId="29945" skillId="55266" skillLvl="8" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +3800 -->
+    <ensoul_option id="269" stoneId="29946" skillId="55266" skillLvl="9" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +4200 -->
+    <ensoul_option id="270" stoneId="29947" skillId="55266" skillLvl="10" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +4600 -->
+    <ensoul_option id="271" stoneId="29948" skillId="55266" skillLvl="11" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +5000 -->
+    <ensoul_option id="272" stoneId="29949" skillId="55266" skillLvl="12" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +5600 -->
+    <ensoul_option id="273" stoneId="29950" skillId="55266" skillLvl="13" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +5900 -->
+    <ensoul_option id="274" stoneId="29951" skillId="55266" skillLvl="14" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="275" stoneId="29952" skillId="55266" skillLvl="15" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="276" stoneId="29953" skillId="55266" skillLvl="16" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="277" stoneId="29954" skillId="55266" skillLvl="17" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="278" stoneId="29955" skillId="55266" skillLvl="18" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="279" stoneId="29956" skillId="55266" skillLvl="19" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="280" stoneId="29957" skillId="55266" skillLvl="20" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="281" stoneId="29958" skillId="55267" skillLvl="1" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- HP Recovery bonus +0.57 -->
+    <ensoul_option id="282" stoneId="29959" skillId="55267" skillLvl="2" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- HP Recovery bonus +0.88 -->
+    <ensoul_option id="283" stoneId="29960" skillId="55267" skillLvl="3" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- HP Recovery bonus +0.92 -->
+    <ensoul_option id="284" stoneId="29961" skillId="55267" skillLvl="4" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- HP Recovery bonus +0.95 -->
+    <ensoul_option id="285" stoneId="29962" skillId="55267" skillLvl="5" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- HP Recovery bonus +0.98 -->
+    <ensoul_option id="286" stoneId="29963" skillId="55267" skillLvl="6" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- HP Recovery bonus +1.01 -->
+    <ensoul_option id="287" stoneId="29964" skillId="55267" skillLvl="7" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- HP Recovery bonus +1.38 -->
+    <ensoul_option id="288" stoneId="29965" skillId="55267" skillLvl="8" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- HP Recovery bonus +1.41 -->
+    <ensoul_option id="289" stoneId="29966" skillId="55267" skillLvl="9" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- HP Recovery bonus +1.44 -->
+    <ensoul_option id="290" stoneId="29967" skillId="55267" skillLvl="10" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- HP Recovery bonus +1.47 -->
+    <ensoul_option id="291" stoneId="29968" skillId="55267" skillLvl="11" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- HP Recovery bonus +1.5 -->
+    <ensoul_option id="292" stoneId="29969" skillId="55267" skillLvl="12" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- HP Recovery bonus +1.53 -->
+    <ensoul_option id="293" stoneId="29970" skillId="55267" skillLvl="13" optionType="87" name="aeores_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- HP Recovery bonus +1.96 -->
+    <ensoul_option id="294" stoneId="29971" skillId="55267" skillLvl="14" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="295" stoneId="29972" skillId="55267" skillLvl="15" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="296" stoneId="29973" skillId="55267" skillLvl="16" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="297" stoneId="29974" skillId="55267" skillLvl="17" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="298" stoneId="29975" skillId="55267" skillLvl="18" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="299" stoneId="29976" skillId="55267" skillLvl="19" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="300" stoneId="29977" skillId="55267" skillLvl="20" optionType="87" name="aeores_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- HP Recovery bonus +1.1 -->
+    <ensoul_option id="301" stoneId="29958" skillId="55268" skillLvl="1" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Healing Power +15.1 -->
+    <ensoul_option id="302" stoneId="29959" skillId="55268" skillLvl="2" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Healing Power +18.5 -->
+    <ensoul_option id="303" stoneId="29960" skillId="55268" skillLvl="3" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Healing Power +22.4 -->
+    <ensoul_option id="304" stoneId="29961" skillId="55268" skillLvl="4" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Healing Power +24.5 -->
+    <ensoul_option id="305" stoneId="29962" skillId="55268" skillLvl="5" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Healing Power +30.1 -->
+    <ensoul_option id="306" stoneId="29963" skillId="55268" skillLvl="6" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Healing Power +35 -->
+    <ensoul_option id="307" stoneId="29964" skillId="55268" skillLvl="7" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Healing Power +38.9 -->
+    <ensoul_option id="308" stoneId="29965" skillId="55268" skillLvl="8" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Healing Power +42.7 -->
+    <ensoul_option id="309" stoneId="29966" skillId="55268" skillLvl="9" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Healing Power +45.3 -->
+    <ensoul_option id="310" stoneId="29967" skillId="55268" skillLvl="10" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Healing Power +50.6 -->
+    <ensoul_option id="311" stoneId="29968" skillId="55268" skillLvl="11" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Healing Power +54.4 -->
+    <ensoul_option id="312" stoneId="29969" skillId="55268" skillLvl="12" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Healing Power +58.2 -->
+    <ensoul_option id="313" stoneId="29970" skillId="55268" skillLvl="13" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Healing Power +62.1 -->
+    <ensoul_option id="314" stoneId="29971" skillId="55268" skillLvl="14" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="315" stoneId="29972" skillId="55268" skillLvl="15" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="316" stoneId="29973" skillId="55268" skillLvl="16" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="317" stoneId="29974" skillId="55268" skillLvl="17" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="318" stoneId="29975" skillId="55268" skillLvl="18" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="319" stoneId="29976" skillId="55268" skillLvl="19" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="320" stoneId="29977" skillId="55268" skillLvl="20" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Healing Power +10 -->
+    <ensoul_option id="400" stoneId="90534" skillId="45002" skillLvl="1" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- P. Def. +56 -->
+    <ensoul_option id="401" stoneId="90535" skillId="45002" skillLvl="2" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- P. Def. +68 -->
+    <ensoul_option id="402" stoneId="90536" skillId="45002" skillLvl="3" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- P. Def. +80 -->
+    <ensoul_option id="403" stoneId="90537" skillId="45002" skillLvl="4" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- P. Def. +92 -->
+    <ensoul_option id="404" stoneId="90538" skillId="45002" skillLvl="5" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- P. Def. +104 -->
+    <ensoul_option id="405" stoneId="90539" skillId="45002" skillLvl="6" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- P. Def. +116 -->
+    <ensoul_option id="406" stoneId="90540" skillId="45002" skillLvl="7" optionType="73" name="sigels_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- P. Def. +128 -->
+    <ensoul_option id="407" stoneId="90541" skillId="45002" skillLvl="8" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- P. Def. +80 -->
+    <ensoul_option id="408" stoneId="90542" skillId="45002" skillLvl="9" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- P. Def. +92 -->
+    <ensoul_option id="409" stoneId="90543" skillId="45002" skillLvl="10" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- P. Def. +104 -->
+    <ensoul_option id="410" stoneId="90544" skillId="45002" skillLvl="11" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- P. Def. +116 -->
+    <ensoul_option id="411" stoneId="90545" skillId="45002" skillLvl="12" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- P. Def. +128 -->
+    <ensoul_option id="412" stoneId="90546" skillId="45002" skillLvl="13" optionType="73" name="sigel_super_protection" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- P. Def. +140 -->
+    <ensoul_option id="413" stoneId="90547" skillId="45002" skillLvl="14" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="414" stoneId="90548" skillId="45002" skillLvl="15" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="415" stoneId="90549" skillId="45002" skillLvl="16" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="416" stoneId="90550" skillId="45002" skillLvl="17" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="417" stoneId="90551" skillId="45002" skillLvl="18" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="418" stoneId="90552" skillId="45002" skillLvl="19" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="419" stoneId="90553" skillId="45002" skillLvl="20" optionType="73" name="sigels_protection" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Def. +9 -->
+    <ensoul_option id="420" stoneId="90534" skillId="45003" skillLvl="1" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- Max HP +0.04 -->
+    <ensoul_option id="421" stoneId="90535" skillId="45003" skillLvl="2" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- Max HP +0.05 -->
+    <ensoul_option id="422" stoneId="90536" skillId="45003" skillLvl="3" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- Max HP +0.06 -->
+    <ensoul_option id="423" stoneId="90537" skillId="45003" skillLvl="4" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- Max HP +0.07 -->
+    <ensoul_option id="424" stoneId="90538" skillId="45003" skillLvl="5" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv00" /> <!-- Max HP +0.08 -->
+    <ensoul_option id="425" stoneId="90539" skillId="45003" skillLvl="6" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- Max HP +0.09 -->
+    <ensoul_option id="426" stoneId="90540" skillId="45003" skillLvl="7" optionType="74" name="sigel_health" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- Max HP +0.1 -->
+    <ensoul_option id="427" stoneId="90541" skillId="45003" skillLvl="8" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- Max HP +6% -->
+    <ensoul_option id="428" stoneId="90542" skillId="45003" skillLvl="9" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- Max HP +7% -->
+    <ensoul_option id="429" stoneId="90543" skillId="45003" skillLvl="10" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv01" /> <!-- Max HP +8% -->
+    <ensoul_option id="430" stoneId="90544" skillId="45003" skillLvl="11" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- Max HP +9% -->
+    <ensoul_option id="431" stoneId="90545" skillId="45003" skillLvl="12" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- Max HP +10% -->
+    <ensoul_option id="432" stoneId="90546" skillId="45003" skillLvl="13" optionType="74" name="sigel_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_sigel_lv02" /> <!-- Max HP +12% -->
+    <ensoul_option id="433" stoneId="90547" skillId="45003" skillLvl="14" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.17 -->
+    <ensoul_option id="434" stoneId="90548" skillId="45003" skillLvl="15" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.18 -->
+    <ensoul_option id="435" stoneId="90549" skillId="45003" skillLvl="16" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.19 -->
+    <ensoul_option id="436" stoneId="90550" skillId="45003" skillLvl="17" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.2 -->
+    <ensoul_option id="437" stoneId="90551" skillId="45003" skillLvl="18" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.21 -->
+    <ensoul_option id="438" stoneId="90552" skillId="45003" skillLvl="19" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.22 -->
+    <ensoul_option id="439" stoneId="90553" skillId="45003" skillLvl="20" optionType="74" name="sigel_health" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max HP +0.23 -->
+    <ensoul_option id="440" stoneId="90554" skillId="45001" skillLvl="1" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- A chance to Stun upon Critical attack. +9%. Requires a polearm.  -->
+    <ensoul_option id="441" stoneId="90555" skillId="45001" skillLvl="2" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- A chance to Stun upon Critical attack. +11%. Requires a polearm.  -->
+    <ensoul_option id="442" stoneId="90556" skillId="45001" skillLvl="3" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- A chance to Stun upon Critical attack. +13%. Requires a polearm.  -->
+    <ensoul_option id="443" stoneId="90557" skillId="45001" skillLvl="4" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- A chance to Stun upon Critical attack. +15%. Requires a polearm.  -->
+    <ensoul_option id="444" stoneId="90558" skillId="45001" skillLvl="5" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- A chance to Stun upon Critical attack. +17%. Requires a polearm.  -->
+    <ensoul_option id="445" stoneId="90559" skillId="45001" skillLvl="6" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- A chance to Stun upon Critical attack. +19%. Requires a polearm.  -->
+    <ensoul_option id="446" stoneId="90560" skillId="45001" skillLvl="7" optionType="89" name="tyrr_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- A chance to Stun upon Critical attack. +21%. Requires a polearm.  -->
+    <ensoul_option id="447" stoneId="90561" skillId="45001" skillLvl="8" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- A chance to Stun upon Critical attack. +13%. Requires a polearm.  -->
+    <ensoul_option id="448" stoneId="90562" skillId="45001" skillLvl="9" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- A chance to Stun upon Critical attack. +15%. Requires a polearm.  -->
+    <ensoul_option id="449" stoneId="90563" skillId="45001" skillLvl="10" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- A chance to Stun upon Critical attack. +17%. Requires a polearm.  -->
+    <ensoul_option id="450" stoneId="90564" skillId="45001" skillLvl="11" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- A chance to Stun upon Critical attack. +19%. Requires a polearm.  -->
+    <ensoul_option id="451" stoneId="90565" skillId="45001" skillLvl="12" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- A chance to Stun upon Critical attack. +21%. Requires a polearm.  -->
+    <ensoul_option id="452" stoneId="90566" skillId="45001" skillLvl="13" optionType="89" name="tyrr_super_critical_stun" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- A chance to Stun upon Critical attack. +23%. Requires a polearm.  -->
+    <ensoul_option id="453" stoneId="90567" skillId="45001" skillLvl="14" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="454" stoneId="90568" skillId="45001" skillLvl="15" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="455" stoneId="90569" skillId="45001" skillLvl="16" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="456" stoneId="90570" skillId="45001" skillLvl="17" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="457" stoneId="90571" skillId="45001" skillLvl="18" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="458" stoneId="90572" skillId="45001" skillLvl="19" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +40%. Requires a polearm.  -->
+    <ensoul_option id="459" stoneId="90573" skillId="45001" skillLvl="20" optionType="89" name="tyrr_critical_stun" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to Stun upon Critical attack. +100%. Requires a polearm.  -->
+    <ensoul_option id="460" stoneId="90554" skillId="45004" skillLvl="1" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +0.03 -->
+    <ensoul_option id="461" stoneId="90555" skillId="45004" skillLvl="2" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +0.04 -->
+    <ensoul_option id="462" stoneId="90556" skillId="45004" skillLvl="3" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +0.05 -->
+    <ensoul_option id="463" stoneId="90557" skillId="45004" skillLvl="4" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +0.06 -->
+    <ensoul_option id="464" stoneId="90558" skillId="45004" skillLvl="5" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv00" /> <!-- Atk. Spd. +0.065 -->
+    <ensoul_option id="465" stoneId="90559" skillId="45004" skillLvl="6" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +0.07 -->
+    <ensoul_option id="466" stoneId="90560" skillId="45004" skillLvl="7" optionType="76" name="tyrr_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +0.075 -->
+    <ensoul_option id="467" stoneId="90561" skillId="45004" skillLvl="8" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +5% -->
+    <ensoul_option id="468" stoneId="90562" skillId="45004" skillLvl="9" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +6% -->
+    <ensoul_option id="469" stoneId="90563" skillId="45004" skillLvl="10" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv01" /> <!-- Atk. Spd. +6.5% -->
+    <ensoul_option id="470" stoneId="90564" skillId="45004" skillLvl="11" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +7% -->
+    <ensoul_option id="471" stoneId="90565" skillId="45004" skillLvl="12" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +7.5% -->
+    <ensoul_option id="472" stoneId="90566" skillId="45004" skillLvl="13" optionType="76" name="tyrr_super_haste" slotType="1" icon="BranchIcon.Icon.g_rune_tir_lv02" /> <!-- Atk. Spd. +8% -->
+    <ensoul_option id="473" stoneId="90567" skillId="45004" skillLvl="14" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="474" stoneId="90568" skillId="45004" skillLvl="15" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="475" stoneId="90569" skillId="45004" skillLvl="16" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="476" stoneId="90570" skillId="45004" skillLvl="17" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="477" stoneId="90571" skillId="45004" skillLvl="18" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="478" stoneId="90572" skillId="45004" skillLvl="19" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="479" stoneId="90573" skillId="45004" skillLvl="20" optionType="76" name="tyrr_haste" slotType="1" icon="icon.ensoul_big_p" /> <!-- Atk. Spd. +0.1 -->
+    <ensoul_option id="480" stoneId="90574" skillId="45005" skillLvl="1" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +25 -->
+    <ensoul_option id="481" stoneId="90575" skillId="45005" skillLvl="2" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +31 -->
+    <ensoul_option id="482" stoneId="90576" skillId="45005" skillLvl="3" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +269 -->
+    <ensoul_option id="483" stoneId="90577" skillId="45005" skillLvl="4" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +297 -->
+    <ensoul_option id="484" stoneId="90578" skillId="45005" skillLvl="5" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- P. Critical Rate +325 -->
+    <ensoul_option id="485" stoneId="90579" skillId="45005" skillLvl="6" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +352 -->
+    <ensoul_option id="486" stoneId="90580" skillId="45005" skillLvl="7" optionType="77" name="othells_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +380 -->
+    <ensoul_option id="487" stoneId="90581" skillId="45005" skillLvl="8" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +269 -->
+    <ensoul_option id="488" stoneId="90582" skillId="45005" skillLvl="9" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +297 -->
+    <ensoul_option id="489" stoneId="90583" skillId="45005" skillLvl="10" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- P. Critical Rate +325 -->
+    <ensoul_option id="490" stoneId="90584" skillId="45005" skillLvl="11" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +352 -->
+    <ensoul_option id="491" stoneId="90585" skillId="45005" skillLvl="12" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +380 -->
+    <ensoul_option id="492" stoneId="90586" skillId="45005" skillLvl="13" optionType="77" name="othell_super_focus" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- P. Critical Rate +407 -->
+    <ensoul_option id="493" stoneId="90587" skillId="45005" skillLvl="14" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="494" stoneId="90588" skillId="45005" skillLvl="15" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="495" stoneId="90589" skillId="45005" skillLvl="16" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="496" stoneId="90590" skillId="45005" skillLvl="17" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="497" stoneId="90591" skillId="45005" skillLvl="18" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="498" stoneId="90592" skillId="45005" skillLvl="19" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="499" stoneId="90593" skillId="45005" skillLvl="20" optionType="77" name="othells_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Critical Rate +80 -->
+    <ensoul_option id="500" stoneId="90574" skillId="45006" skillLvl="1" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- A chance to attack in a vital spot. +0.14 -->
+    <ensoul_option id="501" stoneId="90575" skillId="45006" skillLvl="2" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- A chance to attack in a vital spot. +0.18 -->
+    <ensoul_option id="502" stoneId="90576" skillId="45006" skillLvl="3" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- A chance to attack in a vital spot. +0.22 -->
+    <ensoul_option id="503" stoneId="90577" skillId="45006" skillLvl="4" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- A chance to attack in a vital spot. +0.25 -->
+    <ensoul_option id="504" stoneId="90578" skillId="45006" skillLvl="5" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv01" /> <!-- A chance to attack in a vital spot. +0.28 -->
+    <ensoul_option id="505" stoneId="90579" skillId="45006" skillLvl="6" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- A chance to attack in a vital spot. +0.31 -->
+    <ensoul_option id="506" stoneId="90580" skillId="45006" skillLvl="7" optionType="90" name="othell_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- A chance to attack in a vital spot. +0.34 -->
+    <ensoul_option id="507" stoneId="90581" skillId="45006" skillLvl="8" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- A chance to attack in a vital spot. +22% -->
+    <ensoul_option id="508" stoneId="90582" skillId="45006" skillLvl="9" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- A chance to attack in a vital spot. +25% -->
+    <ensoul_option id="509" stoneId="90583" skillId="45006" skillLvl="10" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv02" /> <!-- A chance to attack in a vital spot. +28% -->
+    <ensoul_option id="510" stoneId="90584" skillId="45006" skillLvl="11" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- A chance to attack in a vital spot. +31% -->
+    <ensoul_option id="511" stoneId="90585" skillId="45006" skillLvl="12" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- A chance to attack in a vital spot. +34% -->
+    <ensoul_option id="512" stoneId="90586" skillId="45006" skillLvl="13" optionType="90" name="othell_super_mortal_strike" slotType="1" icon="BranchIcon.Icon.g_rune_othel_lv03" /> <!-- A chance to attack in a vital spot. +37% -->
+    <ensoul_option id="513" stoneId="90587" skillId="45006" skillLvl="14" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="514" stoneId="90588" skillId="45006" skillLvl="15" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="515" stoneId="90589" skillId="45006" skillLvl="16" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="516" stoneId="90590" skillId="45006" skillLvl="17" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="517" stoneId="90591" skillId="45006" skillLvl="18" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="518" stoneId="90592" skillId="45006" skillLvl="19" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="519" stoneId="90593" skillId="45006" skillLvl="20" optionType="90" name="othell_mortal_strike" slotType="1" icon="icon.ensoul_big_p" /> <!-- A chance to attack in a vital spot. +0.49 -->
+    <ensoul_option id="520" stoneId="90594" skillId="45007" skillLvl="1" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- P. Atk. +92 upon Critical attack -->
+    <ensoul_option id="521" stoneId="90595" skillId="45007" skillLvl="2" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- P. Atk. +113 upon Critical attack -->
+    <ensoul_option id="522" stoneId="90596" skillId="45007" skillLvl="3" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- P. Atk. +134 upon Critical attack -->
+    <ensoul_option id="523" stoneId="90597" skillId="45007" skillLvl="4" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- P. Atk. +155 upon Critical attack -->
+    <ensoul_option id="524" stoneId="90598" skillId="45007" skillLvl="5" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- P. Atk. +176 upon Critical attack -->
+    <ensoul_option id="525" stoneId="90599" skillId="45007" skillLvl="6" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- P. Atk. +196 upon Critical attack -->
+    <ensoul_option id="526" stoneId="90600" skillId="45007" skillLvl="7" optionType="91" name="yul_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- P. Atk. +216 upon Critical attack -->
+    <ensoul_option id="527" stoneId="90601" skillId="45007" skillLvl="8" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- P. Atk. +196 upon Critical attack -->
+    <ensoul_option id="528" stoneId="90602" skillId="45007" skillLvl="9" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- P. Atk. +216 upon Critical attack -->
+    <ensoul_option id="529" stoneId="90603" skillId="45007" skillLvl="10" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- P. Atk. +236 upon Critical attack -->
+    <ensoul_option id="530" stoneId="90604" skillId="45007" skillLvl="11" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- P. Atk. +256 upon Critical attack -->
+    <ensoul_option id="531" stoneId="90605" skillId="45007" skillLvl="12" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- P. Atk. +276 upon Critical attack -->
+    <ensoul_option id="532" stoneId="90606" skillId="45007" skillLvl="13" optionType="91" name="yul_super_critical_damage" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- P. Atk. +286 upon Critical attack -->
+    <ensoul_option id="533" stoneId="90607" skillId="45007" skillLvl="14" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="534" stoneId="90608" skillId="45007" skillLvl="15" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="535" stoneId="90609" skillId="45007" skillLvl="16" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="536" stoneId="90610" skillId="45007" skillLvl="17" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="537" stoneId="90611" skillId="45007" skillLvl="18" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="538" stoneId="90612" skillId="45007" skillLvl="19" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="539" stoneId="90613" skillId="45007" skillLvl="20" optionType="91" name="yul_critical_damage" slotType="1" icon="icon.ensoul_big_p" /> <!-- P. Atk. +20 upon Critical attack -->
+    <ensoul_option id="540" stoneId="90594" skillId="45008" skillLvl="1" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2 -->
+    <ensoul_option id="541" stoneId="90595" skillId="45008" skillLvl="2" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2.4 -->
+    <ensoul_option id="542" stoneId="90596" skillId="45008" skillLvl="3" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +2.8 -->
+    <ensoul_option id="543" stoneId="90597" skillId="45008" skillLvl="4" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +3.2 -->
+    <ensoul_option id="544" stoneId="90598" skillId="45008" skillLvl="5" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv01" /> <!-- Accuracy +3.6 -->
+    <ensoul_option id="545" stoneId="90599" skillId="45008" skillLvl="6" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4 -->
+    <ensoul_option id="546" stoneId="90600" skillId="45008" skillLvl="7" optionType="80" name="yul_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4.4 -->
+    <ensoul_option id="547" stoneId="90601" skillId="45008" skillLvl="8" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4 -->
+    <ensoul_option id="548" stoneId="90602" skillId="45008" skillLvl="9" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4.4 -->
+    <ensoul_option id="549" stoneId="90603" skillId="45008" skillLvl="10" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv02" /> <!-- Accuracy +4.8 -->
+    <ensoul_option id="550" stoneId="90604" skillId="45008" skillLvl="11" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +5.2 -->
+    <ensoul_option id="551" stoneId="90605" skillId="45008" skillLvl="12" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +5.6 -->
+    <ensoul_option id="552" stoneId="90606" skillId="45008" skillLvl="13" optionType="80" name="yul_super_guidance" slotType="1" icon="BranchIcon.Icon.g_rune_yr_lv03" /> <!-- Accuracy +6 -->
+    <ensoul_option id="553" stoneId="90607" skillId="45008" skillLvl="14" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="554" stoneId="90608" skillId="45008" skillLvl="15" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="555" stoneId="90609" skillId="45008" skillLvl="16" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="556" stoneId="90610" skillId="45008" skillLvl="17" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="557" stoneId="90611" skillId="45008" skillLvl="18" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="558" stoneId="90612" skillId="45008" skillLvl="19" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="559" stoneId="90613" skillId="45008" skillLvl="20" optionType="80" name="yul_guidance" slotType="1" icon="icon.ensoul_big_p" /> <!-- Accuracy +1 -->
+    <ensoul_option id="560" stoneId="90614" skillId="45009" skillLvl="1" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Critical Rate +0.03 -->
+    <ensoul_option id="561" stoneId="90615" skillId="45009" skillLvl="2" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Critical Rate +0.04 -->
+    <ensoul_option id="562" stoneId="90616" skillId="45009" skillLvl="3" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Critical Rate +0.05 -->
+    <ensoul_option id="563" stoneId="90617" skillId="45009" skillLvl="4" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Critical Rate +0.06 -->
+    <ensoul_option id="564" stoneId="90618" skillId="45009" skillLvl="5" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Critical Rate +0.07 -->
+    <ensoul_option id="565" stoneId="90619" skillId="45009" skillLvl="6" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Critical Rate +0.08 -->
+    <ensoul_option id="566" stoneId="90620" skillId="45009" skillLvl="7" optionType="81" name="feoh_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Critical Rate +0.09 -->
+    <ensoul_option id="567" stoneId="90621" skillId="45009" skillLvl="8" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Critical Rate +1% -->
+    <ensoul_option id="568" stoneId="90622" skillId="45009" skillLvl="9" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Critical Rate +11% -->
+    <ensoul_option id="569" stoneId="90623" skillId="45009" skillLvl="10" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Critical Rate +12% -->
+    <ensoul_option id="570" stoneId="90624" skillId="45009" skillLvl="11" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Critical Rate +13% -->
+    <ensoul_option id="571" stoneId="90625" skillId="45009" skillLvl="12" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Critical Rate +14% -->
+    <ensoul_option id="572" stoneId="90626" skillId="45009" skillLvl="13" optionType="81" name="feoh_super_magic_focus" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Critical Rate +15% -->
+    <ensoul_option id="573" stoneId="90627" skillId="45009" skillLvl="14" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="574" stoneId="90628" skillId="45009" skillLvl="15" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="575" stoneId="90629" skillId="45009" skillLvl="16" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="576" stoneId="90630" skillId="45009" skillLvl="17" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="577" stoneId="90631" skillId="45009" skillLvl="18" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="578" stoneId="90632" skillId="45009" skillLvl="19" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="579" stoneId="90633" skillId="45009" skillLvl="20" optionType="81" name="feoh_magic_focus" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Critical Rate +0.15 -->
+    <ensoul_option id="580" stoneId="90614" skillId="45010" skillLvl="1" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +28 -->
+    <ensoul_option id="581" stoneId="90615" skillId="45010" skillLvl="2" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +36 -->
+    <ensoul_option id="582" stoneId="90616" skillId="45010" skillLvl="3" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +44 -->
+    <ensoul_option id="583" stoneId="90617" skillId="45010" skillLvl="4" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +52 -->
+    <ensoul_option id="584" stoneId="90618" skillId="45010" skillLvl="5" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv01" /> <!-- M. Atk. +60 -->
+    <ensoul_option id="585" stoneId="90619" skillId="45010" skillLvl="6" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +68 -->
+    <ensoul_option id="586" stoneId="90620" skillId="45010" skillLvl="7" optionType="82" name="feohs_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +76 -->
+    <ensoul_option id="587" stoneId="90621" skillId="45010" skillLvl="8" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +84 -->
+    <ensoul_option id="588" stoneId="90622" skillId="45010" skillLvl="9" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +92 -->
+    <ensoul_option id="589" stoneId="90623" skillId="45010" skillLvl="10" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv02" /> <!-- M. Atk. +100 -->
+    <ensoul_option id="590" stoneId="90624" skillId="45010" skillLvl="11" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +104 -->
+    <ensoul_option id="591" stoneId="90625" skillId="45010" skillLvl="12" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +108 -->
+    <ensoul_option id="592" stoneId="90626" skillId="45010" skillLvl="13" optionType="82" name="feoh_super_empower" slotType="1" icon="BranchIcon.Icon.g_rune_feoh_lv03" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="593" stoneId="90627" skillId="45010" skillLvl="14" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="594" stoneId="90628" skillId="45010" skillLvl="15" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="595" stoneId="90629" skillId="45010" skillLvl="16" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="596" stoneId="90630" skillId="45010" skillLvl="17" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="597" stoneId="90631" skillId="45010" skillLvl="18" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="598" stoneId="90632" skillId="45010" skillLvl="19" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="599" stoneId="90633" skillId="45010" skillLvl="20" optionType="82" name="feohs_empower" slotType="1" icon="icon.ensoul_big_p" /> <!-- M. Atk. +112 -->
+    <ensoul_option id="600" stoneId="90634" skillId="45011" skillLvl="1" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Casting Spd. +0.03 -->
+    <ensoul_option id="601" stoneId="90635" skillId="45011" skillLvl="2" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Casting Spd. +0.04 -->
+    <ensoul_option id="602" stoneId="90636" skillId="45011" skillLvl="3" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Casting Spd. +0.05 -->
+    <ensoul_option id="603" stoneId="90637" skillId="45011" skillLvl="4" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Casting Spd. +0.06 -->
+    <ensoul_option id="604" stoneId="90638" skillId="45011" skillLvl="5" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Casting Spd. +0.07 -->
+    <ensoul_option id="605" stoneId="90639" skillId="45011" skillLvl="6" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Casting Spd. +0.08 -->
+    <ensoul_option id="606" stoneId="90640" skillId="45011" skillLvl="7" optionType="92" name="iss_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Casting Spd. +0.09 -->
+    <ensoul_option id="607" stoneId="90641" skillId="45011" skillLvl="8" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Casting Spd. +5% -->
+    <ensoul_option id="608" stoneId="90642" skillId="45011" skillLvl="9" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Casting Spd. +6% -->
+    <ensoul_option id="609" stoneId="90643" skillId="45011" skillLvl="10" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Casting Spd. +7% -->
+    <ensoul_option id="610" stoneId="90644" skillId="45011" skillLvl="11" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Casting Spd. +8% -->
+    <ensoul_option id="611" stoneId="90645" skillId="45011" skillLvl="12" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Casting Spd. +9% -->
+    <ensoul_option id="612" stoneId="90646" skillId="45011" skillLvl="13" optionType="92" name="acumen_super_shield" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Casting Spd. +10% -->
+    <ensoul_option id="613" stoneId="90647" skillId="45011" skillLvl="14" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="614" stoneId="90648" skillId="45011" skillLvl="15" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="615" stoneId="90649" skillId="45011" skillLvl="16" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="616" stoneId="90650" skillId="45011" skillLvl="17" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="617" stoneId="90651" skillId="45011" skillLvl="18" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="618" stoneId="90652" skillId="45011" skillLvl="19" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="619" stoneId="90653" skillId="45011" skillLvl="20" optionType="92" name="iss_shield" slotType="1" icon="icon.ensoul_big_p" /> <!-- Casting Spd. +0.13 -->
+    <ensoul_option id="620" stoneId="90634" skillId="45012" skillLvl="1" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Speed +4 -->
+    <ensoul_option id="621" stoneId="90635" skillId="45012" skillLvl="2" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Speed +4.5 -->
+    <ensoul_option id="622" stoneId="90636" skillId="45012" skillLvl="3" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Speed +5 -->
+    <ensoul_option id="623" stoneId="90637" skillId="45012" skillLvl="4" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Speed +5.5 -->
+    <ensoul_option id="624" stoneId="90638" skillId="45012" skillLvl="5" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv01" /> <!-- Speed +6 -->
+    <ensoul_option id="625" stoneId="90639" skillId="45012" skillLvl="6" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Speed +6.5 -->
+    <ensoul_option id="626" stoneId="90640" skillId="45012" skillLvl="7" optionType="93" name="iss_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Speed +7 -->
+    <ensoul_option id="627" stoneId="90641" skillId="45012" skillLvl="8" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Speed +5 -->
+    <ensoul_option id="628" stoneId="90642" skillId="45012" skillLvl="9" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Speed +5.5 -->
+    <ensoul_option id="629" stoneId="90643" skillId="45012" skillLvl="10" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv02" /> <!-- Speed +6 -->
+    <ensoul_option id="630" stoneId="90644" skillId="45012" skillLvl="11" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Speed +6.5 -->
+    <ensoul_option id="631" stoneId="90645" skillId="45012" skillLvl="12" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Speed +7 -->
+    <ensoul_option id="632" stoneId="90646" skillId="45012" skillLvl="13" optionType="93" name="iss_super_wind_walk" slotType="1" icon="BranchIcon.Icon.g_rune_is_lv03" /> <!-- Speed +7.5 -->
+    <ensoul_option id="633" stoneId="90647" skillId="45012" skillLvl="14" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="634" stoneId="90648" skillId="45012" skillLvl="15" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="635" stoneId="90649" skillId="45012" skillLvl="16" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="636" stoneId="90650" skillId="45012" skillLvl="17" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="637" stoneId="90651" skillId="45012" skillLvl="18" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="638" stoneId="90652" skillId="45012" skillLvl="19" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="639" stoneId="90653" skillId="45012" skillLvl="20" optionType="93" name="iss_wind_walk" slotType="1" icon="icon.ensoul_big_p" /> <!-- Speed +10 -->
+    <ensoul_option id="640" stoneId="90654" skillId="45013" skillLvl="1" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Max MP +0.04 -->
+    <ensoul_option id="641" stoneId="90655" skillId="45013" skillLvl="2" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Max MP +0.05 -->
+    <ensoul_option id="642" stoneId="90656" skillId="45013" skillLvl="3" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Max MP +0.06 -->
+    <ensoul_option id="643" stoneId="90657" skillId="45013" skillLvl="4" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Max MP +0.07 -->
+    <ensoul_option id="644" stoneId="90658" skillId="45013" skillLvl="5" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Max MP +0.08 -->
+    <ensoul_option id="645" stoneId="90659" skillId="45013" skillLvl="6" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Max MP +0.09 -->
+    <ensoul_option id="646" stoneId="90660" skillId="45013" skillLvl="7" optionType="94" name="wynn_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Max MP +0.1 -->
+    <ensoul_option id="647" stoneId="90661" skillId="45013" skillLvl="8" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Max MP +12% -->
+    <ensoul_option id="648" stoneId="90662" skillId="45013" skillLvl="9" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Max MP +14% -->
+    <ensoul_option id="649" stoneId="90663" skillId="45013" skillLvl="10" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Max MP +16% -->
+    <ensoul_option id="650" stoneId="90664" skillId="45013" skillLvl="11" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Max MP +18% -->
+    <ensoul_option id="651" stoneId="90665" skillId="45013" skillLvl="12" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Max MP +2% -->
+    <ensoul_option id="652" stoneId="90666" skillId="45013" skillLvl="13" optionType="94" name="wynn_super_boost_mana" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Max MP +22% -->
+    <ensoul_option id="653" stoneId="90667" skillId="45013" skillLvl="14" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="654" stoneId="90668" skillId="45013" skillLvl="15" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="655" stoneId="90669" skillId="45013" skillLvl="16" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="656" stoneId="90670" skillId="45013" skillLvl="17" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="657" stoneId="90671" skillId="45013" skillLvl="18" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="658" stoneId="90672" skillId="45013" skillLvl="19" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="659" stoneId="90673" skillId="45013" skillLvl="20" optionType="94" name="wynn_boost_mana" slotType="1" icon="icon.ensoul_big_p" /> <!-- Max MP +0.22 -->
+    <ensoul_option id="660" stoneId="90654" skillId="45014" skillLvl="1" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1000 -->
+    <ensoul_option id="661" stoneId="90655" skillId="45014" skillLvl="2" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1400 -->
+    <ensoul_option id="662" stoneId="90656" skillId="45014" skillLvl="3" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +1800 -->
+    <ensoul_option id="663" stoneId="90657" skillId="45014" skillLvl="4" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +2200 -->
+    <ensoul_option id="664" stoneId="90658" skillId="45014" skillLvl="5" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv01" /> <!-- Weight limit +2600 -->
+    <ensoul_option id="665" stoneId="90659" skillId="45014" skillLvl="6" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +3000 -->
+    <ensoul_option id="666" stoneId="90660" skillId="45014" skillLvl="7" optionType="86" name="wynns_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +3400 -->
+    <ensoul_option id="667" stoneId="90661" skillId="45014" skillLvl="8" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +4100 -->
+    <ensoul_option id="668" stoneId="90662" skillId="45014" skillLvl="9" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +4500 -->
+    <ensoul_option id="669" stoneId="90663" skillId="45014" skillLvl="10" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv02" /> <!-- Weight limit +4900 -->
+    <ensoul_option id="670" stoneId="90664" skillId="45014" skillLvl="11" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +5200 -->
+    <ensoul_option id="671" stoneId="90665" skillId="45014" skillLvl="12" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +5800 -->
+    <ensoul_option id="672" stoneId="90666" skillId="45014" skillLvl="13" optionType="86" name="wynn_super_lightness" slotType="1" icon="BranchIcon.Icon.g_rune_wynn_lv03" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="673" stoneId="90667" skillId="45014" skillLvl="14" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="674" stoneId="90668" skillId="45014" skillLvl="15" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="675" stoneId="90669" skillId="45014" skillLvl="16" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="676" stoneId="90670" skillId="45014" skillLvl="17" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="677" stoneId="90671" skillId="45014" skillLvl="18" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="678" stoneId="90672" skillId="45014" skillLvl="19" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="679" stoneId="90673" skillId="45014" skillLvl="20" optionType="86" name="wynns_lightness" slotType="1" icon="icon.ensoul_big_p" /> <!-- Weight limit +6400 -->
+    <ensoul_option id="680" stoneId="90674" skillId="45015" skillLvl="1" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- MP Recovery bonus +0.065 -->
+    <ensoul_option id="681" stoneId="90675" skillId="45015" skillLvl="2" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- MP Recovery bonus +0.08 -->
+    <ensoul_option id="682" stoneId="90676" skillId="45015" skillLvl="3" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- MP Recovery bonus +0.095 -->
+    <ensoul_option id="683" stoneId="90677" skillId="45015" skillLvl="4" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- MP Recovery bonus +0.11 -->
+    <ensoul_option id="684" stoneId="90678" skillId="45015" skillLvl="5" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- MP Recovery bonus +0.125 -->
+    <ensoul_option id="685" stoneId="90679" skillId="45015" skillLvl="6" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- MP Recovery bonus +0.14 -->
+    <ensoul_option id="686" stoneId="90680" skillId="45015" skillLvl="7" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- MP Recovery bonus +0.155 -->
+    <ensoul_option id="687" stoneId="90681" skillId="45015" skillLvl="8" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- MP Recovery bonus +9.5% -->
+    <ensoul_option id="688" stoneId="90682" skillId="45015" skillLvl="9" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- MP Recovery bonus +11% -->
+    <ensoul_option id="689" stoneId="90683" skillId="45015" skillLvl="10" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- MP Recovery bonus +12.5% -->
+    <ensoul_option id="690" stoneId="90684" skillId="45015" skillLvl="11" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- MP Recovery bonus +14% -->
+    <ensoul_option id="691" stoneId="90685" skillId="45015" skillLvl="12" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- MP Recovery bonus +15.5% -->
+    <ensoul_option id="692" stoneId="90686" skillId="45015" skillLvl="13" optionType="95" name="aeore_super_magic_regeneration" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- MP Recovery bonus +17% -->
+    <ensoul_option id="693" stoneId="90687" skillId="45015" skillLvl="14" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="694" stoneId="90688" skillId="45015" skillLvl="15" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="695" stoneId="90689" skillId="45015" skillLvl="16" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="696" stoneId="90690" skillId="45015" skillLvl="17" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="697" stoneId="90691" skillId="45015" skillLvl="18" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="698" stoneId="90692" skillId="45015" skillLvl="19" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="699" stoneId="90693" skillId="45015" skillLvl="20" optionType="95" name="aeore_magic_regeneration" slotType="1" icon="icon.ensoul_big_p" /> <!-- MP Recovery bonus +1 -->
+    <ensoul_option id="700" stoneId="90674" skillId="45016" skillLvl="1" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Received healing +30 -->
+    <ensoul_option id="701" stoneId="90675" skillId="45016" skillLvl="2" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Received healing +38 -->
+    <ensoul_option id="702" stoneId="90676" skillId="45016" skillLvl="3" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Received healing +46 -->
+    <ensoul_option id="703" stoneId="90677" skillId="45016" skillLvl="4" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Received healing +54 -->
+    <ensoul_option id="704" stoneId="90678" skillId="45016" skillLvl="5" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv01" /> <!-- Received healing +62 -->
+    <ensoul_option id="705" stoneId="90679" skillId="45016" skillLvl="6" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Received healing +70 -->
+    <ensoul_option id="706" stoneId="90680" skillId="45016" skillLvl="7" optionType="88" name="aeores_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Received healing +78 -->
+    <ensoul_option id="707" stoneId="90681" skillId="45016" skillLvl="8" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Received healing +46 -->
+    <ensoul_option id="708" stoneId="90682" skillId="45016" skillLvl="9" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Received healing +54 -->
+    <ensoul_option id="709" stoneId="90683" skillId="45016" skillLvl="10" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv02" /> <!-- Received healing +62 -->
+    <ensoul_option id="710" stoneId="90684" skillId="45016" skillLvl="11" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Received healing +70 -->
+    <ensoul_option id="711" stoneId="90685" skillId="45016" skillLvl="12" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Received healing +78 -->
+    <ensoul_option id="712" stoneId="90686" skillId="45016" skillLvl="13" optionType="88" name="aeore_super_heal" slotType="1" icon="BranchIcon.Icon.g_rune_eolh_lv03" /> <!-- Received healing +86 -->
+    <ensoul_option id="713" stoneId="90687" skillId="45016" skillLvl="14" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="714" stoneId="90688" skillId="45016" skillLvl="15" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="715" stoneId="90689" skillId="45016" skillLvl="16" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="716" stoneId="90690" skillId="45016" skillLvl="17" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="717" stoneId="90691" skillId="45016" skillLvl="18" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="718" stoneId="90692" skillId="45016" skillLvl="19" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="719" stoneId="90693" skillId="45016" skillLvl="20" optionType="88" name="aeores_heal" slotType="1" icon="icon.ensoul_big_p" /> <!-- Received healing +126 -->
+    <ensoul_option id="1001" stoneId="91163" skillId="54034" skillLvl="1" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +5, M. Atk. +1% -->
+    <ensoul_option id="1002" stoneId="91164" skillId="54034" skillLvl="2" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +10, M. Atk. +1% -->
+    <ensoul_option id="1003" stoneId="91165" skillId="54034" skillLvl="3" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +15, M. Atk. +1% -->
+    <ensoul_option id="1004" stoneId="91166" skillId="54034" skillLvl="4" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +20, M. Atk. +2% -->
+    <ensoul_option id="1005" stoneId="91167" skillId="54034" skillLvl="5" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +25, M. Atk. +2% -->
+    <ensoul_option id="1006" stoneId="91168" skillId="54034" skillLvl="6" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +35, M. Atk. +2%, restores 75 MP when basic attack or skill used. -->
+    <ensoul_option id="1007" stoneId="91169" skillId="54034" skillLvl="7" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +45, M. Atk. +5%, restores 150 MP when basic attack or skill used. -->
+    <ensoul_option id="1008" stoneId="91170" skillId="54034" skillLvl="8" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +55, M. Atk. +8%, restores 225 MP when basic attack or skill used. -->
+    <ensoul_option id="1009" stoneId="91171" skillId="54034" skillLvl="9" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +70, M. Atk. +11%, restores 300 MP when basic attack or skill used. -->
+    <ensoul_option id="1010" stoneId="91172" skillId="54034" skillLvl="10" optionType="96" name="anakims_power" slotType="2" icon="icon.etc_water_rune_i00" /> <!-- When using the Recharge skill, MP Recovery Rate +90, M. Atk. +15%, restores 600 MP when basic attack or skill used. -->
+    <ensoul_option id="1011" stoneId="91173" skillId="54035" skillLvl="1" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +1%, P. Atk. +1% -->
+    <ensoul_option id="1012" stoneId="91174" skillId="54035" skillLvl="2" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +2%, P. Atk. +1% -->
+    <ensoul_option id="1013" stoneId="91175" skillId="54035" skillLvl="3" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +3%, P. Atk. +1% -->
+    <ensoul_option id="1014" stoneId="91176" skillId="54035" skillLvl="4" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +4%, P. Atk. +2% -->
+    <ensoul_option id="1015" stoneId="91177" skillId="54035" skillLvl="5" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +5%, P. Atk. +2% -->
+    <ensoul_option id="1016" stoneId="91178" skillId="54035" skillLvl="6" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +5%, P. Atk. +2%, restores 100 HP when basic attack used. -->
+    <ensoul_option id="1017" stoneId="91179" skillId="54035" skillLvl="7" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +7%, P. Atk. +5%, restores 200 HP when basic attack used. -->
+    <ensoul_option id="1018" stoneId="91180" skillId="54035" skillLvl="8" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +9%, P. Atk. +8%, restores 300 HP when basic attack used. -->
+    <ensoul_option id="1019" stoneId="91181" skillId="54035" skillLvl="9" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +12%, P. Atk. +11%, restores 400 HP when basic attack used. -->
+    <ensoul_option id="1020" stoneId="91182" skillId="54035" skillLvl="10" optionType="97" name="liliths_power" slotType="2" icon="icon.etc_fire_rune_i00" /> <!-- Received Healing +15%, P. Atk. +15%, restores 900 HP when basic attack used. -->
+</list>

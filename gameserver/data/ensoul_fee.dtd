@@ -1,0 +1,17 @@
+<!ELEMENT list (ensoul_fee)*>
+<!ELEMENT ensoul_fee (insert_fee|replace_fee|remove_fee)*>
+<!ATTLIST ensoul_fee
+        grade CDATA #REQUIRED>
+<!ELEMENT insert_fee (item)*>
+<!ATTLIST insert_fee
+        type CDATA #REQUIRED>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+        amount CDATA #REQUIRED
+        id CDATA #REQUIRED>
+<!ELEMENT replace_fee (item)*>
+<!ATTLIST replace_fee
+        type CDATA #REQUIRED>
+<!ELEMENT remove_fee (item)*>
+<!ATTLIST remove_fee
+        type CDATA #REQUIRED>

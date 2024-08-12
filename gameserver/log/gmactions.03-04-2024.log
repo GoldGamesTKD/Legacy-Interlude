@@ -1,0 +1,46 @@
+[03.04.24 01:08:30] SUCCESS ADMTKD[268477111] admin_admin
+[03.04.24 01:08:31] SUCCESS ADMTKD[268477111] admin_invis
+[03.04.24 21:06:34] SUCCESS ADMTKD[268477111] admin_admin
+[03.04.24 21:06:38] SUCCESS ADMTKD[268477111] admin_char_manage
+[03.04.24 21:06:38] SUCCESS ADMTKD[268477111] admin_show_characters 0
+[03.04.24 21:06:42] SUCCESS ADMTKD[268477111] admin_admin
+[03.04.24 21:06:47] SUCCESS ADMTKD[268477111] admin_show_moves
+[03.04.24 21:06:59] SUCCESS ADMTKD[268477111] admin_show_html teleports/town.htm
+[03.04.24 21:07:04] SUCCESS ADMTKD[268477111] admin_admin
+[03.04.24 21:07:05] SUCCESS ADMTKD[268477111] admin_server admserver.htm
+[03.04.24 21:07:06] SUCCESS ADMTKD[268477111] admin_server_shutdown
+[03.04.24 21:07:08] SUCCESS ADMTKD[268477111] admin_server_restart
+[03.04.24 21:07:11] SUCCESS ADMTKD[268477111] admin_server_restart 1
+[03.04.24 21:22:32] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 21:22:34] SUCCESS tkd2[268544878] admin_server admserver.htm
+[03.04.24 21:22:34] SUCCESS tkd2[268544878] admin_server_shutdown
+[03.04.24 21:22:36] SUCCESS tkd2[268544878] admin_server_restart 1
+[03.04.24 21:31:05] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 21:31:11] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_setlevel 80
+[03.04.24 21:31:29] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_show_moves
+[03.04.24 21:31:30] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_show_html teleports/town.htm
+[03.04.24 21:31:30] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_show_html teleports/town/giran.htm
+[03.04.24 21:31:31] SUCCESS tkd2[268544878] admin_move_to 82698 148638 -3473
+[03.04.24 21:31:55] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_vis
+[03.04.24 21:32:07] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_admin
+[03.04.24 21:32:09] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_itemcreate
+[03.04.24 21:32:21] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_create_item 57 999999999
+[03.04.24 21:32:28] SUCCESS tkd2[268544878] -> tkd2[268544878] admin_create_item 57 999999999999
+[03.04.24 21:55:48] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 21:57:02] SUCCESS tkd2[268544878] admin_char_manage
+[03.04.24 21:57:03] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 21:57:07] SUCCESS tkd2[268544878] admin_itemcreate
+[03.04.24 22:00:14] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 22:00:16] SUCCESS tkd2[268544878] admin_itemcreate
+[03.04.24 22:00:22] SUCCESS tkd2[268544878] admin_create_item 57 5
+[03.04.24 22:06:00] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 22:06:01] SUCCESS tkd2[268544878] admin_char_manage
+[03.04.24 22:06:02] SUCCESS tkd2[268544878] admin_show_characters 0
+[03.04.24 22:06:04] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 22:06:05] SUCCESS tkd2[268544878] admin_server admserver.htm
+[03.04.24 22:06:05] SUCCESS tkd2[268544878] admin_server_shutdown
+[03.04.24 22:06:07] SUCCESS tkd2[268544878] admin_server_restart 2
+[03.04.24 22:15:31] SUCCESS tkd2[268544878] admin_admin
+[03.04.24 22:15:32] SUCCESS tkd2[268544878] admin_server admserver.htm
+[03.04.24 22:15:33] SUCCESS tkd2[268544878] admin_server_shutdown
+[03.04.24 22:15:34] SUCCESS tkd2[268544878] admin_server_restart 1

@@ -1,0 +1,4 @@
+[31.03.24 15:40:27] RateLimit: Player ADMTKD/tkd1[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestPledgeWaitingApplied
+[31.03.24 17:32:08] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestPledgeWaitingApplied
+[31.03.24 21:04:22] Incorrect packet size : 34092! Client : CONNECTED IP: 80.82.70.133. Closing connection.
+[31.03.24 21:04:23] Incorrect packet size : 0! Client : CONNECTED IP: 18.170.225.146. Closing connection.

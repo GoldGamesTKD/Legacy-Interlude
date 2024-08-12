@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+    <config showall="true" is_chanced="true" notax="false" keepenchanted="false"/>
+
+    <item>
+        <ingredient id="5556" count="1"/>
+        <ingredient id="5557" count="1"/>
+        <ingredient id="5558" count="1"/>
+        <ingredient id="5559" count="1"/>
+        <production id="7838" count="1" chance="0"/>
+        <production id="7838" count="1" chance="60"/>
+        <production id="20900" count="1" chance="30"/>
+        <production id="20901" count="1" chance="30"/>
+    </item>
+</list>

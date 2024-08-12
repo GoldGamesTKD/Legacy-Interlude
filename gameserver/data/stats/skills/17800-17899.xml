@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="17815" levels="2" name="Ruby">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17816" levels="2" name="Ruby">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17817" levels="2" name="Ruby">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17819" levels="2" name="Sapphire">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17820" levels="2" name="Sapphire">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17821" levels="2" name="Sapphire">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="SOULSHOT"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="isHandler" val="true"/>
+    </skill>
+    <skill id="17823" levels="10" name="Aquamarine">
+        <table name="#magicLevel">46 49 52 55 58 61 64 67 70 75</table>
+        <table name="#level">1 2 3 4 5 6 7 8 9 10</table>
+        <table name="#maxmp">1 1 1 1 1 1.02 1.05 1.08 1.12 1.20</table>
+        <set name="icon" val="icon.etc_bm_jewel_aquamarine_i00" />
+        <set name="magicLevel" val="#magicLevel" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <triggers>
+            <trigger id="55507" level="#level" type="SUPPORT_MAGICAL_SKILL_USE" chance="10"/>
+        </triggers>
+        <for>
+            <mul order="0x30" stat="maxMp" val="#maxmp"/>
+        </for>
+    </skill>
+</list>

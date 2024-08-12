@@ -1,0 +1,14 @@
+[02.04.24 04:09:04] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkillInfo
+[02.04.24 04:09:08] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:10] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:13] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:19] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:23] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:30] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:37] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:42] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:50] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:53] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:56] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[02.04.24 04:09:59] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkillInfo
+[02.04.24 19:09:03] Incorrect packet size : 34092! Client : CONNECTED IP: 80.82.70.133. Closing connection.

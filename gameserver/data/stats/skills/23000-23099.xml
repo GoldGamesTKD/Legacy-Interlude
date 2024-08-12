@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="23087" levels="1" name="Utanka Agathion Cute Trick" >
+		<set name="magicType" val="SPECIAL" />
+		<set name="icon" val="icon.skill_agathion_cute" />
+		<set name="magicLevel" val="85" />
+		<set name="hitTime" val="3000" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_ACTIVE" />
+		<set name="hitTime" val="3000" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<cond msgId="2292">
+			<player agathion="1533"/>
+		</cond>
+	</skill>
+</list>

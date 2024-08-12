@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "tree.dtd">
+<list>
+    <custom_skill_tree>
+        <race id="0"> <!-- Human -->
+           <!-- <skill id="1313" level="1" cost="0" name="Pumping" min_level="10" item_id="57" item_count="10" clicked="false" /> -->
+        </race>
+        <race id="1"> <!-- Elf -->
+            <!-- <skill id="1313" level="1" cost="0" name="Pumping" min_level="10" item_id="57" item_count="10" clicked="false" /> -->
+        </race>
+        <race id="2"> <!-- Dark Elf -->
+            <!-- <skill id="1313" level="1" cost="0" name="Pumping" min_level="10" item_id="57" item_count="10" clicked="false" /> -->
+        </race>
+        <race id="3"> <!-- Ork -->
+            <!-- <skill id="1313" level="1" cost="0" name="Pumping" min_level="10" item_id="57" item_count="10" clicked="false" /> -->
+        </race>
+        <race id="4"> <!-- Dwarves -->
+            <!-- <skill id="1313" level="1" cost="0" name="Pumping" min_level="10" item_id="57" item_count="10" clicked="false" /> -->
+        </race>
+    </custom_skill_tree>
+</list>

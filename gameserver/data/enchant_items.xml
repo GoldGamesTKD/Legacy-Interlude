@@ -1,0 +1,1604 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE list SYSTEM "enchant_items.dtd">
+<list>
+    <!-- Work params:
+    id="959" - Scroll Enchant ID
+    infallible="false/true" - destroy item on fail or not
+    on_fail="CRYSTALIZE/RESET/NONE" - CRYSTALIZE : Drop on Crystals. RESET: Reset to 0. NONE: Keep enchant level after fail but not increase.
+    chance_bonus="" additional chance bonus cal on formula Chance*additionChance=Final Chance
+    grade="" - Grade of Item enchant condition
+    levels min="0" max="20" - Min Enchant level for scroll and Max enchant Level
+    items_restrict - scroll can ecnhant WEAPON or ARMOR item type or Universal for enchant any type type="ALL"
+
+    ADDITIONAL:
+    reset_lvl="3" - drop enchant level on this param if scroll have on_fail="RESET" item will decrise enchant level to 3 or any number
+    Simple:
+    <scroll id="10998" infallible="false" reset_lvl="3" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+
+    increment="" - enchant level step - if u setup increment="3" scroll will be up level of enchant to 3
+    Simple:
+    <scroll id="10999" infallible="false" increment="3" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+    </scroll>
+
+    -->
+
+    <!-- Normal Enchant Scroll -->
+    <scroll id="959" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="960" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="729" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="730" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="947" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="948" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="951" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="952" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="955" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="956" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <!-- Crystal Scrolls -->
+    <scroll id="961" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="962" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="731" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="732" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="949" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="950" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="953" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="954" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="957" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="958" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <!-- Blessed Enchant Scroll -->
+    <scroll id="6577" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6578" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="S">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6569" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6570" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="A">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6571" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6572" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="B">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6573" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6574" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="C">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6575" infallible="false" reset_lvl="0" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON"/>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="6576" infallible="false" reset_lvl="3" on_fail="RESET" chance_bonus="0" grade="D">
+        <levels min="0" max="20" />
+        <items_restrict type="ARMOR"/>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="FULL_ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+        <chances type="JEWELRY">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="91575" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="NONE">
+        <levels min="0" max="20" />
+        <items_restrict type="WEAPON">
+            <item id="91574" /> <!-- Saint Sword Excalibur -->
+        </items_restrict>
+        <chances type="WEAPON">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="91213" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="NONE">
+        <levels min="0" max="10" />
+        <items_restrict type="ARMOR">
+            <item id="91210" />
+            <item id="91211" />
+            <item id="91212" />
+            <item id="29704" />
+        </items_restrict>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="49469" infallible="false" on_fail="CRYSTALIZE" chance_bonus="0" grade="NONE">
+        <levels min="0" max="10" />
+        <items_restrict type="ARMOR">
+            <item id="29704" /> <!-- Fire Dragon Pedant Lv. 1 -->
+            <item id="29705" /> <!-- Fire Dragon Pedant Lv. 2 -->
+            <item id="29706" /> <!-- Fire Dragon Pedant Lv. 3 -->
+            <item id="29707" /> <!-- Fire Dragon Pedant Lv. 4 -->
+            <item id="29708" /> <!-- Fire Dragon Pedant Lv. 5 -->
+            <item id="29709" /> <!-- Water Dragon Pedant Lv. 1 -->
+            <item id="29710" /> <!-- Water Dragon Pedant Lv. 2 -->
+            <item id="29711" /> <!-- Water Dragon Pedant Lv. 3 -->
+            <item id="29712" /> <!-- Water Dragon Pedant Lv. 4 -->
+            <item id="29713" /> <!-- Water Dragon Pedant Lv. 5 -->
+            <item id="29714" /> <!-- Wind Dragon Pedant Lv. 1 -->
+            <item id="29715" /> <!-- Wind Dragon Pedant Lv. 2 -->
+            <item id="29716" /> <!-- Wind Dragon Pedant Lv. 3 -->
+            <item id="29717" /> <!-- Wind Dragon Pedant Lv. 4 -->
+            <item id="29718" /> <!-- Wind Dragon Pedant Lv. 5 -->
+            <item id="29719" /> <!-- Land Dragon Pedant Lv. 1 -->
+            <item id="29720" /> <!-- Land Dragon Pedant Lv. 2 -->
+            <item id="29721" /> <!-- Land Dragon Pedant Lv. 3 -->
+            <item id="29722" /> <!-- Land Dragon Pedant Lv. 4 -->
+            <item id="29723" /> <!-- Land Dragon Pedant Lv. 5 -->
+        </items_restrict>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+    <scroll id="49470" infallible="false" on_fail="NONE" chance_bonus="0" grade="NONE">
+        <levels min="0" max="8" />
+        <items_restrict type="ARMOR">
+            <item id="29704" /> <!-- Fire Dragon Pedant Lv. 1 -->
+            <item id="29705" /> <!-- Fire Dragon Pedant Lv. 2 -->
+            <item id="29706" /> <!-- Fire Dragon Pedant Lv. 3 -->
+            <item id="29707" /> <!-- Fire Dragon Pedant Lv. 4 -->
+            <item id="29708" /> <!-- Fire Dragon Pedant Lv. 5 -->
+            <item id="29709" /> <!-- Water Dragon Pedant Lv. 1 -->
+            <item id="29710" /> <!-- Water Dragon Pedant Lv. 2 -->
+            <item id="29711" /> <!-- Water Dragon Pedant Lv. 3 -->
+            <item id="29712" /> <!-- Water Dragon Pedant Lv. 4 -->
+            <item id="29713" /> <!-- Water Dragon Pedant Lv. 5 -->
+            <item id="29714" /> <!-- Wind Dragon Pedant Lv. 1 -->
+            <item id="29715" /> <!-- Wind Dragon Pedant Lv. 2 -->
+            <item id="29716" /> <!-- Wind Dragon Pedant Lv. 3 -->
+            <item id="29717" /> <!-- Wind Dragon Pedant Lv. 4 -->
+            <item id="29718" /> <!-- Wind Dragon Pedant Lv. 5 -->
+            <item id="29719" /> <!-- Land Dragon Pedant Lv. 1 -->
+            <item id="29720" /> <!-- Land Dragon Pedant Lv. 2 -->
+            <item id="29721" /> <!-- Land Dragon Pedant Lv. 3 -->
+            <item id="29722" /> <!-- Land Dragon Pedant Lv. 4 -->
+            <item id="29723" /> <!-- Land Dragon Pedant Lv. 5 -->
+        </items_restrict>
+        <chances type="ARMOR">
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="100"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+            <chance val="66"/>
+        </chances>
+    </scroll>
+</list>

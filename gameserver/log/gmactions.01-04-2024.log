@@ -1,0 +1,35 @@
+[01.04.24 07:40:16] SUCCESS ADMTKD[268477111] admin_admin
+[01.04.24 07:40:17] SUCCESS ADMTKD[268477111] admin_server admserver.htm
+[01.04.24 07:40:17] SUCCESS ADMTKD[268477111] admin_server_shutdown
+[01.04.24 07:40:20] SUCCESS ADMTKD[268477111] admin_server_restart 1
+[01.04.24 08:58:33] SUCCESS ADMTKD[268477111] admin_admin
+[01.04.24 08:58:34] SUCCESS ADMTKD[268477111] admin_server admserver.htm
+[01.04.24 08:58:35] SUCCESS ADMTKD[268477111] admin_server_shutdown
+[01.04.24 08:58:38] SUCCESS ADMTKD[268477111] admin_server_restart 1
+[01.04.24 09:01:02] SUCCESS ADMTKD[268477111] admin_admin
+[01.04.24 09:01:04] SUCCESS ADMTKD[268477111] admin_show_moves
+[01.04.24 09:01:05] SUCCESS ADMTKD[268477111] admin_show_html teleports/town.htm
+[01.04.24 09:01:05] SUCCESS ADMTKD[268477111] admin_show_html teleports/town/giran.htm
+[01.04.24 09:01:06] SUCCESS ADMTKD[268477111] admin_move_to 82698 148638 -3473
+[01.04.24 09:03:12] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:03:14] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server admserver.htm
+[01.04.24 09:03:15] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_shutdown
+[01.04.24 09:03:16] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_restart 2
+[01.04.24 09:07:44] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:07:52] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:07:53] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:07:54] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:07:57] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server admserver.htm
+[01.04.24 09:07:58] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_show_html reload.htm
+[01.04.24 09:08:01] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_reload_multisell
+[01.04.24 09:08:04] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_reload_config
+[01.04.24 09:08:39] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:08:40] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server admserver.htm
+[01.04.24 09:08:41] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_shutdown
+[01.04.24 09:08:42] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_restart 1
+[01.04.24 09:12:28] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_admin
+[01.04.24 09:12:30] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server admserver.htm
+[01.04.24 09:12:30] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_shutdown
+[01.04.24 09:12:31] SUCCESS ADMTKD[268477111] -> 40013 Item Mall admin_server_restart 1
+[01.04.24 09:13:49] SUCCESS ADMTKD[268477111] admin_admin
+[01.04.24 09:13:50] SUCCESS ADMTKD[268477111] admin_invis

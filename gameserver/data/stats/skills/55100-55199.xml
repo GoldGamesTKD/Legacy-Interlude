@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<skill id="55100" levels="1" name="Water Dragon Pendant Basic Effect Lv. 1">
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp_blue"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="9" />
+		</for>
+	</skill>
+	<skill id="55101" levels="10" name="Water Dragon Pendant Enchant Effect Lvl 1">
+		<!-- M. Atk. +13 when equipped. -->
+		<table name="#mAtk">13 20 31 46 64 84 107 149 160 202</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="#mAtk"/>
+		</for>
+	</skill>
+	<skill id="55102" levels="1" name="Water Dragon Pendant Basic Effect Lv. 2">
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp_blue"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="9" />
+			<add order="0x40" stat="mCritDamage" val="62"/>
+		</for>
+	</skill>
+	<skill id="55103" levels="10" name="Water Dragon Pendant Enchant Effect Lvl 2">
+		<!-- M. Atk. +13 when equipped. -->
+		<table name="#mAtk">13 20 31 46 64 84 107 149 160 202</table>
+		<table name="#mCritDam">89 134 210 307 429 565 717 992 1065 1344</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="#mAtk"/>
+			<add order="0x40" stat="mCritDamage" val="#mCritDam"/>
+		</for>
+	</skill>
+	<skill id="55104" levels="1" name="Water Dragon Pendant Basic Effect Lv. 3">
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp_blue"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="9" />
+			<mul order="0x30" stat="mCritRate" val="1.01" />
+			<add order="0x30" stat="mCritDamage" val="62"/>
+		</for>
+	</skill>
+	<skill id="55105" levels="10" name="Water Dragon Pendant Enchant Effect Lvl 3">
+		<!-- M. Atk. +13, M. Critical Damage +89, M. Critical Rate +2%. -->
+		<table name="#mAtk">13 20 31 46 64 84 107 149 160 202</table>
+		<table name="#mCritDam">89 134 210 307 429 565 717 992 1065 1344</table>
+		<table name="#mCrtRate">1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.12</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mCritRate" val="#mCrtRate" />
+			<add order="0x40" stat="mCritDamage" val="#mCritDam"/>
+		</for>
+	</skill>
+	<skill id="55106" levels="1" name="Water Dragon Pendant Basic Effect Lv. 4">
+		<!-- M. Atk. +9, M. Critical Damage +62, M. Critical Rate +1%, M. Atk. +1%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp_blue"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="9" />
+			<mul order="0x30" stat="mCritRate" val="1.01" />
+			<add order="0x30" stat="mCritDamage" val="62"/>
+			<mul order="0x30" stat="mAtk" val="1.01" />
+		</for>
+	</skill>
+	<skill id="55107" levels="10" name="Water Dragon Pendant Enchant Effect Lvl 4">
+		<!-- M. Atk. +13, M. Critical Damage +89, M. Critical Rate +2%, M. Atk. +1.5%. -->
+		<table name="#mAtk">13 20 31 46 64 84 107 149 160 202</table>
+		<table name="#mCritDam">89 134 210 307 429 565 717 992 1065 1344</table>
+		<table name="#mCrtRate">1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.12</table>
+		<table name="#mAtkPer">1.015 1.02 1.025 1.03 1.035 1.04 1.05 1.06 1.08 1.10</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mCritRate" val="#mCrtRate" />
+			<add order="0x40" stat="mCritDamage" val="#mCritDam"/>
+			<mul order="0x30" stat="mAtk" val="#mAtkPer" />
+		</for>
+	</skill>
+	<skill id="55108" levels="1" name="Water Dragon Pendant Basic Effect Lv. 4">
+		<!-- M. Atk. +9, M. Critical Damage +62, M. Critical Rate +1%, M. Atk. +1%, M. Critical Damage +1%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp_blue"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="9" />
+			<add order="0x30" stat="mCritDamage" val="62"/>
+			<mul order="0x30" stat="mCritRate" val="1.01" />
+			<mul order="0x30" stat="mAtk" val="1.01" />
+			<mul order="0x30" stat="mCritDamage" val="1.01"/>
+		</for>
+	</skill>
+	<skill id="55109" levels="10" name="Water Dragon Pendant Enchant Effect Lvl 5">
+		<!-- M. Atk. +13, M. Critical Damage +89, M. Critical Rate +2%, M. Atk. +1.5%. -->
+		<table name="#mAtk">13 20 31 46 64 84 107 149 160 202</table>
+		<table name="#mCritDam">89 134 210 307 429 565 717 992 1065 1344</table>
+		<table name="#mCritDamPer">89 134 210 307 429 565 717 992 1065 1344</table>
+		<table name="#mCrtRate">1.02 1.03 1.04 1.05 1.06 1.07 1.08 1.09 1.10 1.12</table>
+		<table name="#mAtkPer">1.015 1.02 1.025 1.03 1.035 1.04 1.05 1.06 1.08 1.10</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mAtk" val="#mAtk"/>
+			<mul order="0x30" stat="mCritRate" val="#mCrtRate" />
+			<add order="0x40" stat="mCritDamage" val="#mCritDam"/>
+			<mul order="0x30" stat="mAtk" val="#mAtkPer" />
+			<mul order="0x30" stat="mCritDamage" val="#mCritDamPer"/>
+		</for>
+	</skill>
+	<skill id="55110" levels="1" name="Wind Dragon Pendant Basic Effect Lv. 1">
+		<!-- MP +21. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="21" />
+		</for>
+	</skill>
+	<skill id="55111" levels="10" name="Wind Dragon Pendant Enchant Effect Lv. 1">
+		<!-- MP +33. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<table name="#maxMp">33 42 52 63 75 96 113 127 139 156</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="#maxMp" />
+		</for>
+	</skill>
+	<skill id="55112" levels="1" name="Wind Dragon Pendant Basic Effect Lv. 2">
+		<!-- MP +21. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="21" />
+			<add order="0x40" stat="maxHp" val="31" />
+		</for>
+	</skill>
+	<skill id="55113" levels="10" name="Wind Dragon Pendant Enchant Effect Lv. 2">
+		<!-- MP +33, HP +50. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<table name="#maxMp">33 42 52 63 75 96 113 127 139 156</table>
+		<table name="#maxHp">50 78 121 153 186 215 243 267 293 316</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="#maxMp" />
+			<add order="0x40" stat="maxHp" val="#maxHp" />
+		</for>
+	</skill>
+	<skill id="55114" levels="1" name="Wind Dragon Pendant Basic Effect Lv. 3">
+		<!-- MP +21, HP +31, HP Recovery Bonus +1.8, MP Recovery Bonus +0.5. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="21" />
+			<add order="0x40" stat="maxHp" val="31" />
+			<add order="0x40" stat="regMp" val="0.5"/>
+			<add order="0x40" stat="regHp" val="1.8"/>
+		</for>
+	</skill>
+	<skill id="55115" levels="10" name="Wind Dragon Pendant Enchant Effect Lv. 2">
+		<!-- MP +33, HP +50, HP Recovery Bonus +1.9, MP Recovery Bonus +0.7. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<table name="#maxMp">33 42 52 63 75 96 113 127 139 156</table>
+		<table name="#maxHp">50 78 121 153 186 215 243 267 293 316</table>
+		<table name="#regHp">1.9 2.1 2.3 3.1 4.2 4.7 4.9 6.2 6.8 7.4</table>
+		<table name="#regMp">0.7 1 1.1 1.3 1.5 1.8 1.9 2.2 2.4 2.8</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="maxMp" val="#maxMp" />
+			<add order="0x40" stat="maxHp" val="#maxHp" />
+			<add order="0x40" stat="regHp" val="#regHp" />
+			<add order="0x40" stat="regMp" val="#regMp" />
+		</for>
+	</skill>
+	<skill id="55116" levels="1" name="Wind Dragon Pendant Basic Effect Lv. 4">
+		<!-- MP +21, HP +31, HP Recovery Bonus +1.8, MP Recovery Bonus +0.5,
+		1% chance to restore 12 MP when using skills. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="55120" level="1" type="SUPPORT_MAGICAL_SKILL_USE" chance="1"/>
+		</triggers>
+		<for>
+			<add order="0x40" stat="maxMp" val="21" />
+			<add order="0x40" stat="maxHp" val="31" />
+			<add order="0x40" stat="regMp" val="0.5"/>
+			<add order="0x40" stat="regHp" val="1.8"/>
+		</for>
+	</skill>
+	<skill id="55117" levels="10" name="Wind Dragon Pendant Enchant Effect Lv. 4">
+		<!-- MP +33, HP +50, HP Recovery Bonus +1.9, MP Recovery Bonus +0.7, 1% chance to restore 12 MP when using skills. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<table name="#maxMp">33 42 52 63 75 96 113 127 139 156</table>
+		<table name="#maxHp">50 78 121 153 186 215 243 267 293 316</table>
+		<table name="#regHp">1.9 2.1 2.3 3.1 4.2 4.7 4.9 6.2 6.8 7.4</table>
+		<table name="#regMp">0.7 1 1.1 1.3 1.5 1.8 1.9 2.2 2.4 2.8</table>
+		<table name="#chance">1 4 6 8 10 12 14 16 20 24</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="55120" level="1" type="SUPPORT_MAGICAL_SKILL_USE" chance="#chance"/>
+		</triggers>
+		<for>
+			<add order="0x40" stat="maxMp" val="#maxMp" />
+			<add order="0x40" stat="maxHp" val="#maxHp" />
+			<add order="0x40" stat="regHp" val="#regHp" />
+			<add order="0x40" stat="regMp" val="#regMp" />
+		</for>
+	</skill>
+	<skill id="55118" levels="1" name="Wind Dragon Pendant Basic Effect Lv. 5">
+		<!-- MP +21, HP +31, HP Recovery Bonus +1.8, MP Recovery Bonus +0.5,
+		1% chance to restore 12 MP when using skills, MP Skill Consumption -3%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="55120" level="1" type="SUPPORT_MAGICAL_SKILL_USE" chance="1"/>
+		</triggers>
+		<for>
+			<add order="0x40" stat="maxMp" val="21" />
+			<add order="0x40" stat="maxHp" val="31" />
+			<add order="0x40" stat="regMp" val="0.5"/>
+			<add order="0x40" stat="regHp" val="1.8"/>
+			<mul order="0x30" stat="mpConsum" val="0.97"/>
+		</for>
+	</skill>
+	<skill id="55119" levels="10" name="Wind Dragon Pendant Enchant Effect Lv. 5">
+		<!-- MP +33, HP +50, HP Recovery Bonus +1.9, MP Recovery Bonus +0.7, 1% chance to restore 12 MP when using skills. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<table name="#maxMp">33 42 52 63 75 96 113 127 139 156</table>
+		<table name="#maxHp">50 78 121 153 186 215 243 267 293 316</table>
+		<table name="#regHp">1.9 2.1 2.3 3.1 4.2 4.7 4.9 6.2 6.8 7.4</table>
+		<table name="#regMp">0.7 1 1.1 1.3 1.5 1.8 1.9 2.2 2.4 2.8</table>
+		<table name="#chance">1 4 6 8 10 12 14 16 20 24</table>
+		<table name="#mpCost">0.95 0.93 0.91 0.89 0.87 0.85 0.83 0.80 0.70 0.60</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="55120" level="1" type="SUPPORT_MAGICAL_SKILL_USE" chance="#chance"/>
+		</triggers>
+		<for>
+			<add order="0x40" stat="maxMp" val="#maxMp" />
+			<add order="0x40" stat="maxHp" val="#maxHp" />
+			<add order="0x40" stat="regHp" val="#regHp" />
+			<add order="0x40" stat="regMp" val="#regMp" />
+			<mul order="0x30" stat="mpConsum" val="#mpCost"/>
+		</for>
+	</skill>
+	<skill id="55120" levels="1" name="Wind Dragon Pendant - MP">
+		<set name="magicType" val="SPECIAL"/>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="power" val="12"/>
+		<set name="magicLevel" val="1"/>
+		<set name="effectPoint" val="100"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="MANAHEAL"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="55121" levels="1" name="Earth Dragon Pendant Basic Effect Lv. 1">
+		<!-- M. Def. +6. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="6" />
+		</for>
+	</skill>
+	<skill id="55122" levels="10" name="Land Dragon Pendant Enchant Effect Lv. 1">
+		<!-- M. Def. +6. -->
+		<table name="#mdef">8 10 12 14 16 18 20 22 25 28</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="#mdef" />
+		</for>
+	</skill>
+	<skill id="55123" levels="1" name="Earth Dragon Pendant Basic Effect Lv. 2">
+		<!-- M. Def. +6, P. Def. +11. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="6" />
+			<add order="0x40" stat="pDef" val="11" />
+		</for>
+	</skill>
+	<skill id="55124" levels="10" name="Land Dragon Pendant Enchant Effect Lv. 2">
+		<!-- M. Def. +8, P. Def. +14. -->
+		<table name="#mdef">8 10 12 14 16 18 20 22 25 28</table>
+		<table name="#pdef">14 18 24 29 35 43 54 61 66 71</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="#mdef" />
+			<add order="0x40" stat="pDef" val="#pdef" />
+		</for>
+	</skill>
+	<skill id="55125" levels="1" name="Earth Dragon Pendant Basic Effect Lv. 3">
+		<!-- M. Def. +6, P. Def. +11, Shield Defense Rate +10%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="6" />
+			<add order="0x40" stat="pDef" val="11" />
+			<mul order="0x40" stat="rShld" val="1.1"/>
+		</for>
+	</skill>
+	<skill id="55126" levels="10" name="Land Dragon Pendant Enchant Effect Lv. 3">
+		<!-- M. Def. +8, P. Def. +14, Shield Defense Rate +15%. -->
+		<table name="#mdef">8 10 12 14 16 18 20 22 25 28</table>
+		<table name="#pdef">14 18 24 29 35 43 54 61 66 71</table>
+		<table name="#rshd">1.15 1.20 1.30 1.40 1.50 1.60 1.70 1.80 1.90 2</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="#mdef" />
+			<add order="0x40" stat="pDef" val="#pdef" />
+			<mul order="0x30" stat="rShld" val="#rshd"/>
+		</for>
+	</skill>
+	<skill id="55127" levels="1" name="Earth Dragon Pendant Basic Effect Lv. 4">
+		<!-- M. Def. +6, P. Def. +11, Shield Defense Rate +10%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="6" />
+			<add order="0x40" stat="pDef" val="11" />
+			<mul order="0x40" stat="rShld" val="1.1"/>
+			<mul order="0x30" stat="sDef" val="1.03" />
+		</for>
+	</skill>
+	<skill id="55128" levels="10" name="Land Dragon Pendant Enchant Effect Lv. 4">
+		<!-- M. Def. +8, P. Def. +14, Shield Defense Rate +15%. -->
+		<table name="#mdef">8 10 12 14 16 18 20 22 25 28</table>
+		<table name="#pdef">14 18 24 29 35 43 54 61 66 71</table>
+		<table name="#rShld">1.15 1.20 1.30 1.40 1.50 1.60 1.70 1.80 1.90 2</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="#mdef" />
+			<add order="0x40" stat="pDef" val="#pdef" />
+			<mul order="0x30" stat="rShld" val="#rShld"/>
+		</for>
+	</skill>
+	<skill id="55129" levels="1" name="Earth Dragon Pendant Basic Effect Lv. 5">
+		<!-- M. Def. +6, P. Def. +11, Shield Defense Rate +10%. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="6" />
+			<add order="0x40" stat="pDef" val="11" />
+			<mul order="0x40" stat="rShld" val="1.1"/>
+			<mul order="0x30" stat="sDef" val="1.03" />
+		</for>
+	</skill>
+	<skill id="55130" levels="10" name="Land Dragon Pendant Enchant Effect Lv. 5">
+		<!-- M. Def. +8, P. Def. +14, Shield Defense Rate +15%, Shield Defense +6%. -->
+		<table name="#mdef">8 10 12 14 16 18 20 22 25 28</table>
+		<table name="#pdef">14 18 24 29 35 43 54 61 66 71</table>
+		<table name="#rShld">1.15 1.20 1.30 1.40 1.50 1.60 1.70 1.80 1.90 2</table>
+		<table name="#sdef">1.06 1.10 1.15 1.20 1.25 1.30 1.35 1.40 1.45 1.50</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="mDef" val="#mdef" />
+			<add order="0x40" stat="pDef" val="#pdef" />
+			<mul order="0x30" stat="rShld" val="#rShld"/>
+			<mul order="0x30" stat="sDef" val="#sdef" />
+		</for>
+	</skill>
+	<skill id="55131" levels="1" name="Earth Dragon Pendant Defensive Effect Lv. 5">
+		<!-- Creates a barrier that absorbs up to 202 damage within 5 sec. Cooldown is 90 sec. -->
+		<set name="magicType" val="MAGIC"/>
+        <set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="reuseDelay" val="90000"/>
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="magicLevel" val="-1"/>
+		<set name="hitTime" val="500"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" abnormal="absorb_shield" stackOrder="1" stackType="dragon_ultimate" time="5" val="0">
+				<add order="0x40" stat="absorbDamageValue" val="202"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="55132" levels="10" name="Earth Dragon Pendant Defensive Effect Lv. 5">
+		<!-- Creates a barrier that absorbs up to 302 damage within 6 sec. Cooldown is 90 sec. -->
+		<table name="#reuseDelay">90000 90000 80000 80000 80000 80000 70000 70000 60000 50000</table>
+		<table name="#damage">302 406 516 782 1059 1348 1649 2045 2457 2883</table>
+		<table name="#effectTime">6 7 8 9 10 11 12 13 14 15</table>
+		<set name="magicType" val="SPECIAL"/>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pvp"/>
+		<set name="magicLevel" val="1"/>
+		<set name="reuseDelay" val="#reuseDelay" />
+		<set name="hitTime" val="500" />
+		<set name="isReuseDelayPermanent" val="true" />
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" abnormal="absorb_shield" stackOrder="1" stackType="dragon_ultimate" time="#effectTime" val="0">
+				<add order="0x40" stat="absorbDamageValue" val="#damage"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="55133" levels="6" name="Pendant Enchant Effect">
+		<table name="#expsp">1.05 1.10 1.15 1.2 1.3 1.4</table>
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve"/>
+		<set name="magicLevel" val="61"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<mul order="0x30" stat="ExpMultiplier" val="#expsp"/>
+			<mul order="0x30" stat="SpMultiplier" val="#expsp"/>
+		</for>
+	</skill>
+</list>

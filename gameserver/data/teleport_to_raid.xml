@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE list SYSTEM "teleport_to_raid.dtd">
+<list>
+    <!--
+    [RU] Инструкция
+    <boss id="ид босса" name_en="Имя боса для английского языка" name_ru="Имя боса для русского языка" enable="включить для этого босса/отключить для этого босса">
+        <window show="выводить/не выводить запрос на телепортацию" lvl_min="мин уровень для вывода" lvl_max="макс уровень для вывода" time="сколько времени дается на принятие(в миллисекундах)"
+                text_ru="Текст который выводим при запросе для русского языка"
+                text_en="Текст который выводим при запросе для английского языка"/>
+        <announce delay="За сколько секунд до появления рб выводить первый анонс(если 0, то только когда появиться)" show="Выводить ли вообще" lvl_min="Мин уровень" lvl_max="Макс уровень">
+            <before text_ru="Текст который выводим при первом анонсе для русского языка"
+                    text_en="Текст который выводим при первом анонсе для английского языка"/>
+            <after text_ru="Текст анонса который выводим при появлении рб для русского языка"
+                   text_en="Текст анонса который выводим при появлении рб для английского языка"/>
+        </announce>
+        <teleport loc="точки, на которые отправляем, имеют формат x y z и между ними разделитель ; который разделяет несколько точек телепортации, если нужно больше одной"/>
+    </boss>
+    ________________________________________________________________________________________________________________________________________________________________________________________________
+    [EN] Guide
+    <boss id="boss ID" name_en="Boss name in English" name_ru="Boss name in Russian" enable="enable/disable for this boss">
+        <window show="show/hide teleport request" lvl_min="minimum level to show" lvl_max="maximum level to show" time="time given for acceptance (in milliseconds)"
+                text_ru="Text displayed on teleport request for Russian language"
+                text_en="Text displayed on teleport request for English language"/>
+        <announce delay="time before first announcement (in seconds) (if 0, then only when boss appears)" show="to show or not to show" lvl_min="minimum level" lvl_max="maximum level">
+            <before text_ru="Text for first announcement in Russian language"
+                    text_en="Text for first announcement in English language"/>
+            <after text_ru="Text for announcement when boss appears in Russian language"
+                   text_en="Text for announcement when boss appears in English language"/>
+        </announce>
+        <teleport loc="points to teleport in format x y z with separator ; to separate multiple teleport points if needed"/>
+    </boss>
+    -->
+    <boss id="25325" name_en="Flame of Splendor Barakiel" name_ru="Flame of Splendor Barakiel" enable="true">
+        <window show="true" lvl_min="70" lvl_max="80" time="15000" text_ru="Отправиться к Боссу %name_ru%?" text_en="Teleport to the Boss %name_en%?"/>
+        <announce delay="120" show="true" lvl_min="70" lvl_max="80">
+            <before text_ru="%name_ru% Появиться через 2 минуты" text_en="%name_en% Appear in 2 minutes"/>
+            <after text_ru="%name_ru% появился в мире" text_en="%name_en% appeared in the world"/>
+        </announce>
+        <teleport loc="91112 -86024 -2740;91176 -86112 -2740;91016 -85879 -2740"/>
+    </boss>
+</list>

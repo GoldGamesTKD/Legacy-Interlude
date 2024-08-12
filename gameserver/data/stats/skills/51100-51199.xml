@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+	<skill id="51178" levels="1" name="Dance of the Warrior">
+		<set name="magicType" val="MUSIC"/>
+		<set name="icon" val="icon.skill0271"/>
+		<set name="reuseDelay" val="10000"/>
+		<set name="magicLevel" val="55"/>
+		<set name="itemConsumeId" val="70110"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="isHandler" val="true"/>
+		<set name="altUse" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackType="dance_warrior" stackOrder="1" time="600" val="0">
+				<mul order="0x30" stat="pAtk" val="1.12"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="51126" levels="1" name="Mid-grade Spirit's Blessing">
+		<!-- For 20 min., Acquired attribute XP +30%. -->
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.elemental_bless_scrl_i00"/>
+		<set name="magicLevel" val="1"/>
+		<set name="hitTime" val="500"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="itemConsumeId" val="91185"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="isHandler" val="true"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="altUse" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="event_buff" time="1200" val="0">
+				<mul order="0x30" stat="ExpMultiplier" val="1.30"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="51127" levels="1" name="Mid-grade Spirit's Blessing">
+		<!-- For 20 min., Acquired attribute XP +50%. -->
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.elemental_bless_scrl_i00"/>
+		<set name="magicLevel" val="1"/>
+		<set name="hitTime" val="500"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="itemConsumeId" val="91186"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="isHandler" val="true"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="altUse" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="event_buff" time="1200" val="0">
+				<mul order="0x30" stat="ExpMultiplier" val="1.50"/>
+			</effect>
+		</for>
+	</skill>
+</list>

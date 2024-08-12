@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- A-Grade Weapons -->
+
+<list>
+  
+  <!-- Sirra's Blade [Haste] -->
+  <item id="4">
+    <ingredient id="57" count="25000000"/>
+    <production id="8788" count="1"/>
+  </item>
+  
+  <!-- Sirra's Blade [Health] -->
+  <item id="5">
+    <ingredient id="57" count="25000000"/>
+    <production id="8789" count="1"/>
+  </item>
+  
+  <!-- Sirra's Blade [Critical Poison] -->
+  <item id="6">
+    <ingredient id="57" count="25000000"/>
+    <production id="8790" count="1"/>
+  </item>
+
+    <!-- Sword of Ipus [Focus] -->
+  <item id="59">
+    <ingredient id="57" count="25000000"/>
+    <production id="8791" count="1"/>
+  </item>
+
+    <!-- Sword of Ipus [Haste] -->
+  <item id="60">
+    <ingredient id="57" count="25000000"/>
+    <production id="8792" count="1"/>
+  </item>
+ 
+   <!-- Sword of Ipus [Health] -->
+  <item id="61">
+    <ingredient id="57" count="25000000"/>
+    <production id="8793" count="1"/>
+  </item>
+
+    <!-- Naga Storm [Focus] -->
+  <item id="68">
+    <ingredient id="57" count="25000000"/>
+    <production id="8800" count="1"/>
+  </item>
+    <!-- Naga Storm [Critical Damage] -->
+  <item id="69">
+    <ingredient id="57" count="25000000"/>
+    <production id="8801" count="1"/>
+  </item>
+  
+  <!-- Naga Storm [Back Blow] -->
+  <item id="70">
+    <ingredient id="57" count="25000000"/>
+    <production id="8802" count="1"/>
+  </item>
+
+    <!-- Shyeed's Bow [Cheap Shot] -->
+  <item id="74">
+    <ingredient id="57" count="25000000"/>
+    <production id="8806" count="1"/>
+  </item>
+    <!-- Shyeed's Bow [Focus] -->
+  <item id="75">
+    <ingredient id="57" count="25000000"/>
+    <production id="8807" count="1"/>
+  </item>
+    <!-- Shyeed's Bow [Quick Recovery] -->
+  <item id="76">
+    <ingredient id="57" count="25000000"/>
+    <production id="8808" count="1"/>
+  </item>
+  
+    <!-- Barakiel's Axe [Health] -->
+  <item id="62">
+    <ingredient id="57" count="25000000"/>
+    <production id="8794" count="1"/>
+  </item>
+  
+    <!-- Barakiel's Axe [Haste] -->
+  <item id="63">
+    <ingredient id="57" count="25000000"/>
+    <production id="8795" count="1"/>
+  </item>
+  
+    <!-- Barakiel's Axe [Focus] -->
+  <item id="64">
+    <ingredient id="57" count="25000000"/>
+    <production id="8796" count="1"/>
+  </item>
+  
+      <!-- Cabrio's Hand [Conversion] -->
+  <item id="83">
+    <ingredient id="57" count="25000000"/>
+    <production id="8815" count="1"/>
+  </item>
+  
+    <!-- Cabrio's Hand [Mana Up] -->
+  <item id="84">
+    <ingredient id="57" count="25000000"/>
+    <production id="8816" count="1"/>
+  </item>
+
+    <!-- Cabrio's Hand [Magic Silence] -->
+  <item id="85">
+    <ingredient id="57" count="25000000"/>
+    <production id="8817" count="1"/>
+  </item>
+
+  <!-- Sword of Miracles [Acumen] -->
+  <item id="13">
+    <ingredient id="57" count="25000000"/>
+    <production id="5641" count="1"/>
+  </item>
+
+  <!-- Sword of Miracles [Magic Power] -->
+  <item id="14">
+    <ingredient id="57" count="25000000"/>
+    <production id="5642" count="1"/>
+  </item>
+
+  <!-- Sword of Miracles [Magic Silence] -->
+  <item id="15">
+    <ingredient id="57" count="25000000"/>
+    <production id="5643" count="1"/>
+  </item>
+  
+    <!-- Daimon Crystal [Mana Up] -->
+  <item id="86">
+    <ingredient id="57" count="25000000"/>
+    <production id="8818" count="1"/>
+  </item>
+
+    <!-- Daimon Crystal [Acumen] -->
+  <item id="87">
+    <ingredient id="57" count="25000000"/>
+    <production id="8819" count="1"/>
+  </item>
+
+      <!-- Daimon Crystal [Mental Shield] -->
+  <item id="88">
+    <ingredient id="57" count="25000000"/>
+    <production id="8820" count="1"/>
+  </item>
+
+    <!-- Tiphon's Spear [Critical Stun] -->
+  <item id="71">
+    <ingredient id="57" count="25000000"/>
+    <production id="8803" count="1"/>
+  </item>
+  
+    <!-- Tiphon's Spear [Towering Blow] -->
+  <item id="72">
+    <ingredient id="57" count="25000000"/>
+    <production id="8804" count="1"/>
+  </item>
+  
+    <!-- Tiphon's Spear [Wild Blow] -->
+  <item id="73">
+    <ingredient id="57" count="25000000"/>
+    <production id="8805" count="1"/>
+  </item>
+
+    <!-- Sobekk's Hurricane [Rsk. Haste] -->
+  <item id="77">
+    <ingredient id="57" count="25000000"/>
+    <production id="8809" count="1"/>
+  </item>
+  
+    <!-- Sobekk's Hurricane [Haste] -->
+  <item id="78">
+    <ingredient id="57" count="25000000"/>
+    <production id="8810" count="1"/>
+  </item>
+  
+    <!-- Sobekk's Hurricane [Critical Drain] -->
+  <item id="79">
+    <ingredient id="57" count="25000000"/>
+    <production id="8811" count="1"/>
+  </item>
+
+    <!-- Damascus * Tallum Blade -->
+  <item id="79">
+    <ingredient id="57" count="25000000"/>
+    <production id="8938" count="1"/>
+  </item>
+
+</list>

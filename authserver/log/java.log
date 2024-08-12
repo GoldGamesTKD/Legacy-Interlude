@@ -1,0 +1,18 @@
+[09.08.24 23:52:26] Loaded 127 server names
+[09.08.24 23:52:27] DatabaseFactory: Database connection tested and working.
+[09.08.24 23:52:27] DBMS: MySQL Community Server - GPL 8.3.0 on Win64 x86_64
+[09.08.24 23:52:27] Charset: utf8mb4 utf8mb4_0900_ai_ci
+[09.08.24 23:52:27] Drop 'lip_AccountUpdate' ...
+[09.08.24 23:52:27] Creating 'lip_AccountUpdate' ...
+[09.08.24 23:52:27] Loaded whirlpool2 as default crypt.
+[09.08.24 23:52:27] Cached 10 KeyPairs for RSA communication
+[09.08.24 23:52:27] Stored 20 keys for Blowfish communication
+[09.08.24 23:52:27] Loaded 0 registered GameServer(s).
+[09.08.24 23:52:27] Loaded 0 proxy server(s).
+[09.08.24 23:52:28] Listening for gameservers on 127.0.0.1:9014
+[09.08.24 23:52:28] Listening for clients on *:2106
+[09.08.24 23:52:47] Trying to register gameserver: 1 [127.0.0.1]
+[09.08.24 23:52:47] Gameserver registration successful.
+[11.08.24 08:35:38] Gameserver I/O error: Connection reset
+[11.08.24 08:35:38] Connection with gameserver 1 [Bartz] lost.
+[11.08.24 08:35:38] Setting gameserver down. All proxies will be down as well.

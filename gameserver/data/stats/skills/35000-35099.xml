@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="35011" levels="1" name="Refined Romantic Chapeau: Teleport">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="reuseDelay" val="7200000"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="200"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="RECALL"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="35017" levels="7" name="Talisman of Insolence I">
+        <table name="#patk">14 27 41 68 81 95 135</table>
+        <table name="#matk">22 44 66 109 131 153 218</table>
+        <table name="#mdef">1 1.02 1.04 1.06 1.07 1.08 1.10</table>
+        <table name="#SkilPower">1 1 1.01 1.02 1.02 1.03 1.05</table>
+        <table name="#vuln">1 1 1.01 1.02 1.02 1.03 1.05</table>
+        <table name="#stats">0 0 0 1 1 1 1</table>
+        <table name="#mCrit">1 1 1 1 1 1.10 1.20</table>
+        <table name="#cAtk">1 1 1 1 1 1.10 1.20</table>
+        <table name="#mpCost">1 1 1 1 1 0.98 0.96 0.95</table>
+        <table name="#reuse">1 1 1 1 1 1 0.97</table>
+        <set name="icon" val="icon.tallisman_oman_i02"/>
+        <set name="magicLevel" val="80"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="pAtk" val="#patk" />
+            <add order="0x40" stat="mAtk" val="#matk" />
+            <mul order="0x30" stat="mDef" val="#mdef"/>
+            <mul order="0x30" stat="skillPower" val="#SkilPower"/>
+            <mul order="0x30" stat="bluntWpnVuln" val="#vuln"/>
+            <mul order="0x30" stat="swordWpnVuln" val="#vuln"/>
+            <mul order="0x30" stat="dualWpnVuln" val="#vuln"/>
+            <mul order="0x30" stat="bowWpnVuln" val="#vuln"/>
+            <mul order="0x30" stat="daggerWpnVuln" val="#vuln"/>
+            <add order="0x40" stat="CON" val="#stats" />
+            <add order="0x40" stat="MEN" val="#stats" />
+            <add order="0x40" stat="STR" val="#stats" />
+            <add order="0x40" stat="INT" val="#stats" />
+            <add order="0x40" stat="DEX" val="#stats" />
+            <add order="0x40" stat="WIT" val="#stats" />
+            <mul order="0x30" stat="cAtk" val="#cAtk"/>
+            <mul order="0x30" stat="mCritRate" val="#mCrit"/>
+            <mul order="0x30" stat="pReuse" val="#reuse"/>
+            <mul order="0x30" stat="mReuse" val="#reuse"/>
+            <mul order="0x30" stat="mpConsum" val="#mpCost"/>
+            <mul order="0x30" stat="mpConsumePhysical" val="#mpCost"/>
+        </for>
+    </skill>
+    <skill id="35023" levels="1" name="Chic Silver Chapeau Teleport">
+        <set name="magicType" val="SPECIAL"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <set name="reuseDelay" val="7200000"/>
+        <set name="icon" val="icon.skill0000"/>
+        <set name="magicLevel" val="1"/>
+        <set name="hitTime" val="200"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="RECALL"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <cond msgId="1509">
+            <not>
+                <player olympiad="true" />
+            </not>
+        </cond>
+    </skill>
+    <skill id="35036" levels="1" name="Warrior's Talisman - Attack" >
+        <!-- Damage dealt in PvE +3%, M./ P. Critical Damage +20, M./ P. Skill Power +2%, M./ P. Accuracy +1. -->
+        <set name="icon" val="icon.r90_sp_talisman_dr_mp_active" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <mul order="0x30" stat="pAtk" val="1.03">
+                <target mob="true"/>
+            </mul>
+            <mul order="0x30" stat="mAtk" val="1.03">
+                <target mob="true"/>
+            </mul>
+            <add order="0x40" stat="cAtkStatic" val="20"/>
+            <mul order="0x30" stat="mCritDamage" val="1.02"/>
+            <mul order="0x30" stat="skillPower" val="1.02"/>
+            <add order="0x40" stat="rEvas" val="1"/>
+        </for>
+    </skill>
+    <skill id="35040" levels="1" name="Belt" >
+        <!-- Inventory Slots +2/ Weight Limit +1,000. Use a Magic Rune Clip to upgrade it to Rag Belt. -->
+        <set name="icon" val="icon.skill3238" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="maxLoad" val="1000" />
+            <add order="0x40" stat="inventoryLimit" val="2" />
+        </for>
+    </skill>
+    <skill id="35041" levels="1" name="Rag Belt" >
+        <!-- Inventory Slots +2/ Weight Limit +2,000/ HP Recovery +1.24/ MP Recovery +0.83/ CP Recovery +1.66 -->
+        <set name="icon" val="icon.skill3238" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="maxLoad" val="2000" />
+            <add order="0x40" stat="inventoryLimit" val="2" />
+            <add order="0x40" stat="regHp" val="1.24" />
+            <add order="0x40" stat="regMp" val="0.83" />
+            <mul order="0x30" stat="regCp" val="1.66"/>
+        </for>
+    </skill>
+    <skill id="35042" levels="1" name="Leather Belt" >
+        <!-- Inventory Slots +3/ Weight Limit +3,000/ HP Recovery +1.47/ MP Recovery +0.98/ CP Recovery +1.96/ Max. HP/ MP/ CP +100. -->
+        <set name="icon" val="icon.skill3238" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="maxLoad" val="3000" />
+            <add order="0x40" stat="inventoryLimit" val="3" />
+            <add order="0x40" stat="regHp" val="1.47" />
+            <add order="0x40" stat="regMp" val="0.98" />
+            <mul order="0x30" stat="regCp" val="1.96"/>
+            <add order="0x40" stat="maxHp" val="100"/>
+            <add order="0x40" stat="maxMp" val="100"/>
+            <add order="0x40" stat="maxCp" val="100"/>
+        </for>
+    </skill>
+    <skill id="35043" levels="1" name="Iron Belt" >
+        <!-- Inventory Slots +4/ Weight Limit +4,000/ HP Recovery +1.70/ MP Recovery +1.13/ CP Recovery +2.26/ Max. HP/ MP/ CP +150 -->
+        <set name="icon" val="icon.skill3238" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="maxLoad" val="4000" />
+            <add order="0x40" stat="inventoryLimit" val="4" />
+            <add order="0x40" stat="regHp" val="1.70" />
+            <add order="0x40" stat="regMp" val="1.13" />
+            <mul order="0x30" stat="regCp" val="2.26"/>
+            <add order="0x40" stat="maxHp" val="150"/>
+            <add order="0x40" stat="maxMp" val="150"/>
+            <add order="0x40" stat="maxCp" val="150"/>
+        </for>
+    </skill>
+    <skill id="35044" levels="1" name="Mithril Belt" >
+        <!-- Inventory Slots +5/ Weight Limit +5,000/ HP Recovery +1.92/ MP Recovery +1.28/ CP Recovery +2.56/ Max. HP/ MP/ CP +200 -->
+        <set name="icon" val="icon.skill3238" />
+        <set name="magicLevel" val="1" />
+        <set name="target" val="TARGET_SELF" />
+        <set name="skillType" val="BUFF" />
+        <set name="operateType" val="OP_PASSIVE" />
+        <for>
+            <add order="0x40" stat="maxLoad" val="5000" />
+            <add order="0x40" stat="inventoryLimit" val="5" />
+            <add order="0x40" stat="regHp" val="1.92" />
+            <add order="0x40" stat="regMp" val="1.28" />
+            <mul order="0x30" stat="regCp" val="2.56"/>
+            <add order="0x40" stat="maxHp" val="200"/>
+            <add order="0x40" stat="maxMp" val="200"/>
+            <add order="0x40" stat="maxCp" val="200"/>
+        </for>
+    </skill>
+</list>

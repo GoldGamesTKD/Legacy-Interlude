@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!--
+	category
+			// 11 - supplies
+			// 12 - equipment
+			// 13 - vip
+			// 14 - event
+			// 15 - reward coin
+	Base Parameters:
+	<product id="0" name="" category="5" price="0" is_best="false" is_new="false" on_sale="false" sale_start_date="1980/01/01 08:00" sale_end_date="2037/06/01 08:00">
+	Category 15 Parameters:
+	<product id="100201" name="" category="15" price_gold_coins="1000" price_silver_coins="1000" is_best="true" on_sale="true" sale_start_date="1980.01.01 08:00" sale_end_date="2037.06.01 08:00">
+	-->
+	<product id="100201" name="1st Class Transfer Effect Scroll" category="11" price="1000" is_best="true" on_sale="true" sale_start_date="1980.01.01 08:00" sale_end_date="2037.06.01 08:00">
+		<component item_id="29654" count="1" />
+	</product>
+	<product id="100202" name="2nd Class Transfer Effect Scroll" category="11" price="1000" is_best="true" on_sale="true" sale_start_date="1980.01.01 08:00" sale_end_date="2037.06.01 08:00">
+		<component item_id="29655" count="1"/>
+	</product>
+	<product id="100301" name="Scroll: Enchant Weapon (D-grade)" category="11" price="200" is_new="true" on_sale="true" sale_start_date="1980.01.01 08:00" sale_end_date="2037.06.01 08:00">
+		<component item_id="955" count="1"/>
+	</product>
+	<product id="100302" name="Scroll: Enchant Armor (D-grade)" category="11" price="200" is_new="true" on_sale="true" sale_start_date="1980.01.01 08:00" sale_end_date="2037.06.01 08:00">
+		<component item_id="956" count="1"/>
+	</product>
+</list>
+
+<!--
+Description:
+product_name_begin	id=100001	outer_name=[Daily Present - VIP1]	description=[VIP 1 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100002	outer_name=[Daily Present - VIP2]	description=[VIP 2 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i01]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100003	outer_name=[Daily Present - VIP3]	description=[VIP 3 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i02]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100004	outer_name=[Daily Present - VIP4]	description=[VIP 4 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i03]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100005	outer_name=[Daily Present - VIP5]	description=[VIP 5 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i04]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100006	outer_name=[Daily Present - VIP6]	description=[VIP 6 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i05]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100007	outer_name=[Daily Present - VIP7]	description=[VIP 7 Gift Box\n1per 1 day]	icon=[BranchIcon.Icon.etc_vip_present_i06]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100101	outer_name=[EXP/SP Scroll (30%)]	description=[Increases XP/SP gain by 30%]	icon=[icon.etc_recall_exp_scroll]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100102	outer_name=[EXP/SP Scroll(40%)]	description=[Increases XP/SP gain by 40%\nVIP 4]	icon=[icon.etc_recall_exp_scroll]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100201	outer_name=[1st Class Transfer Effect Scroll]	description=[1st Class Transfer Effect Scroll\n1-day 10pcs]	icon=[BranchIcon.Icon.etc_g_bm_buff_scroll_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100202	outer_name=[2nd Class Transfer Effect Scroll]	description=[1nd Class Transfer Effect Scroll\nVIP4/1-day 5pcs]	icon=[BranchIcon.Icon.etc_g_bm_buff_scroll_i01]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100301	outer_name=[Scroll: Enchant Weapon (D-grade)]	description=[Scroll: Enchant Weapon (D-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_wp_d_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100302	outer_name=[Scroll: Enchant Armor (D-grade)]	description=[Scroll: Enchant Armor (D-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_am_d_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100303	outer_name=[Blessed Scroll: Enchant Weapon (D-grade)]	description=[Blessed Scroll: Enchant Weapon (D-grade)\n9/24~10/21]	icon=[icon.etc_blessed_scrl_of_ench_wp_d_i01]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100304	outer_name=[Blessed Scroll: Enchant Armor (D-grade)]	description=[Blessed Scroll: Enchant Armor (D-grade)\n9/24~10/21]	icon=[icon.etc_blessed_scrl_of_ench_am_d_i01]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100305	outer_name=[Scroll: Enchant Weapon (C-grade)]	description=[Scroll: Enchant Weapon (C-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_wp_c_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100306	outer_name=[Scroll: Enchant Armor (C-grade)]	description=[Scroll: Enchant Armor (C-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_am_c_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100313	outer_name=[Blessed Scroll: Enchant Weapon (C-grade)]	description=[Blessed Scroll: Enchant Weapon (C-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_wp_c_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100314	outer_name=[Blessed Scroll: Enchant Armor (C-grade)]	description=[Blessed Scroll: Enchant Armor (C-grade)\n9/24~10/21]	icon=[br_cashtex.item.br_cash_scrl_of_ench_am_c_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100401	outer_name=[Package: Mysterious Soulshot (No-grade, 100 pcs.)]	description=[No-Grade Mysterious Soulshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_soulshot_a_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100402	outer_name=[Package: Mysterious Blessed Spiritshot (No-grade, 100 pcs.)]	description=[No-Grade Mysterious Blessed Spiritshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_spiritshot_a_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100403	outer_name=[Package: Mysterious Soulshot (D-grade, 100 pcs.)]	description=[D-Grade Mysterious Soulshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_soulshot_d_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100404	outer_name=[Package: Mysterious Blessed Spiritshot (D-grade, 100 pcs.)]	description=[D-Grade Mysterious Blessed Spiritshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_spiritshot_d_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100405	outer_name=[Package: Mysterious Soulshot (C-grade, 100 pcs.)]	description=[C-Grade Mysterious Soulshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_soulshot_c_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100406	outer_name=[Package: Mysterious Blessed Spiritshot (C-grade, 100 pcs.)]	description=[C-Grade Mysterious Blessed Spiritshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_spiritshot_c_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100407	outer_name=[Package: Mysterious Soulshot (B-grade, 100 pcs.)]	description=[B-Grade Mysterious Soulshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_pack_of_soulshot_b_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100408	outer_name=[Package: Mysterious Blessed Spiritshot (B-grade, 100 pcs)]	description=[B-Grade Mysterious Blessed Spiritshot bundle, 100 pcs.(Weight: 0)]	icon=[br_cashtex.item.br_cash_large_pack_of_blessed_spiritshot_b_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100501	outer_name=[Sniper's Mysterious Package (No-grade)]	description=[Bundle of sniper consumables (below 20 lvl)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100502	outer_name=[Mystic's Mysterious Package (No-grade)]	description=[Bundle of magic consumables (below 20 lvl)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100503	outer_name=[Sniper's Mysterious Package (D-grade)]	description=[Bundle of sniper consumables (lvl 20~40)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100504	outer_name=[Mystic's Mysterious Package (D-grade)]	description=[Bundle of magic consumables (lvl 20~40)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100505	outer_name=[Sniper's Mysterious Package (C-grade)]	description=[Bundle of sniper consumables (lvl 40 and higher)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100506	outer_name=[Mystic's Mysterious Package (CNo-grade)]	description=[Bundle of magic consumables (lvl 40 and higher)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100507	outer_name=[Sniper's Mysterious Package (B-grade)]	description=[Bundle of sniper consumables (lvl 52 and higher)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100508	outer_name=[Mystic's Mysterious Package (B-grade)]	description=[Bundle of magic consumables (lvl 52 and higher)]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=100601	outer_name=[Quick Healing Potion]	description=[Magic potion that instantly restores HP.]	icon=[icon.etc_potion_gold_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100602	outer_name=[Major Quick Healing Potion]	description=[Magic potion that instantly restores great amount of HP.\nVIP 4]	icon=[icon.etc_potion_gold_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100701	outer_name=[Refined Romantic Chapeau: Red]	description=[Nice Red Romantic Chapeau.\nVIP 1 (4/1~4/30)]	icon=[icon.bm_romantic_chaperon_red]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100702	outer_name=[Refined Angel Ring]	description=[Refined Angel Ring\nVIP 4 (5/13~6/10)]	icon=[icon.accessory_angel_ring_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100703	outer_name=[Refined Wizard Hat]	description=[Refined Wizard Hat\nVIP 4 (9/24~11/25)]	icon=[icon.accessory_magician_cap2_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100704	outer_name=[Laborer Hat]	description=[Laborer Hat\nVIP 4 (9/24~11/25)]	icon=[BranchSys.icon.br_people_cap_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100705	outer_name=[Top Hat]	description=[Top Hat\nVIP 4 (9/24~11/25)]	icon=[icon.accessory_magicial_cap_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100706	outer_name=[Vigilante Hat]	description=[Vigilante Hat\nVIP 4 (9/24~11/25)]	icon=[icon.accessory_archer_hat_i00]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=100801	outer_name=[Feather of Blessing]	description=[Allows to resurrect right in the place of death.]	icon=[icon.blessed_feather_i00]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100802	outer_name=[Blessed Scroll of Escape]	description=[Escape!]	icon=[icon.etc_scroll_of_return_i01]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100803	outer_name=[Blessed Scroll of Resurrection]	description=[Resurrects a dead character and restores his or her XP completely.]	icon=[icon.etc_scroll_of_resurrection_i01]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100901	outer_name=[Teleport: Talking Island Village]	description=[Teleports to Talking Island Village.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100902	outer_name=[Teleport: Elven Village]	description=[Teleports to Elven Village.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100903	outer_name=[Teleport: Dark Elf Village]	description=[Teleports to Dark Elf Village.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100904	outer_name=[Teleport: Orc Village]	description=[Teleports to Orc Village.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100905	outer_name=[Teleport: Dwarven Village]	description=[Teleports to Dwarven Village.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100906	outer_name=[Teleport: Gludin]	description=[Teleports to Gludin.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=100907	outer_name=[Teleport: Gludio]	description=[Teleports to Gludio.]	icon=[icon.etc_scroll_of_return_i04]	icon_panel=[icon.pannel_cursed]	mainsubject=[]	product_name_end
+product_name_begin	id=101001	outer_name=[Novice's Package - Lvl 1]	description=[Gift paid each particular level.\nper 1 month]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101002	outer_name=[Ring of Chronicle Heir Part]	description=[Material used to enchant Ring of Heir.\nVIP 1/per 1 account]	icon=[icon.event_classic_ring]	icon_panel=[icon.panel_2]	mainsubject=[]	product_name_end
+product_name_begin	id=101005	outer_name=[Traveler's Package - Lvl 1]	description=[Gift paid each particular level.\nper 1 month]	icon=[icon.etc_pi_gift_box_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101006	outer_name=[Package: Special Pirate Fruit]	description=[10 Special Pirate Fruits and 1 King Pirate's Treasure Chest\n6/24~7/8]	icon=[icon.etc_codran_i09]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101007	outer_name=[Package: Special Pirate Fruit]	description=[100 Special Pirate Fruits and 10 King Pirate's Treasure Chests\n6/24~7/8]	icon=[icon.etc_codran_i09]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101008	outer_name=[Shaft with Antharas treasures]	description=[1 Shaft with Antharas treasure\n9/24~10/28]	icon=[BranchIcon.Icon.g_bm_antaras_pocket_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101009	outer_name=[Shaft with Antharas treasures]	description=[20 Shafts with Antharas treasure\n9/24~10/28]	icon=[BranchIcon.Icon.g_bm_antaras_pocket_i00]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101010	outer_name=[Golden Mermaid's Fishing Supplies Chest]	description=[1 Golden Mermaid's Fishing Supplies Chest\n11/18~12/8]	icon=[icon.etc_treasure_box_i08]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+product_name_begin	id=101011	outer_name=[Golden Mermaid's Fishing Supplies Chest]	description=[10 Golden Mermaid's Fishing Supplies Chests\n11/18~12/9]	icon=[icon.etc_treasure_box_i08]	icon_panel=[icon.pannel_blessed]	mainsubject=[]	product_name_end
+-->

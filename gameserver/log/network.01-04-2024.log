@@ -1,0 +1,15 @@
+[01.04.24 07:48:19] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[01.04.24 07:48:32] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestBypassToServer
+[01.04.24 08:11:07] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestPledgeWaitingApplied
+[01.04.24 09:23:04] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[01.04.24 10:56:44] RateLimit: Player ElfArcher/elfarcher[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestPledgeWaitingApplied
+[01.04.24 17:36:48] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkillInfo
+[01.04.24 17:36:53] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[01.04.24 17:36:59] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[01.04.24 17:37:04] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkillInfo
+[01.04.24 17:37:10] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[01.04.24 17:37:15] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkill
+[01.04.24 17:37:20] RateLimit: Player DominatoR/dominator[127.0.0.1/4ae71336e44bf9bf79d2752e234818a5] limit RequestAquireSkillInfo
+[01.04.24 19:24:54] Incorrect packet size : 58818! Client : CONNECTED IP: 118.193.64.186. Closing connection.
+[01.04.24 19:25:25] Incorrect packet size : 0! Client : CONNECTED IP: 118.193.64.186. Closing connection.
+[01.04.24 23:00:05] Incorrect packet size : 34092! Client : CONNECTED IP: 80.82.70.133. Closing connection.

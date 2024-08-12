@@ -1,0 +1,1 @@
+ALTER TABLE `accounts_bonuses` ADD COLUMN `questRewardAdenaRate` DOUBLE NOT NULL DEFAULT '1' AFTER `questDropRate`;

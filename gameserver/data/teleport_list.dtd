@@ -1,0 +1,11 @@
+<!ELEMENT list (teleport)*>
+<!ELEMENT teleport (#PCDATA)>
+<!ATTLIST teleport
+        id CDATA #REQUIRED
+        item_id CDATA #IMPLIED
+        price CDATA #REQUIRED
+        castle_id CDATA #IMPLIED
+        is_premium CDATA #IMPLIED
+        x CDATA #REQUIRED
+        y CDATA #REQUIRED
+        z CDATA #REQUIRED>

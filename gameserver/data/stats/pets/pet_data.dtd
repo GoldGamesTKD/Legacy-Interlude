@@ -1,0 +1,16 @@
+<!ELEMENT list (pet)*>
+<!ELEMENT pet (set|skills)*>
+<!ATTLIST pet
+        id CDATA #REQUIRED
+        max_lvl CDATA #REQUIRED>
+<!ELEMENT set (#PCDATA)>
+<!ATTLIST set
+        name CDATA #REQUIRED
+        value CDATA #REQUIRED>
+<!ELEMENT skills (skill)*>
+<!ELEMENT skill (#PCDATA)>
+<!ATTLIST skill
+        action_id CDATA #REQUIRED
+        id CDATA #REQUIRED
+        level CDATA #REQUIRED
+        min_lvl CDATA #REQUIRED>

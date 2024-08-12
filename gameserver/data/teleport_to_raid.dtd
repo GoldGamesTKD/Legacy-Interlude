@@ -1,0 +1,32 @@
+ <!ELEMENT list (boss)*>
+ <!ELEMENT boss (window|announce|teleport)*>
+ <!ATTLIST boss
+         enable CDATA #REQUIRED
+         id CDATA #REQUIRED
+         name_en CDATA #REQUIRED
+         name_ru CDATA #REQUIRED>
+ <!ELEMENT window (#PCDATA)>
+ <!ATTLIST window
+         lvl_max CDATA #REQUIRED
+         lvl_min CDATA #REQUIRED
+         show CDATA #REQUIRED
+         text_en CDATA #REQUIRED
+         text_ru CDATA #REQUIRED
+         time CDATA #REQUIRED>
+ <!ELEMENT announce (before|after)*>
+ <!ATTLIST announce
+         delay CDATA #REQUIRED
+         lvl_max CDATA #REQUIRED
+         lvl_min CDATA #REQUIRED
+         show CDATA #REQUIRED>
+ <!ELEMENT before (#PCDATA)>
+ <!ATTLIST before
+         text_en CDATA #REQUIRED
+         text_ru CDATA #REQUIRED>
+ <!ELEMENT after (#PCDATA)>
+ <!ATTLIST after
+         text_en CDATA #REQUIRED
+         text_ru CDATA #REQUIRED>
+ <!ELEMENT teleport (#PCDATA)>
+ <!ATTLIST teleport
+         loc CDATA #REQUIRED>

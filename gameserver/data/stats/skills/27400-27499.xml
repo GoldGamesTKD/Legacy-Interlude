@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <skill id="27440" levels="10" name="Cat's Eye">
+        <set name="icon" val="icon.bm_jewel_red_catseye"/>
+        <table name="#cAtk">1.02 1.04 1.06 1.08 1.15 1.16 1.17 1.18 1.19 1.20</table>
+       <table name="#mCritDamage">1.02 1.04 1.06 1.08 1.15 1.16 1.17 1.18 1.19 1.20</table>
+        <table name="#skillsPower">1 1 1 1 1 1.01 1.02 1.03 1.05 1.07</table>
+        <table name="#debuffResist">1 1 1 1 1 1 1 1 1 1.4</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="cAtk" val="#cAtk"/>
+            <mul order="0x30" stat="mCritDamage" val="#mCritDamage"/>
+            <mul order="0x30" stat="skillPower" val="#skillsPower"/>
+            <mul order="0x30" stat="magicDamage" val="#skillsPower"/>
+            <mul order="0x30" stat="debuffResist" val="#debuffResist"/>
+        </for>
+    </skill>
+</list>

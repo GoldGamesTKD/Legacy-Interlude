@@ -1,0 +1,1 @@
+ALTER TABLE `characters` ADD COLUMN `raidBossPoints` INT(10) NULL DEFAULT '0' AFTER `pcBangPoints`;

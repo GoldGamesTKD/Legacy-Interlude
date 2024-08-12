@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+    <skill id="59150" levels="10" name="Ruby">
+        <set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+        <table name="#ssBonus">1.02 1.03 1.05 1.08 1.16 1.17 1.18 1.19 1.20 1.20</table>
+        <table name="#pAtkBonus">1 1 1 1 1 1.01 1.02 1.03 1.05 1.07</table>
+        <table name="#cAtkBonus">1 1 1 1 1 1 1 1 1 1.05</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="ssBonus" val="#ssBonus"/>
+            <mul order="0x30" stat="pAtk" val="#pAtkBonus"/>
+            <mul order="0x30" stat="rCrit" val="#cAtkBonus"/>
+        </for>
+    </skill>
+    <skill id="59151" levels="10" name="Sapphire">
+        <set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+        <table name="#spsBonus">1.02 1.03 1.05 1.08 1.16 1.17 1.18 1.19 1.20 1.20</table>
+        <table name="#mAtkBonus">1 1 1 1 1 1.02 1.04 1.06 1.10 1.14</table>
+        <table name="#cAtkBonus">1 1 1 1 1 1 1 1 1 1.05</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <mul order="0x30" stat="spsBonus" val="#spsBonus"/>
+            <mul order="0x30" stat="bspsBonus" val="#spsBonus"/>
+            <mul order="0x30" stat="mAtk" val="#mAtkBonus"/>
+            <mul order="0x30" stat="rCrit" val="#cAtkBonus"/>
+        </for>
+    </skill>
+    <skill id="59152" levels="10" name="Emerald">
+        <set name="icon" val="icon.etc_bm_jewel_emerald_i00"/>
+        <table name="#CON">1 1 1 1 1 2 2 2 2 2</table>
+        <table name="#MEN">0 1 1 1 1 1 2 2 2 2</table>
+        <table name="#DEX">0 0 1 1 1 1 1 2 2 2</table>
+        <table name="#WIT">0 0 0 1 1 1 1 1 2 2</table>
+        <table name="#STR">0 0 0 0 1 1 1 1 1 2</table>
+        <table name="#INT">0 0 0 0 1 1 1 1 1 2</table>
+        <table name="#reflectVuln">1 1 1 1 1 1.02 1.04 1.06 1.1 1.2</table>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_PASSIVE"/>
+        <for>
+            <add order="0x40" stat="CON" val="#CON"/>
+            <add order="0x40" stat="MEN" val="#MEN"/>
+            <add order="0x40" stat="DEX" val="#DEX"/>
+            <add order="0x40" stat="WIT" val="#WIT"/>
+            <add order="0x40" stat="STR" val="#STR"/>
+            <add order="0x40" stat="INT" val="#INT"/>
+            <!-- TODO: check about reflect. Block and return or jsut vuln ? -->
+            <mul order="0x30" stat="reflectAndBlockDam" val="#reflectVuln" />
+            <mul order="0x30" stat="reflectAndBlockPSkillDam" val="#reflectVuln" />
+            <mul order="0x30" stat="reflectAndBlockMSkillDam" val="#reflectVuln" />
+        </for>
+    </skill>
+    <skill id="59156" levels="1" name="Greater Aquamarine - Special Ability">
+        <!-- When using a special skill immediately recovers 10% MP. -->
+        <set name="icon" val="icon.bm_jewel_castmpup_high_lv1_lavianrose"/>
+        <set name="magicLevel" val="1"/>
+        <set name="target" val="TARGET_SELF"/>
+        <set name="skillType" val="BUFF"/>
+        <set name="operateType" val="OP_ACTIVE"/>
+        <set name="reuseDelay" val="300000"/>
+        <set name="isReuseDelayPermanent" val="true"/>
+        <for>
+            <effect count="1" name="ManaHealPercent" time="0" val="10"/>
+        </for>
+    </skill>
+</list>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="54021" levels="15" name="Talisman of Authority Lv. 1">
+		<!-- By the energy of Power P./ M. Def. +13, Max HP +6%, Max MP +2%, P./ M. Atk. +2%. -->
+		<table name="#pdef">13 15 18 20 24 26 31 36 41 46 51 55 59 63 70</table>
+		<table name="#mdef">13 15 18 20 24 26 31 36 41 46 51 55 59 63 70</table>
+		<table name="#maxhp">1.06 1.08 1.10 1.12 1.12 1.12 1.14 1.16 1.18 1.18 1.18 1.20 1.22 1.24 1.30</table>
+		<table name="#maxmp">1.02 1.04 1.06 1.08 1.08 1.08 1.10 1.12 1.14 1.14 1.14 1.16 1.18 1.20 1.25</table>
+		<table name="#patk">1.02 1.02 1.03 1.03 1.05 1.05 1.06 1.07 1.08 1.10 1.10 1.11 1.12 1.13 1.15</table>
+		<table name="#matk">1.02 1.02 1.03 1.03 1.05 1.05 1.06 1.07 1.08 1.10 1.10 1.11 1.12 1.13 1.15</table>
+		<table name="#castSpd">1 1 1 1 1 1.02 1.02 1.03 1.03 1.03 1.04 1.05 1.06 1.07 1.10</table>
+		<table name="#skillPower">1 1 1 1 1 1 1 1 1 1 1.05 1.06 1.07 1.08 1.15</table>
+		<table name="#magicDamage">1 1 1 1 1 1 1 1 1 1 1.10 1.11 1.12 1.13 1.22</table>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<for>
+			<add order="0x40" stat="pDef" val="#pdef"/>
+			<add order="0x40" stat="mDef" val="#mdef"/>
+			<mul order="0x30" stat="maxHp" val="#maxhp"/>
+			<mul order="0x30" stat="maxMp" val="#maxmp"/>
+			<mul order="0x30" stat="pAtk" val="#patk"/>
+			<mul order="0x30" stat="mAtk" val="#matk"/>
+			<mul order="0x30" stat="mAtkSpd" val="#castSpd"/>
+			<mul order="0x30" stat="skillPower" val="#skillPower"/>
+			<mul order="0x30" stat="magicDamage" val="#magicDamage"/>
+		</for>
+	</skill>
+	<skill id="54022" levels="2" name="Power of Shunaiman">
+		<!--
+		By the power of Shunaiman Stun/ Mental attack +5%, Damage Reflection Resistance +10%.
+		By the power of Shunaiman Stun/ Mental attack +15%%, Damage Reflection Resistance +30%%.
+		-->
+		<set name="icon" val="icon.sayhas_talisman_pvp_Lv1"/>
+		<table name="#stun">1.05 1.15</table>
+		<table name="#mental">1.15 1.30</table>
+		<table name="#reflect">10 30</table>
+		<set name="reuseDelay" val="300000"/>
+		<set name="magicLevel" val="80"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="power_of_talisman" time="60" val="0">
+				<mul order="0x30" stat="stunPower" val="#stun"/>
+				<mul order="0x30" stat="mentalPower" val="#mental"/>
+				<add order="0x40" stat="reflectDam" val="#reflect"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="54034" levels="10" name="Anakim's Power">
+		<set name="icon" val="icon.etc_water_rune_i00"/>
+		<table name="#magicLevel">46 49 52 55 58 61 64 67 70 75</table>
+		<table name="#chance">0 0 0 0 0 2 2 2 2 2</table>
+		<table name="#level">1 2 3 4 5 6 7 8 9 10</table>
+		<table name="#matk">1.01 1.01 1.01 1.02 1.02 1.02 1.05 1.08 1.11 1.15</table>
+		<table name="#regMp">5 10 15 20 25 35 45 55 70 90</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="54036" level="#level" type="SUPPORT_MAGICAL_SKILL_USE" chance="#chance"/>
+		</triggers>
+		<for>
+			<mul order="0x30" stat="mAtk" val="#matk"/>
+			<add order="0x40" stat="mpEff" val="#regMp"/>
+		</for>
+	</skill>
+	<skill id="54035" levels="10" name="Lilith's Power">
+		<set name="icon" val="icon.etc_fire_rune_i00"/>
+		<table name="#magicLevel">46 49 52 55 58 61 64 67 70 75</table>
+		<table name="#chance">0 0 0 0 0 2 2 2 2 2</table>
+		<table name="#level">1 2 3 4 5 6 7 8 9 10</table>
+		<table name="#pAtk">1.01 1.01 1.01 1.02 1.02 1.02 1.05 1.08 1.11 1.15</table>
+		<table name="#hpEff">1.01 1.02 1.03 1.04 1.05 1.05 1.07 1.09 1.12 1.15</table>
+		<set name="magicLevel" val="#magicLevel"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_PASSIVE"/>
+		<triggers>
+			<trigger id="54037" level="#level" type="ATTACK" chance="#chance"/>
+		</triggers>
+		<for>
+			<mul order="0x30" stat="pAtk" val="#pAtk"/>
+			<mul order="0x30" stat="hpEff" val="#hpEff"/>
+		</for>
+	</skill>
+	<skill id="54036" levels="10" name="Anakim Recovery">
+		<table name="#power">0 0 0 0 0 75 150 225 300 600</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill0000"/>
+		<set name="power" val="#power"/>
+		<set name="magicLevel" val="76"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="MANAHEAL"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="54037" levels="10" name="Anakim Recovery">
+		<table name="#power">0 0 0 0 0 100 200 300 400 900</table>
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.skill0000"/>
+		<set name="power" val="#power"/>
+		<set name="magicLevel" val="76"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="HEAL"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+	</skill>
+	<skill id="54028" levels="1" name="XP/SP Scroll">
+		<!-- For 20 min., Acquired attribute XP +20%. -->
+		<table name="#power">1.2</table>
+		<table name="#itemId">91030</table>
+		<table name="#abnormal_lv">1</table>
+		<set name="itemConsumeId" val="#itemId"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="icon" val="icon.elemental_bless_scrl_i00"/>
+		<set name="magicLevel" val="1"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<set name="cancelable" val="false"/>
+		<set name="isIgnorBuffLimit" val="true" />
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="altUse" val="true"/>
+		<set name="isHandler" val="true"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackType="vote" stackOrder="#abnormal_lv" time="1200" val="0">
+				<mul order="0x30" stat="ExpMultiplier" val="#power"/>
+			</effect>
+		</for>
+	</skill>
+	<skill id="54071" levels="1" name="Battle Scroll">
+		<!-- For 20 min., P. Atk. +200, M. Atk. +350, P. Critical Rate/ M. Skill Critical Rate +30, Atk./ Casting Spd. +50, P./ M. Def. +200, Max HP/ MP/ CP +500. -->
+		<set name="magicType" val="MAGIC"/>
+		<set name="icon" val="icon.ev_charge_scroll"/>
+		<set name="magicLevel" val="1"/>
+		<set name="reuseDelay" val="60000"/>
+		<set name="hitTime" val="500"/>
+		<set name="hitCancelTime" val="500"/>
+		<set name="itemConsumeId" val="91780"/>
+		<set name="itemConsumeCount" val="1"/>
+		<set name="isHandler" val="true"/>
+		<set name="isPreservedOnDeath" val="true" />
+		<set name="cancelable" val="false"/>
+		<set name="altUse" val="true"/>
+		<set name="target" val="TARGET_SELF"/>
+		<set name="skillType" val="BUFF"/>
+		<set name="operateType" val="OP_ACTIVE"/>
+		<cond msgId="1509">
+			<not>
+				<player olympiad="true" />
+			</not>
+		</cond>
+		<for>
+			<effect count="1" name="Buff" stackOrder="1" stackType="ancient" time="1200" val="0">
+				<add order="0x40" stat="pAtk" val="400"/>
+				<add order="0x40" stat="pAtk" val="350"/>
+				<add order="0x40" stat="rCrit" val="30"/>
+				<add order="0x40" stat="mCritRate" val="30"/>
+				<add order="0x40" stat="pAtkSpd" val="50"/>
+				<add order="0x40" stat="mAtkSpd" val="50"/>
+				<add order="0x40" stat="pDef" val="200"/>
+				<add order="0x40" stat="mDef" val="200"/>
+				<add order="0x40" stat="maxHp" val="500"/>
+				<add order="0x40" stat="maxMp" val="500"/>
+				<add order="0x40" stat="maxCp" val="500"/>
+			</effect>
+		</for>
+	</skill>
+</list>

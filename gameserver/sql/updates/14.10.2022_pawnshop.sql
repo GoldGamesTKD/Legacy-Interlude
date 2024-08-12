@@ -1,0 +1,2 @@
+ALTER TABLE `pawnshop` ADD COLUMN `createdAt` INT(10) NOT NULL FIRST;
+UPDATE pawnshop SET createdAt=(SELECT UNIX_TIMESTAMP());
