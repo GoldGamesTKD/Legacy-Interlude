@@ -1,10 +1,10 @@
 @echo off
 
-set PATH="C:\Program Files\MySQL\MySQL Server 8.3\bin"
+set PATH="C:\Program Files\MariaDB 11.4\bin"
 
 set USER=root
-set PASS=2420256963tkD!
-set DBNAME=legacy_e_3
+set PASS=2420256963tkD
+set DBNAME=l2_auth_legacy
 set DBHOST=localhost
 
 mysql -h %DBHOST% -u %USER% --password=%PASS% -Bse "use %DBNAME%" > nul 2>&1
